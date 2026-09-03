@@ -21,10 +21,22 @@
     "date_found": "2026-08-08",
     "title": "CORDISTE F/H Irata 1 ou 2"
   },
+  "http://offres.emploi-cordiste.fr/listing/cordistes-2/": {
+    "company": "via emploi-cordiste.fr",
+    "date_found": "2026-09-03",
+    "title": "CORDISTES"
+  },
   "http://offres.emploi-cordiste.fr/listing/techniciens-de-maintenance-eolien-onshore-et-offshore-france/": {
     "company": "Not disclosed",
     "date_found": "2026-08-13",
     "title": "Techniciens de maintenance éolien (Onshore et Offshore)"
+  },
+  "http://www.escaladeropeaccess.co.uk/": {
+    "company": "Escalade Rope Access Ltd",
+    "country": "United Kingdom",
+    "date_found": "2026-09-02",
+    "location": "Belfast, Northern Ireland",
+    "title": "Rope Access Technician (ongoing recruitment)"
   },
   "https://2high.it/category/offerte-di-lavoro/": {
     "company": "2High Srl",
@@ -213,6 +225,13 @@
     "date_found": "2026-08-13",
     "title": "Industriklättrare"
   },
+  "https://arbordivision.co.uk/contact-us/job-vacancies": {
+    "company": "Arbor Division Ltd",
+    "country": "United Kingdom",
+    "date_found": "2026-09-02",
+    "location": "UK-wide (rail/utility/commercial)",
+    "title": "Team Leader Arborist Climber"
+  },
   "https://aventura-amazonia.com/ofertas-de-empleo/tecnicos-deportivos-ii-y-tecnicos-trabajos-verticales": {
     "company": "Aventura Amazonia",
     "date_found": "2026-08-15",
@@ -229,6 +248,13 @@
     "company": "Baltic DIA",
     "date_found": "2026-08-11",
     "title": "IRATA Technicians (recruitment listing)"
+  },
+  "https://basf.jobs/content/apply/?extJobId=87711-de_DE": {
+    "company": "BASF SE",
+    "country": "Germany",
+    "date_found": "2026-09-02",
+    "location": "Ludwigshafen am Rhein",
+    "title": "Montagekoordination Industriekletterer:in mit Level 3 (m/w/d)"
   },
   "https://basf.jobs/dark_blue_EMEA/job/Ludwigshafen-am-Rhein-Industrieklettererin-Seilzugangstechnikerin-mit-Level-3-%28mwd%29/1293900801/": {
     "company": "BASF SE",
@@ -309,6 +335,13 @@
     "date_found": "2026-08-17",
     "title": "Rope Access Rigger vacancies (careers page)"
   },
+  "https://belgique-travaux-hauteur.be/": {
+    "company": "BTH (Belgique Travaux en Hauteur)",
+    "country": "Belgium",
+    "date_found": "2026-09-02",
+    "location": "Mouscron, Wallonia",
+    "title": "Technicien(ne) Cordiste"
+  },
   "https://belgique-travaux-hauteur.be/recrutement-2/": {
     "company": "B-T-H / Belgique Travaux en Hauteur",
     "date_found": "2026-08-12",
@@ -340,6 +373,20 @@
     "location": "Netherlands",
     "title": "Uitvoerder Rope Access"
   },
+  "https://candidat.francetravail.fr/offres/recherche/detail/173LXTG": {
+    "company": "(agency listing)",
+    "country": "France",
+    "date_found": "2026-08-31",
+    "location": "Herblay-sur-Seine (95)",
+    "title": "Chef d'Équipe Cordiste (H/F)"
+  },
+  "https://candidat.francetravail.fr/offres/recherche/detail/186BQWP": {
+    "company": "(agency listing)",
+    "country": "France",
+    "date_found": "2026-08-31",
+    "location": "Annecy (74)",
+    "title": "Chef d'Équipe Cordiste (H/F)"
+  },
   "https://candidat.francetravail.fr/offres/recherche/detail/188QFMV": {
     "company": "via France Travail",
     "date_found": "2026-08-18",
@@ -359,6 +406,13 @@
     "location": "Bordeaux, France",
     "title": "Cordiste Peinture avec ACQPA2 (F/H)"
   },
+  "https://candidat.francetravail.fr/offres/recherche/detail/195HXFB": {
+    "company": "(agency listing)",
+    "country": "France",
+    "date_found": "2026-08-31",
+    "location": "Le Muy (83)",
+    "title": "Chef / Cheffe d'Équipe Cordiste (H/F)"
+  },
   "https://candidat.francetravail.fr/offres/recherche/detail/198TFXL": {
     "company": "Not disclosed",
     "country": "France",
@@ -366,10 +420,45 @@
     "location": "Cordemais (44), France",
     "title": "Cordiste Maintenance Industrielle H/F"
   },
+  "https://candidat.francetravail.fr/offres/recherche/detail/201BTQZ": {
+    "company": "(agency listing)",
+    "country": "France",
+    "date_found": "2026-08-31",
+    "location": "Auray (56)",
+    "title": "Chef d'Équipe Cordiste (H/F)"
+  },
+  "https://candidat.francetravail.fr/offres/recherche/detail/202NHGQ": {
+    "company": "(agency listing)",
+    "country": "France",
+    "date_found": "2026-08-31",
+    "location": "Vigneux-de-Bretagne (44)",
+    "title": "Électriciens Cordistes Offshore (H/F)"
+  },
   "https://candidat.francetravail.fr/offres/recherche/detail/205BKGJ": {
     "company": "France Travail listing 205BKGJ",
     "date_found": "2026-08-13",
     "title": "Nacelliste"
+  },
+  "https://candidat.francetravail.fr/offres/recherche/detail/205YPST": {
+    "company": "(agency listing)",
+    "country": "France",
+    "date_found": "2026-08-31",
+    "location": "Caen (14)",
+    "title": "Cordiste (H/F)"
+  },
+  "https://candidat.francetravail.fr/offres/recherche/detail/206JKVR": {
+    "company": "LPA (Lauragais Pyrénées Accès)",
+    "country": "France",
+    "date_found": "2026-09-02",
+    "location": "Toulouse (31)",
+    "title": "Cordiste BTP (H/F)"
+  },
+  "https://candidat.francetravail.fr/offres/recherche/detail/206KWPL": {
+    "company": "(agency listing)",
+    "country": "France",
+    "date_found": "2026-08-31",
+    "location": "Grenoble (38)",
+    "title": "Cordiste (H/F)"
   },
   "https://candidat.francetravail.fr/offres/recherche/detail/206LVXR": {
     "company": "Unspecified (France Travail)",
@@ -385,12 +474,26 @@
     "location": "Meyreuil, France",
     "title": "Cordiste Risques Naturels (H/F)"
   },
+  "https://candidat.francetravail.fr/offres/recherche/detail/206XTJB": {
+    "company": "(agency listing)",
+    "country": "France",
+    "date_found": "2026-08-31",
+    "location": "Nantes (44)",
+    "title": "Chef d'Équipe Cordiste (H/F)"
+  },
   "https://candidat.francetravail.fr/offres/recherche/detail/207DXYQ": {
     "company": "Unspecified (France Travail)",
     "country": "France",
     "date_found": "2026-08-25",
     "location": "Passy, France",
     "title": "Cordiste (H/F)"
+  },
+  "https://candidat.francetravail.fr/offres/recherche/detail/207GBTD": {
+    "company": "(agency listing)",
+    "country": "France",
+    "date_found": "2026-08-31",
+    "location": "Chasse-sur-Rhône (38)",
+    "title": "Chef d'Équipe Cordiste – Lyon & Région AURA"
   },
   "https://candidat.francetravail.fr/offres/recherche/detail/207GDNX": {
     "company": "Unspecified (France Travail)",
@@ -417,6 +520,13 @@
     "company": "France Travail listing 209JSBN",
     "date_found": "2026-08-13",
     "title": "Nacelliste"
+  },
+  "https://candidat.francetravail.fr/offres/recherche/detail/212BCKP": {
+    "company": "via France Travail",
+    "country": "France",
+    "date_found": "2026-09-02",
+    "location": "Pierrelatte (26)",
+    "title": "Formation Technicien Cordiste Nucléaire (H/F)"
   },
   "https://candidat.pole-emploi.fr/offres/recherche/detail/131RZQM": {
     "company": "Via France Travail (rope-access staffing assignment)",
@@ -476,6 +586,13 @@
     "date_found": "2026-08-14",
     "title": "Multi-Disciplined NDT Rope Access Technician"
   },
+  "https://careers.vestas.com/job/Aarhus-C-Travelling-Service-Technician-Offshore-Regi/1374765533/": {
+    "company": "Vestas",
+    "country": "Denmark",
+    "date_found": "2026-09-02",
+    "location": "Aarhus C",
+    "title": "Travelling Service Technician – Offshore"
+  },
   "https://careers.vestas.com/job/Aarhus-N-Service-Technician-Regi/1395584833/": {
     "company": "Vestas",
     "date_found": "2026-08-15",
@@ -509,6 +626,13 @@
     "location": "Frankfurt am Main area, Germany",
     "title": "Servicetechniker (m/w/d) Rotorblattreparatur, Raum Frankfurt am Main"
   },
+  "https://cargadetrabalhos.pt/ofertas/tecnico-de-montagem-em-eventos/": {
+    "company": "Mainvision – Media Solutions",
+    "country": "Portugal",
+    "date_found": "2026-09-01",
+    "location": "Portugal",
+    "title": "Técnico de Montagem em Eventos"
+  },
   "https://carriere.altradendel.com/jobs/7039426-cordiste-cqp-2-h-f": {
     "company": "Altrad Endel",
     "country": "France",
@@ -537,6 +661,13 @@
     "company": "COMANTUR",
     "date_found": "2026-08-14",
     "title": "Técnico en Trabajos Verticales (IRATA L1/L2 + GWO BST)"
+  },
+  "https://crewbase.pro/jobs/B6VMcZzudfGazXqJxFco": {
+    "company": "Muehlhan Wind Service",
+    "country": "Denmark",
+    "date_found": "2026-09-02",
+    "location": "Offshore windfarm vessels, Scandinavia/Greece",
+    "title": "IRATA L3 Technician"
   },
   "https://cultureetspectacle.francetravail.fr/je-me-forme-ou-je-travaille/offres-emploi/203XWXH": {
     "company": "Culture et Spectacle / France Travail",
@@ -726,6 +857,11 @@
     "date_found": "2026-08-21",
     "title": "Oficial Trabajos Verticales – Madrid"
   },
+  "https://es.indeed.com/viewjob?jk=93b55e2fbad125e5": {
+    "company": "via Indeed",
+    "date_found": "2026-09-03",
+    "title": "Poda y tala en altura"
+  },
   "https://es.jooble.org/jdp/-5371702999836379210": {
     "company": "Acrobatica Iberica",
     "country": "Spain",
@@ -800,6 +936,11 @@
     "date_found": "2026-08-06",
     "location": "Barcelona",
     "title": "Especialista en Trabajos Verticales IRATA/ANTEVA"
+  },
+  "https://espace-emploi.agefiph.fr/candidat/offres/offre-d-emploi-cordiste-h-f-rennes-bretagne-interim-20054424": {
+    "company": "Groupe LIP",
+    "date_found": "2026-09-03",
+    "title": "Cordiste (H/F)"
   },
   "https://europalco.factorialhr.pt/job_posting/rigger-sintra-267230": {
     "company": "Europalco, SA",
@@ -988,6 +1129,11 @@
     "date_found": "2026-08-13",
     "title": "Chef d'équipe Technicien Cordiste H/F"
   },
+  "https://fr.linkedin.com/jobs/view/contr%C3%B4leurs-euses-cnd-h-f-at-mistras-group-inc-3592243907": {
+    "company": "MISTRAS Group, Inc.",
+    "date_found": "2026-09-03",
+    "title": "Contrôleurs(euses) CND H/F"
+  },
   "https://fr.linkedin.com/jobs/view/cordiste-at-soluces-rh-accro-3387639043": {
     "company": "SOLUCES RH ACCRO",
     "date_found": "2026-08-08",
@@ -1049,6 +1195,11 @@
     "date_found": "2026-08-12",
     "title": "Cordiste H/F"
   },
+  "https://fr.linkedin.com/jobs/view/cordiste-h-f-at-soluces-rh-accro-3096788469": {
+    "company": "SOLUCES RH ACCRO",
+    "date_found": "2026-09-03",
+    "title": "Cordiste (H/F)"
+  },
   "https://fr.linkedin.com/jobs/view/cordiste-risques-naturels-h-f-at-can-3424316127": {
     "company": "CAN (Groupe CAN)",
     "date_found": "2026-08-11",
@@ -1071,6 +1222,13 @@
     "date_found": "2026-08-12",
     "title": "Cordiste — travaux de maçonnerie/peinture (H/F), CQP1 requis"
   },
+  "https://fr.linkedin.com/jobs/view/formation-cordiste-urbain-h-f-at-ediliziacrobatica-france-4045810731": {
+    "company": "EdiliziAcrobatica France",
+    "country": "France",
+    "date_found": "2026-08-31",
+    "location": "Toulouse/Nice/Marseille/Perpignan/Lyon",
+    "title": "Formation Cordiste Urbain (H/F)"
+  },
   "https://fr.linkedin.com/jobs/view/rope-access-technician-technicien-cordiste-at-profil-armor-3715830334": {
     "company": "Profil Armor",
     "country": "France",
@@ -1090,10 +1248,32 @@
     "location": "Annecy, France",
     "title": "Technicien Cordiste"
   },
+  "https://fr.linkedin.com/jobs/view/technicien-cordiste-cordiste-pour-chantiers-a-angers-at-cordial-2872874000": {
+    "company": "CORDIAL",
+    "date_found": "2026-09-03",
+    "title": "Technicien Cordiste (chantiers à Angers)"
+  },
   "https://fr.linkedin.com/jobs/view/technicien-cordiste-h-f-at-gezim-emploi-3844492866": {
     "company": "GEZIM Emploi",
     "date_found": "2026-08-12",
     "title": "Technicien Cordiste H/F"
+  },
+  "https://fr.linkedin.com/jobs/view/technicien-technicienne-cordiste-h-f-at-profil-armor-3834707514": {
+    "company": "Profil armor",
+    "date_found": "2026-09-03",
+    "title": "Technicien / Technicienne cordiste (H/F)"
+  },
+  "https://fr.linkedin.com/posts/sarldevers_cordiste-recrutement-industrie-activity-7294667671143333888-Atsl": {
+    "company": "Devers",
+    "date_found": "2026-09-03",
+    "title": "Devers recrute ses futurs cordistes"
+  },
+  "https://frielingsdorf-group.de/stellenangebote-industriekletterer/": {
+    "company": "Frielingsdorf Nord GmbH",
+    "country": "Germany",
+    "date_found": "2026-09-02",
+    "location": "Germany-wide",
+    "title": "Industriekletterer (d/m/w), Quereinsteiger möglich"
   },
   "https://futureservices.eu/on-offshore-touwtechnieker/": {
     "company": "Future Services",
@@ -1154,6 +1334,11 @@
     "date_found": "2026-08-29",
     "location": "Various German locations",
     "title": "Open Positions in Wind Turbine Service (multiple roles)"
+  },
+  "https://globalwindservice.com/join-us/open-positions/?offer=rope-access-technician": {
+    "company": "Global Wind Service",
+    "date_found": "2026-09-03",
+    "title": "Rope Access Technician — open positions"
   },
   "https://globalwindservice.com/join-us/open-positions/?offer=wind-turbine-blade-technician": {
     "company": "Global Wind Service",
@@ -1344,6 +1529,20 @@
     "date_found": "2026-08-17",
     "title": "Operatore Su Fune"
   },
+  "https://it.indeed.com/viewjob?jk=04a0f7542d1863de": {
+    "company": "via Indeed",
+    "country": "Italy",
+    "date_found": "2026-09-02",
+    "location": "Roma, Lazio",
+    "title": "Operaio su fune"
+  },
+  "https://it.indeed.com/viewjob?jk=4ff195ed5c6a178f": {
+    "company": "via Indeed",
+    "country": "Italy",
+    "date_found": "2026-09-02",
+    "location": "Milano, Lombardia",
+    "title": "Muratore su fune"
+  },
   "https://it.indeed.com/viewjob?jk=6339000074302c88": {
     "company": "Not disclosed",
     "date_found": "2026-08-13",
@@ -1358,6 +1557,16 @@
     "company": "Various (LinkedIn)",
     "date_found": "2026-08-12",
     "title": "Rope Access Technician (259 listings, aggregator)"
+  },
+  "https://it.linkedin.com/jobs/view/muratore-operaio-edile-biella-at-ediliziacrobatica%C2%AE-s-p-a-3578120553": {
+    "company": "EdiliziAcrobatica S.p.A.",
+    "date_found": "2026-09-03",
+    "title": "Muratore/Operaio Edile — Biella"
+  },
+  "https://it.linkedin.com/jobs/view/muratore-operaio-edile-bologna-at-ediliziacrobatica%C2%AE-s-p-a-3983219455": {
+    "company": "EdiliziAcrobatica S.p.A.",
+    "date_found": "2026-09-03",
+    "title": "Muratore/Operaio Edile — Bologna"
   },
   "https://it.linkedin.com/jobs/view/rope-access-technician-at-show-crew-srl-3788168239": {
     "company": "Show Crew Srl",
@@ -1480,6 +1689,13 @@
     "location": "Bergschenhoek, NL",
     "title": "Industrieel vakman Rope Access"
   },
+  "https://jobs.bilfinger.com/job/Esbjerg-NDT-Technician-Onshore-83-DK/1076090601/": {
+    "company": "Bilfinger Danmark A/S",
+    "country": "Denmark",
+    "date_found": "2026-09-02",
+    "location": "Esbjerg",
+    "title": "NDT Technician Onshore"
+  },
   "https://jobs.bilfinger.com/job/Hamburg-Level-3-Industriekletterer-(mwd)-HH-21107/1228417501/": {
     "company": "Bilfinger",
     "date_found": "2026-08-09",
@@ -1586,6 +1802,11 @@
     "location": "Hannover",
     "title": "Industriekletterer (m/w/d) Rotorblattreparaturen"
   },
+  "https://jobs.rts-wind.de/stellenangebote/Industriekletterer-m-w-d-Rotorblattreparaturen-Magdeburg-RTS-Wind-AG--840939389": {
+    "company": "RTS Wind AG",
+    "date_found": "2026-09-03",
+    "title": "Industriekletterer (m/w/d) Rotorblattreparaturen — Magdeburg"
+  },
   "https://jobs.rts-wind.de/stellenangebote/Offshore-Industriekletterer-m-w-d-Windenergie-Bremen-RTS-Wind-AG--783367583": {
     "company": "RTS Wind AG",
     "country": "Germany",
@@ -1613,6 +1834,16 @@
     "date_found": "2026-08-22",
     "location": "Kiel",
     "title": "Offshore Industriekletterer (m/w/d) Windenergie"
+  },
+  "https://jobs.rts-wind.de/stellenangebote/Offshore-Industriekletterer-m-w-d-Windenergie-Muenster-RTS-Wind-AG--411282111": {
+    "company": "RTS Wind AG",
+    "date_found": "2026-09-03",
+    "title": "Offshore Industriekletterer (m/w/d) Windenergie — Münster"
+  },
+  "https://jobs.rts-wind.de/stellenangebote/Offshore-Teamleiter-Seilzugangstechnik-m-w-d-Kiel-RTS-Wind-AG--398432611": {
+    "company": "RTS Wind AG",
+    "date_found": "2026-09-03",
+    "title": "Offshore Teamleiter Seilzugangstechnik (m/w/d)"
   },
   "https://jobs.rts-wind.de/stellenangebote/Seilzugangstechniker-all-genders-Rotorblattreparaturen-Frankfurt-am-Main-RTS-Wind-AG--18411870": {
     "company": "RTS Wind AG",
@@ -1698,6 +1929,11 @@
     "company": "Bergen Trepleie A/S",
     "date_found": "2026-08-11",
     "title": "Treklatrer / Arborist"
+  },
+  "https://karrierestart.no/ledig-stilling/1152319": {
+    "company": "Linjebygg",
+    "date_found": "2026-09-03",
+    "title": "Tilkomttekniker nivå 1"
   },
   "https://karrierestart.no/ledig-stilling/1152793": {
     "company": "Odfjell Drilling Technology",
@@ -2012,6 +2248,13 @@
     "location": "Denmark (offshore)",
     "title": "Rope Access Technician for Offshore Project (Denmark)"
   },
+  "https://oceanwidecrew.com/vacancies/vacancy/service-technician-blade-repair-netherlands-and-utrecht~2023-00501": {
+    "company": "Oceanwide Crew",
+    "country": "Netherlands",
+    "date_found": "2026-09-02",
+    "location": "Onshore windfarms NL/BE",
+    "title": "Service Technician – Blade Repair (NL and BE)"
+  },
   "https://offertelavoro.samsic-hr.it/it/offerte/bol-1028000-manutentore-operatore-fune-m-f-x": {
     "company": "Samsic Emploi (Samsic HR Italia)",
     "date_found": "2026-08-08",
@@ -2058,6 +2301,11 @@
     "location": "France",
     "title": "Cordiste + GWO FULL"
   },
+  "https://offres.emploi-cordiste.fr/listing/cordiste-gwo-h-f-2/": {
+    "company": "via emploi-cordiste.fr",
+    "date_found": "2026-09-03",
+    "title": "Cordiste – GWO – H/F"
+  },
   "https://offres.emploi-cordiste.fr/listing/cordiste-industrie-ope-ss4-plomb/": {
     "company": "Employer via emploi-cordiste.fr",
     "country": "France",
@@ -2071,6 +2319,11 @@
     "date_found": "2026-08-22",
     "location": "France",
     "title": "Cordiste Parc Éolien"
+  },
+  "https://offres.emploi-cordiste.fr/listing/cordiste-savoie/": {
+    "company": "via emploi-cordiste.fr",
+    "date_found": "2026-09-03",
+    "title": "Cordiste Savoie"
   },
   "https://offres.emploi-cordiste.fr/listing/cordiste-soudeur-arc-acier/": {
     "company": "Employer via emploi-cordiste.fr",
@@ -2092,6 +2345,11 @@
     "date_found": "2026-08-22",
     "location": "Geneva",
     "title": "Cordiste vitreux – Genève"
+  },
+  "https://offres.emploi-cordiste.fr/listing/cordistes-h-f-20/": {
+    "company": "via emploi-cordiste.fr",
+    "date_found": "2026-09-03",
+    "title": "Cordistes H/F"
   },
   "https://offres.emploi-cordiste.fr/listing/cordistes-h-f-chantier-naval-saint-nazaire/": {
     "company": "(via Emploi-Cordiste board)",
@@ -2241,6 +2499,11 @@
     "date_found": "2026-08-22",
     "location": "Amadora, Lisboa",
     "title": "Alpinista Industrial"
+  },
+  "https://rebatirnotredamedeparis.fr/en/careers/rope-access-technician": {
+    "company": "Rebâtir Notre-Dame de Paris",
+    "date_found": "2026-09-03",
+    "title": "Rope Access Technician"
   },
   "https://rebteknikeren.dk/job/": {
     "company": "Rebteknikeren ApS",
@@ -2430,6 +2693,18 @@
     "date_found": "2026-08-13",
     "title": "OPERATORE SU FUNE – edilizia"
   },
+  "https://talents.studysmarter.co.uk/companies/3t-training-services-uk/rope-access-instructor-lead-technical-training-48591375/": {
+    "company": "3t | Training Services (UK)",
+    "date_found": "2026-09-03",
+    "title": "Rope Access Instructor — Lead Technical Training"
+  },
+  "https://talents.studysmarter.co.uk/companies/can-group/rope-access-ndt-technician-310857/": {
+    "company": "CAN Group",
+    "country": "United Kingdom",
+    "date_found": "2026-09-02",
+    "location": "Barrow-in-Furness",
+    "title": "Rope Access NDT Technician"
+  },
   "https://talents.studysmarter.co.uk/companies/interocean/gwo-rope-access-technician-level-1-2-or-3-8434775": {
     "company": "Interocean",
     "date_found": "2026-08-21",
@@ -2458,6 +2733,28 @@
     "company": "Sonomatic RAIS",
     "date_found": "2026-08-11",
     "title": "Offshore NDT Tech: IRATA L1 + UT PCN (1 Week)"
+  },
+  "https://talents.studysmarter.co.uk/companies/stork-technical-services-uk-ltd/rope-access-multi-ndt-technician-6147938/": {
+    "company": "Stork Technical Services UK Ltd",
+    "date_found": "2026-09-03",
+    "title": "Rope Access Multi-disciplined NDT Technician"
+  },
+  "https://talents.studysmarter.co.uk/companies/stork-uk/rope-access-level-1-ndt-technician-5061399/": {
+    "company": "Stork UK",
+    "date_found": "2026-09-03",
+    "title": "Rope Access Level 1 NDT Technician"
+  },
+  "https://talents.studysmarter.co.uk/companies/vertical-access-ltd/geotechnical-rope-access-technician-10640492/": {
+    "company": "Vertical Access Ltd",
+    "date_found": "2026-09-03",
+    "title": "Geotechnical Rope Access Technician (IRATA L3)"
+  },
+  "https://talents.studysmarter.co.uk/companies/windtex/irata-level-3-blade-inspection-and-repair-technicians-6898822/": {
+    "company": "Windtex",
+    "country": "United Kingdom",
+    "date_found": "2026-09-01",
+    "location": "UK",
+    "title": "IRATA Level 3 Blade Inspection and Repair Technicians"
   },
   "https://team.jobs/fr/offres-demplois/dachdecker-polybauer/cordiste-travailleur-sur-cordes-(irata-ou-cqp)-urbain/EEycl0Nb46DgzU6gQqCwox": {
     "company": "das team ag",
@@ -2522,6 +2819,13 @@
     "date_found": "2026-08-28",
     "location": "Duns, Scotland",
     "title": "Wind Turbine Technician (Vestas Experience Preferred)"
+  },
+  "https://to.indeed.com/aa27xwgc8rwp": {
+    "company": "Interocean",
+    "country": "United Kingdom",
+    "date_found": "2026-09-01",
+    "location": "Aberdeen",
+    "title": "Rope Access level 1 or 2"
   },
   "https://to.indeed.com/aa284jbps8zy": {
     "company": "BES Group / Inspired Access Solutions",
@@ -2724,6 +3028,13 @@
     "location": "Grangemouth, Scotland",
     "title": "Rope Access Painter/Blaster"
   },
+  "https://to.indeed.com/aa2vsvxfqwr8": {
+    "company": "Ediliziaerea Srl",
+    "country": "Italy",
+    "date_found": "2026-08-31",
+    "location": "Desio, Lombardia",
+    "title": "Tecnico Operatore su Fune (Accesso su Fune)"
+  },
   "https://to.indeed.com/aa2ymvrc6f4h": {
     "company": "ENERCON",
     "country": "Portugal",
@@ -2811,6 +3122,13 @@
     "date_found": "2026-08-25",
     "location": "St Helens, England",
     "title": "Scaffolder(s)"
+  },
+  "https://to.indeed.com/aa4b79pbx9w8": {
+    "company": "Vertex Access",
+    "country": "United Kingdom",
+    "date_found": "2026-08-31",
+    "location": "Chesterfield",
+    "title": "Roofer"
   },
   "https://to.indeed.com/aa4bqcwscdwm": {
     "company": "Altrad",
@@ -3023,6 +3341,13 @@
     "location": "Veigné (37), France",
     "title": "ARBORISTE GRIMPEUR (H/F)"
   },
+  "https://to.indeed.com/aa4vjyrvpg9b": {
+    "company": "MACE",
+    "country": "France",
+    "date_found": "2026-09-01",
+    "location": "Trégueux (22)",
+    "title": "Cordiste"
+  },
   "https://to.indeed.com/aa4wczlrzn6d": {
     "company": "Niall Mc Donagh Roofing & Rope Access Services Ltd",
     "country": "Ireland",
@@ -3096,6 +3421,13 @@
     "company": "OCS Group",
     "date_found": "2026-08-05",
     "title": "Rope Access Technician (Level 2)"
+  },
+  "https://to.indeed.com/aa67ty7qdp4q": {
+    "company": "Central (High Rise) Limited",
+    "country": "United Kingdom",
+    "date_found": "2026-08-31",
+    "location": "Nottingham",
+    "title": "Technical Report Writer (Working at Height)"
   },
   "https://to.indeed.com/aa684znrrnkh": {
     "company": "FairWind",
@@ -3302,6 +3634,13 @@
     "date_found": "2026-08-21",
     "title": "Wind Turbine Technician (Carland Cross)"
   },
+  "https://to.indeed.com/aa74xhtfmhl7": {
+    "company": "Steady Climbing GmbH",
+    "country": "Germany",
+    "date_found": "2026-08-31",
+    "location": "Stuhr",
+    "title": "Industriekletterer / Quereinsteiger aus dem Handwerk (m/w/d)"
+  },
   "https://to.indeed.com/aa77s2d2q6sn": {
     "company": "Seilkraft Industriekletterer GmbH",
     "country": "Germany",
@@ -3392,6 +3731,13 @@
     "date_found": "2026-08-13",
     "title": "Examiner – STE4"
   },
+  "https://to.indeed.com/aa7ndfz6dpws": {
+    "company": "Intertek",
+    "country": "Norway",
+    "date_found": "2026-08-31",
+    "location": "Vestlandet",
+    "title": "NDT Level II Inspector (rope access)"
+  },
   "https://to.indeed.com/aa7ndpzc4v46": {
     "company": "REMONDIS Gruppe",
     "country": "Germany",
@@ -3417,6 +3763,13 @@
     "date_found": "2026-08-22",
     "location": "Athenry, County Galway",
     "title": "Heritage Roofer"
+  },
+  "https://to.indeed.com/aa7sq2dzfcpm": {
+    "company": "ALTRAD",
+    "country": "United Kingdom",
+    "date_found": "2026-08-31",
+    "location": "Culham",
+    "title": "Rigger – Culham"
   },
   "https://to.indeed.com/aa7vqw8767bp": {
     "company": "Acrobatica",
@@ -3643,6 +3996,13 @@
     "date_found": "2026-08-14",
     "title": "Advanced Scaffolder"
   },
+  "https://to.indeed.com/aa8rdpfkcqkl": {
+    "company": "PROMAN",
+    "country": "France",
+    "date_found": "2026-09-01",
+    "location": "Lille (59)",
+    "title": "Cordiste H/F"
+  },
   "https://to.indeed.com/aa8skpk7fxfg": {
     "company": "CDM Recruit",
     "date_found": "2026-08-21",
@@ -3694,6 +4054,13 @@
     "location": "Dublin",
     "title": "Bridge Inspection and Assessment Engineer"
   },
+  "https://to.indeed.com/aa8zxyvcfsc2": {
+    "company": "Supianek Baugesellschaft mbH",
+    "country": "Germany",
+    "date_found": "2026-09-01",
+    "location": "Hilden",
+    "title": "Monteur (m/w/d) für Sanierungsprojekte im Bereich Windkraftanlagen"
+  },
   "https://to.indeed.com/aa92cypfgt2c": {
     "company": "Central (High Rise) Limited",
     "date_found": "2026-08-13",
@@ -3712,6 +4079,13 @@
     "date_found": "2026-08-05",
     "location": "Lorquí, Murcia",
     "title": "Montador de estructuras de escenarios"
+  },
+  "https://to.indeed.com/aa96kqt8cwbt": {
+    "company": "BlackLine srls",
+    "country": "Italy",
+    "date_found": "2026-09-01",
+    "location": "Genova",
+    "title": "Operatore su fune"
   },
   "https://to.indeed.com/aa97xf4vtxsv": {
     "company": "Altrad",
@@ -3766,10 +4140,24 @@
     "location": "Pamplona, Navarra, Spain",
     "title": "Técnico/a Inspección LPS"
   },
+  "https://to.indeed.com/aa9c74dqx2st": {
+    "company": "Ediliziaerea Srl",
+    "country": "Italy",
+    "date_found": "2026-09-01",
+    "location": "Desio (MB), Lombardia",
+    "title": "Tecnico Operatore su Fune (Accesso su Fune)"
+  },
   "https://to.indeed.com/aa9cdv74lbpz": {
     "company": "GROUPE BALAS",
     "date_found": "2026-08-05",
     "title": "Cordiste CQP2 H/F"
+  },
+  "https://to.indeed.com/aa9cl4s6c6cd": {
+    "company": "Agua-Clean Services",
+    "country": "Ireland",
+    "date_found": "2026-08-31",
+    "location": "Dublin, County Dublin",
+    "title": "IRATA Level 1 Rope Access Technicians"
   },
   "https://to.indeed.com/aa9d8xv24tkt": {
     "company": "BlackLine srls",
@@ -3823,6 +4211,13 @@
     "date_found": "2026-08-08",
     "title": "OPERATORE IN FUNE"
   },
+  "https://to.indeed.com/aa9qy9xgk9gg": {
+    "company": "Mammoet",
+    "country": "United Kingdom",
+    "date_found": "2026-08-31",
+    "location": "Tain",
+    "title": "Rigger"
+  },
   "https://to.indeed.com/aa9s7mdxd72j": {
     "company": "BATIBIG",
     "date_found": "2026-08-05",
@@ -3852,6 +4247,13 @@
     "date_found": "2026-08-22",
     "location": "Genova, Liguria",
     "title": "Operatore su fune"
+  },
+  "https://to.indeed.com/aa9wh2tgspzp": {
+    "company": "SPIE Wind",
+    "country": "Germany",
+    "date_found": "2026-09-01",
+    "location": "Bremen",
+    "title": "Wind Turbine Rope Access Technician – Rotor Blades (m/f/d)"
   },
   "https://to.indeed.com/aa9wk4n88yv4": {
     "company": "Actavo",
@@ -3964,6 +4366,13 @@
     "location": "Arbin (73)",
     "title": "Conducteur de travaux risques naturels F/H"
   },
+  "https://to.indeed.com/aabgz6x4phxw": {
+    "company": "Umana",
+    "country": "Italy",
+    "date_found": "2026-09-01",
+    "location": "Bologna",
+    "title": "OPERATORE IN FUNE"
+  },
   "https://to.indeed.com/aabhhzkdqrq8": {
     "company": "ALTRAD",
     "country": "United Kingdom",
@@ -3977,6 +4386,13 @@
     "date_found": "2026-08-23",
     "location": "Linz am Rhein",
     "title": "Industriekletterer in Ausbildung"
+  },
+  "https://to.indeed.com/aabjz7pmcr8r": {
+    "company": "Intertek",
+    "country": "Norway",
+    "date_found": "2026-09-01",
+    "location": "Vestlandet",
+    "title": "NDT Level II Inspector"
   },
   "https://to.indeed.com/aabk2wsjjh67": {
     "company": "Klätterservice",
@@ -4020,6 +4436,13 @@
     "date_found": "2026-08-23",
     "location": "Saint-Aubin-lès-Elbeuf",
     "title": "Arboriste Élagueur-Grimpeur"
+  },
+  "https://to.indeed.com/aabn7cl7976c": {
+    "company": "Ajb Group",
+    "country": "United Kingdom",
+    "date_found": "2026-08-31",
+    "location": "Thame",
+    "title": "Experienced Arborist / Tree Surgeon"
   },
   "https://to.indeed.com/aabndxqmpznp": {
     "company": "Smith Services Ltd",
@@ -4133,6 +4556,13 @@
     "location": "Brest (29)",
     "title": "Cordiste TP F/H"
   },
+  "https://to.indeed.com/aac7pvtnt47f": {
+    "company": "Dachdienst Hamburg",
+    "country": "Germany",
+    "date_found": "2026-09-01",
+    "location": "Hamburg",
+    "title": "Vollzeit-Kletterer/Industriekletterer"
+  },
   "https://to.indeed.com/aac7w7rtwhdk": {
     "company": "E-KEEP CARPENTRAS",
     "country": "France",
@@ -4146,6 +4576,13 @@
     "date_found": "2026-08-20",
     "location": "Vlaardingen",
     "title": "Trainer Veilig Werken op Hoogte"
+  },
+  "https://to.indeed.com/aac8c8wnj9mx": {
+    "company": "POWERSERVE",
+    "country": "Ireland",
+    "date_found": "2026-08-31",
+    "location": "Port Laoise, County Laois",
+    "title": "Tree Surgeon/Groundsperson"
   },
   "https://to.indeed.com/aac982xh6yb4": {
     "company": "Mercury Hampton",
@@ -4249,6 +4686,13 @@
     "date_found": "2026-08-21",
     "title": "Cordiste en risques naturels ou urbain F/H"
   },
+  "https://to.indeed.com/aaclltzfmccz": {
+    "company": "Classic Cleaning LTD",
+    "country": "United Kingdom",
+    "date_found": "2026-09-01",
+    "location": "London",
+    "title": "Level 3 Rope Access Technician"
+  },
   "https://to.indeed.com/aacls7lbwctt": {
     "company": "Bidvest Noonan",
     "date_found": "2026-08-13",
@@ -4275,6 +4719,13 @@
     "location": "Parndorf, Niederösterreich, Austria",
     "title": "Blade Technician (m/w/d) for Wind Turbines Blades in Parndorf"
   },
+  "https://to.indeed.com/aacpglfrn2qt": {
+    "company": "Navantia UK",
+    "country": "United Kingdom",
+    "date_found": "2026-08-31",
+    "location": "Stornoway",
+    "title": "Rigger"
+  },
   "https://to.indeed.com/aacqyrqllhrm": {
     "company": "AAT Wind Energy",
     "date_found": "2026-08-24",
@@ -4285,6 +4736,13 @@
     "company": "PROMAN",
     "date_found": "2026-08-21",
     "title": "Cordiste H/F"
+  },
+  "https://to.indeed.com/aacs6ggcrycr": {
+    "company": "3D Mobility",
+    "country": "France",
+    "date_found": "2026-09-01",
+    "location": "Passy (74)",
+    "title": "Cordiste H/F chef d'équipe"
   },
   "https://to.indeed.com/aact8qkc9vwr": {
     "company": "Rope Access Sverige AB (Swire Renewable Energy)",
@@ -4487,6 +4945,20 @@
     "location": "London",
     "title": "Level 3 IRATA Window Cleaner"
   },
+  "https://to.indeed.com/aadnvcz94yvc": {
+    "company": "Stainless Steel Vessels Limited",
+    "country": "United Kingdom",
+    "date_found": "2026-08-31",
+    "location": "Leeds",
+    "title": "Trainee Rigger / Slinger Signaller"
+  },
+  "https://to.indeed.com/aadnzjvvljzk": {
+    "company": "Safer Rig Services",
+    "country": "United Kingdom",
+    "date_found": "2026-08-31",
+    "location": "Avonmouth",
+    "title": "Field Service Fitter and Equipment Examiner"
+  },
   "https://to.indeed.com/aadp6d464xch": {
     "company": "ENERCON",
     "country": "Portugal",
@@ -4534,6 +5006,27 @@
     "company": "Ouest Acro",
     "date_found": "2026-08-21",
     "title": "Cordiste en risques naturels F/H"
+  },
+  "https://to.indeed.com/aadwl28dg9zk": {
+    "company": "interocean",
+    "country": "United Kingdom",
+    "date_found": "2026-08-31",
+    "location": "Aberdeen",
+    "title": "NDT Inspector – Offshore Vessel Project"
+  },
+  "https://to.indeed.com/aadxh6xj8gsw": {
+    "company": "PALMER & CO",
+    "country": "United Kingdom",
+    "date_found": "2026-08-31",
+    "location": "Glasgow",
+    "title": "IRATA Level 2 – Rope Access Technician (Window Cleaning & Property Maintenance)"
+  },
+  "https://to.indeed.com/aadxhyykv22v": {
+    "company": "Vestas",
+    "country": "Germany",
+    "date_found": "2026-09-01",
+    "location": "Potsdam",
+    "title": "Blade Technician (m/w/d), Vogelsdorf"
   },
   "https://to.indeed.com/aadyb9fstmy4": {
     "company": "Heleblitz Services",
@@ -4678,6 +5171,27 @@
     "location": "Montoir-de-Bretagne",
     "title": "Technicien offshore H/F"
   },
+  "https://to.indeed.com/aafpbychvmm6": {
+    "company": "DeepOcean",
+    "country": "Norway",
+    "date_found": "2026-08-31",
+    "location": "Sola",
+    "title": "Tilkomsttekniker med elektriker fagbrev"
+  },
+  "https://to.indeed.com/aafpm7sxmbh6": {
+    "company": "Global Wind Service",
+    "country": "Denmark",
+    "date_found": "2026-09-01",
+    "location": "Fredericia",
+    "title": "Complex Blade Repair Technicians"
+  },
+  "https://to.indeed.com/aafpm82qscxt": {
+    "company": "Ediliziacrobatica France",
+    "country": "France",
+    "date_found": "2026-09-01",
+    "location": "Bordeaux (33)",
+    "title": "Chef d'équipe et assistant cordiste urbain CQP1/CQP2/CATC (H/F)"
+  },
   "https://to.indeed.com/aafq649fvbf8": {
     "company": "AraMex Verticales S.L.U",
     "country": "Spain",
@@ -4738,6 +5252,13 @@
     "date_found": "2026-08-20",
     "location": "Arbin (73), France",
     "title": "Chef d'équipe cordiste risques naturels F/H"
+  },
+  "https://to.indeed.com/aag2mntrrn9y": {
+    "company": "C&D Tree Limited",
+    "country": "United Kingdom",
+    "date_found": "2026-08-31",
+    "location": "Winchester",
+    "title": "Arborist"
   },
   "https://to.indeed.com/aag2qqbvjq2j": {
     "company": "GRUPO EOSOL",
@@ -4820,6 +5341,13 @@
     "location": "Bremen",
     "title": "Wind Turbine Rope Access Technician – Rotor Blades"
   },
+  "https://to.indeed.com/aagbl6978mwv": {
+    "company": "Beechfield Tree Services",
+    "country": "United Kingdom",
+    "date_found": "2026-08-31",
+    "location": "Pudsey",
+    "title": "Arborist"
+  },
   "https://to.indeed.com/aagbwhvs9gs6": {
     "company": "Smith Services Ltd",
     "date_found": "2026-08-13",
@@ -4831,6 +5359,13 @@
     "date_found": "2026-08-20",
     "location": "Husum",
     "title": "Blade Technician (m/w/d) for Wind Turbines Blades in Empfingen"
+  },
+  "https://to.indeed.com/aagd2s2c4yrs": {
+    "company": "Classic Cleaning LTD",
+    "country": "Pan-European",
+    "date_found": "2026-08-31",
+    "location": "London, UK",
+    "title": "Level 3 Rope Access Technician"
   },
   "https://to.indeed.com/aagf8dg6rwxc": {
     "company": "Bridge Recruitment Services Ltd",
@@ -4850,6 +5385,13 @@
     "date_found": "2026-08-20",
     "location": "Clermont-Ferrand (63), France",
     "title": "Cordiste H/F/X"
+  },
+  "https://to.indeed.com/aagg7xdc9csy": {
+    "company": "SWIRE",
+    "country": "Denmark",
+    "date_found": "2026-08-31",
+    "location": "Lystrup",
+    "title": "Blade Technician season 2026"
   },
   "https://to.indeed.com/aaggbly7rrcc": {
     "company": "Phenna Group / Stroma BE",
@@ -4873,6 +5415,13 @@
     "date_found": "2026-08-14",
     "title": "Rigger - Project 1"
   },
+  "https://to.indeed.com/aagjvlxlprfb": {
+    "company": "Zweiseil GmbH",
+    "country": "Germany",
+    "date_found": "2026-09-01",
+    "location": "Linz am Rhein",
+    "title": "Industriekletterer"
+  },
   "https://to.indeed.com/aagkhgf7y4gb": {
     "company": "Rope Access Sverige AB",
     "country": "Sweden",
@@ -4886,6 +5435,13 @@
     "date_found": "2026-08-25",
     "location": "Torres Vedras, Portugal",
     "title": "Técnico de Manutenção de Aerogeradores (Elétrica) - Torres Vedras (m/d/f)"
+  },
+  "https://to.indeed.com/aagm2gldtpjh": {
+    "company": "Green Ice Ltd",
+    "country": "United Kingdom",
+    "date_found": "2026-08-31",
+    "location": "Bury St. Edmunds",
+    "title": "Arborist"
   },
   "https://to.indeed.com/aagnfplzsvrk": {
     "company": "GRUPO EOSOL",
@@ -5018,6 +5574,13 @@
     "location": "Hatfield, England",
     "title": "Abseiler"
   },
+  "https://to.indeed.com/aah6ccwpyyzp": {
+    "company": "Res",
+    "country": "United Kingdom",
+    "date_found": "2026-08-31",
+    "location": "Lynemouth",
+    "title": "Lynemouth – Wind Technician"
+  },
   "https://to.indeed.com/aah6rfbn2bgc": {
     "company": "LDT Contractors Ltd",
     "date_found": "2026-08-24",
@@ -5063,12 +5626,26 @@
     "location": "Milano, Italy",
     "title": "Tecnico in fune"
   },
+  "https://to.indeed.com/aahdgtzngmmm": {
+    "company": "Titchfield Group",
+    "country": "United Kingdom",
+    "date_found": "2026-09-01",
+    "location": "Hatfield",
+    "title": "Abseiler"
+  },
   "https://to.indeed.com/aahf2vjl7fqd": {
     "company": "SPIE",
     "country": "France",
     "date_found": "2026-08-29",
     "location": "Montoir-de-Bretagne (44)",
     "title": "Technicien offshore H/F"
+  },
+  "https://to.indeed.com/aahfbxjzqlwn": {
+    "company": "Piepenbrock",
+    "country": "Germany",
+    "date_found": "2026-09-01",
+    "location": "Hamburg",
+    "title": "Industriekletterer / Höhenarbeiter (m/w/d)"
   },
   "https://to.indeed.com/aahfvf44g9d4": {
     "company": "Ouest Acro",
@@ -5344,12 +5921,26 @@
     "date_found": "2026-08-13",
     "title": "Prep Technician/Warehouse"
   },
+  "https://to.indeed.com/aajgz76jqsdf": {
+    "company": "ALTITUDE SERVICES ILE DE FRANCE",
+    "country": "France",
+    "date_found": "2026-09-01",
+    "location": "Vigneux-de-Bretagne (44)",
+    "title": "Chef d'équipe bâtiment tout corps d'état cordiste (H/F)"
+  },
   "https://to.indeed.com/aajhc2c4fyz6": {
     "company": "Classic Cleaning LTD",
     "country": "United Kingdom",
     "date_found": "2026-08-28",
     "location": "London",
     "title": "Level 3 Rope Access Technician"
+  },
+  "https://to.indeed.com/aajj4t7tgr6b": {
+    "company": "Center Parcs",
+    "country": "Ireland",
+    "date_found": "2026-08-31",
+    "location": "Longford, County Longford",
+    "title": "High Ropes Instructor"
   },
   "https://to.indeed.com/aajltyrxb96f": {
     "company": "Altrad Services B.V.",
@@ -5753,6 +6344,13 @@
     "date_found": "2026-08-14",
     "title": "Gerüstbauer"
   },
+  "https://to.indeed.com/aalgf2f8cpqn": {
+    "company": "Vestas",
+    "country": "Germany",
+    "date_found": "2026-09-01",
+    "location": "Waldbüttelbrunn",
+    "title": "Verfahrensmechaniker (m/w/d) Windenergie – Rotorblattreparatur (Seilbühne)"
+  },
   "https://to.indeed.com/aalghth2lbjt": {
     "company": "SERPE",
     "date_found": "2026-08-21",
@@ -5860,6 +6458,13 @@
     "date_found": "2026-08-13",
     "title": "Rigger"
   },
+  "https://to.indeed.com/aaltlnqhfvr6": {
+    "company": "FairWind",
+    "country": "Spain",
+    "date_found": "2026-09-01",
+    "location": "Vilalba, Lugo",
+    "title": "Técnico en reparación de palas / Blade Repair Technician"
+  },
   "https://to.indeed.com/aaltstgbvbw9": {
     "company": "Groupe NA",
     "country": "France",
@@ -5882,6 +6487,13 @@
     "date_found": "2026-08-18",
     "title": "Industriekletterer / Seilzugangstechniker (Vollzeit)"
   },
+  "https://to.indeed.com/aalxzmzs9cq2": {
+    "company": "Palmer & Co",
+    "country": "Pan-European",
+    "date_found": "2026-08-31",
+    "location": "Glasgow, UK",
+    "title": "IRATA Level 2 - Rope Access Technician"
+  },
   "https://to.indeed.com/aaly4f7xw6r9": {
     "company": "ALTRAD",
     "date_found": "2026-08-24",
@@ -5894,6 +6506,13 @@
     "date_found": "2026-08-22",
     "location": "Zuid-Holland",
     "title": "Blade Technician season 2026"
+  },
+  "https://to.indeed.com/aam48gsrwqvf": {
+    "company": "ANCY ROPE ACCESS",
+    "country": "France",
+    "date_found": "2026-09-01",
+    "location": "Annecy (74)",
+    "title": "Technicien cordiste H/F"
   },
   "https://to.indeed.com/aam4srb9mk6p": {
     "company": "Umana",
@@ -5913,6 +6532,13 @@
     "date_found": "2026-08-25",
     "location": "Granada, Spain",
     "title": "Buscamos trabajador vertical GRANADA"
+  },
+  "https://to.indeed.com/aam6b7hxbbrv": {
+    "company": "PROMAN",
+    "country": "France",
+    "date_found": "2026-09-01",
+    "location": "Annemasse (74)",
+    "title": "Cordiste H/F (74)"
   },
   "https://to.indeed.com/aam74cg46d4c": {
     "company": "Ultra Worx Limited",
@@ -6138,6 +6764,13 @@
     "date_found": "2026-08-21",
     "title": "Complex Blade Repair Technicians"
   },
+  "https://to.indeed.com/aan76d2nqc7b": {
+    "company": "Bilfinger",
+    "country": "Norway",
+    "date_found": "2026-08-31",
+    "location": "Stavanger",
+    "title": "Tilkomsttekniker nivå 2-3-Sikringsleder"
+  },
   "https://to.indeed.com/aan7vzzppbwl": {
     "company": "Central (High Rise) Limited",
     "date_found": "2026-08-24",
@@ -6150,6 +6783,13 @@
     "date_found": "2026-08-22",
     "location": "Pamplona, Navarra",
     "title": "Técnico/a Inspección LPS"
+  },
+  "https://to.indeed.com/aan8jwfqb2b9": {
+    "company": "PROMAN",
+    "country": "France",
+    "date_found": "2026-09-01",
+    "location": "Privas (07)",
+    "title": "Cordiste tp H/F (07)"
   },
   "https://to.indeed.com/aan8xxqqwwfm": {
     "company": "Titchfield Group",
@@ -6195,6 +6835,13 @@
     "company": "Titchfield Group",
     "date_found": "2026-08-18",
     "title": "Abseiler"
+  },
+  "https://to.indeed.com/aandmlqnlrxn": {
+    "company": "Res",
+    "country": "United Kingdom",
+    "date_found": "2026-08-31",
+    "location": "Grimsby",
+    "title": "Field Expert Technician (Offshore, Fire Systems)"
   },
   "https://to.indeed.com/aandntkz2vzq": {
     "company": "SWIRE",
@@ -6301,6 +6948,13 @@
     "date_found": "2026-08-19",
     "location": "Gelsenkirchen, Germany",
     "title": "Höhenkletterer nach IRATA / FISAT (m/w/d)"
+  },
+  "https://to.indeed.com/aanqvr8qmd7v": {
+    "company": "Supianek Baugesellschaft mbH",
+    "country": "Germany",
+    "date_found": "2026-08-31",
+    "location": "Hilden",
+    "title": "Instandsetzer (m/w/d) für Sanierungsprojekte im Bereich Windkraftanlagen"
   },
   "https://to.indeed.com/aanrkdhcvzkl": {
     "company": "Acrobatica",
@@ -6426,6 +7080,13 @@
     "date_found": "2026-08-21",
     "title": "OPERATORE IN FUNE"
   },
+  "https://to.indeed.com/aap4m7lzf8n6": {
+    "company": "Actual Experts Grand Ouest",
+    "country": "France",
+    "date_found": "2026-09-01",
+    "location": "Rennes (35)",
+    "title": "Chef d'équipe cordiste (F/H)"
+  },
   "https://to.indeed.com/aap6cj2kz2hp": {
     "company": "Samsic HR Italia S.p.A.",
     "date_found": "2026-08-24",
@@ -6456,11 +7117,25 @@
     "date_found": "2026-08-13",
     "title": "NDT Inspector – Offshore Vessel Project"
   },
+  "https://to.indeed.com/aapbplmzxhq4": {
+    "company": "Aerones",
+    "country": "Germany",
+    "date_found": "2026-09-01",
+    "location": "Germany (nationwide)",
+    "title": "Rope Access Technician"
+  },
   "https://to.indeed.com/aapbpztrwyjh": {
     "company": "Acrobatica",
     "date_found": "2026-08-24",
     "location": "Paris (75), France",
     "title": "Cordiste urbain CQP1 / CQP2 / CATC (H/F)"
+  },
+  "https://to.indeed.com/aapbwp7497lx": {
+    "company": "Swire Renewable Energy",
+    "country": "Denmark",
+    "date_found": "2026-09-01",
+    "location": "Lystrup",
+    "title": "Rope Access NDT Technicians"
   },
   "https://to.indeed.com/aapby8h4w877": {
     "company": "Trixxo",
@@ -6611,6 +7286,13 @@
     "date_found": "2026-08-08",
     "title": "Laveur de vitre (H/F)"
   },
+  "https://to.indeed.com/aaprsy4shdqy": {
+    "company": "Umana",
+    "country": "Italy",
+    "date_found": "2026-09-01",
+    "location": "Milano",
+    "title": "OPERATORE IN FUNE"
+  },
   "https://to.indeed.com/aaps2q8rrgbx": {
     "company": "Galetech Group",
     "country": "Ireland",
@@ -6642,6 +7324,13 @@
     "date_found": "2026-08-20",
     "location": "Annecy (74), France",
     "title": "Technicien Cordiste Maçon H/F"
+  },
+  "https://to.indeed.com/aapwrspxvmgf": {
+    "company": "Ben Mason Arb Ltd",
+    "country": "United Kingdom",
+    "date_found": "2026-08-31",
+    "location": "Crowborough",
+    "title": "Climbing Arborist"
   },
   "https://to.indeed.com/aapx9glbgmkz": {
     "company": "LOVAC",
@@ -6684,6 +7373,20 @@
     "company": "Groupe NA",
     "date_found": "2026-08-21",
     "title": "Technicien Cordiste H/F"
+  },
+  "https://to.indeed.com/aaq62bmbgkjb": {
+    "company": "Groupe NA",
+    "country": "France",
+    "date_found": "2026-09-01",
+    "location": "Quéven (56)",
+    "title": "Chef d'équipe Cordiste H/F"
+  },
+  "https://to.indeed.com/aaq6kghqxmcy": {
+    "company": "E-KEEP IDF",
+    "country": "France",
+    "date_found": "2026-09-01",
+    "location": "Clermont-Ferrand (63)",
+    "title": "Cordiste H/F/X"
   },
   "https://to.indeed.com/aaq6mdtzg72y": {
     "company": "PALMER & CO",
@@ -6875,6 +7578,13 @@
     "date_found": "2026-08-13",
     "title": "Cat 3 Plant Inspector"
   },
+  "https://to.indeed.com/aar2g4cjk9vm": {
+    "company": "Odi srl",
+    "country": "Italy",
+    "date_found": "2026-08-31",
+    "location": "Torino, Piemonte",
+    "title": "Operatore per installazioni in quota"
+  },
   "https://to.indeed.com/aar2wwjkjncg": {
     "company": "Acrobatica",
     "country": "France",
@@ -6898,6 +7608,13 @@
     "date_found": "2026-08-20",
     "location": "Ludwigshafen am Rhein",
     "title": "Industriekletterer / Seilzugangstechniker Vollzeit"
+  },
+  "https://to.indeed.com/aar62z8xc9sl": {
+    "company": "Noriap",
+    "country": "France",
+    "date_found": "2026-09-01",
+    "location": "Saleux",
+    "title": "Technicien Maintenance Cordiste H/F"
   },
   "https://to.indeed.com/aar67zmrz8sq": {
     "company": "Form Access Ltd",
@@ -6987,6 +7704,13 @@
     "date_found": "2026-08-08",
     "title": "Responsabile Tecnico Olbia"
   },
+  "https://to.indeed.com/aargnfshwrf4": {
+    "company": "Vestas",
+    "country": "Germany",
+    "date_found": "2026-09-01",
+    "location": "Hamburg",
+    "title": "Service Technician (m/w/d) Blades, near Berchtesgaden"
+  },
   "https://to.indeed.com/aarh7grmzq94": {
     "company": "Amentum",
     "country": "Spain",
@@ -7000,6 +7724,13 @@
     "date_found": "2026-08-25",
     "location": "Hatfield, England",
     "title": "Abseiler"
+  },
+  "https://to.indeed.com/aarhlt4drhll": {
+    "company": "Bartlett Tree Experts",
+    "country": "Ireland",
+    "date_found": "2026-08-31",
+    "location": "Rathcoole, County Dublin",
+    "title": "Arborist Climber / Tree Surgeon"
   },
   "https://to.indeed.com/aarhtnqclm4b": {
     "company": "ENERCON",
@@ -7063,6 +7794,13 @@
     "location": "Warrington",
     "title": "Rope Access Level 3 - Painter Blaster"
   },
+  "https://to.indeed.com/aarpf8bk7qk4": {
+    "company": "Actual Experts Grand Ouest",
+    "country": "France",
+    "date_found": "2026-09-01",
+    "location": "Romillé (35)",
+    "title": "Chef d'équipe cordiste (H/F)"
+  },
   "https://to.indeed.com/aarpzvvdty8y": {
     "company": "Umana",
     "country": "Italy",
@@ -7112,12 +7850,33 @@
     "location": "La Poveda, Madrid, Spain",
     "title": "Montador/a de andamos"
   },
+  "https://to.indeed.com/aarxz764tclh": {
+    "company": "Adecco",
+    "country": "Norway",
+    "date_found": "2026-09-01",
+    "location": "Oslo",
+    "title": "Industrial Insulation Fitter / Industrial Painter / Scaffolder"
+  },
+  "https://to.indeed.com/aarygtrvsplx": {
+    "company": "ANCY ROPE ACCESS",
+    "country": "France",
+    "date_found": "2026-09-01",
+    "location": "Annecy (74)",
+    "title": "Technicien Cordiste Maçon H/F"
+  },
   "https://to.indeed.com/aarzgvvrfpkv": {
     "company": "Acrobatica",
     "country": "Italy",
     "date_found": "2026-08-29",
     "location": "Pescara, Abruzzo",
     "title": "Responsabile Tecnico Chieti"
+  },
+  "https://to.indeed.com/aarzq2p7wzwg": {
+    "company": "Arco Limited",
+    "country": "United Kingdom",
+    "date_found": "2026-08-31",
+    "location": "Bracknell",
+    "title": "Training Instructor – South East"
   },
   "https://to.indeed.com/aarzrhd6tqyz": {
     "company": "Klätterservice",
@@ -7191,6 +7950,13 @@
     "location": "Mongstad",
     "title": "NDT Level II Inspector"
   },
+  "https://to.indeed.com/aasc9kvxsq9q": {
+    "company": "ALTRAD",
+    "country": "Pan-European",
+    "date_found": "2026-08-31",
+    "location": "Warrington, UK",
+    "title": "Rope Access Level 3 - Painter Blaster"
+  },
   "https://to.indeed.com/aasccwtvr7p9": {
     "company": "LDT Contractors Ltd",
     "country": "United Kingdom",
@@ -7215,6 +7981,27 @@
     "date_found": "2026-08-24",
     "location": "Milano, Italy",
     "title": "TECNICI E OPERAI ESPERTI"
+  },
+  "https://to.indeed.com/aasf4s7scjqt": {
+    "company": "Supianek Baugesellschaft mbH",
+    "country": "Germany",
+    "date_found": "2026-08-31",
+    "location": "Hilden",
+    "title": "Monteur (m/w/d) für Sanierungsprojekte im Bereich Windkraftanlagen"
+  },
+  "https://to.indeed.com/aasf6zrln4pl": {
+    "company": "Wood",
+    "country": "United Kingdom",
+    "date_found": "2026-08-31",
+    "location": "Cleveland",
+    "title": "Rigger"
+  },
+  "https://to.indeed.com/aasfg4svjjpl": {
+    "company": "CDM Recruit",
+    "country": "United Kingdom",
+    "date_found": "2026-08-31",
+    "location": "Liverpool",
+    "title": "Rigger"
   },
   "https://to.indeed.com/aasfhtdgkcmc": {
     "company": "SOCOTEC Group",
@@ -7498,6 +8285,13 @@
     "date_found": "2026-08-05",
     "title": "Industriekletterer/Höhenarbeiter (m/w/d)"
   },
+  "https://to.indeed.com/aatly8jzc9sm": {
+    "company": "UK Event Structures Limited",
+    "country": "United Kingdom",
+    "date_found": "2026-08-31",
+    "location": "Pontefract",
+    "title": "Marquee Rigger"
+  },
   "https://to.indeed.com/aatmjqbymjc6": {
     "company": "CGS Nordic AB",
     "country": "Sweden",
@@ -7545,6 +8339,13 @@
     "location": "Mutilva Alta, Navarra, Spain",
     "title": "Reparador/a de Palas"
   },
+  "https://to.indeed.com/aatqvvhsqyny": {
+    "company": "contractor via Indeed",
+    "country": "Norway",
+    "date_found": "2026-09-01",
+    "location": "Bergen",
+    "title": "Scaffolder I Offshore I Worldwide"
+  },
   "https://to.indeed.com/aatrfprtf98j": {
     "company": "Umana (agenzia)",
     "country": "Italy",
@@ -7589,6 +8390,13 @@
     "date_found": "2026-08-23",
     "location": "Saint-Jean-de-Boiseau",
     "title": "Aide monteur échafaudeur H/F"
+  },
+  "https://to.indeed.com/aatyt6c7rdmc": {
+    "company": "Fohntech Group",
+    "country": "Ireland",
+    "date_found": "2026-08-31",
+    "location": "South Dublin, County Dublin",
+    "title": "Rigger"
   },
   "https://to.indeed.com/aatywmbsfhzv": {
     "company": "Digi Portugal",
@@ -7643,6 +8451,13 @@
     "company": "Altrad Services B.V.",
     "date_found": "2026-08-14",
     "title": "Uitvoerder Rope Access"
+  },
+  "https://to.indeed.com/aav6xxfc6gcp": {
+    "company": "Groupe NA",
+    "country": "France",
+    "date_found": "2026-09-01",
+    "location": "Cannes (06)",
+    "title": "Technicien Cordiste H/F"
   },
   "https://to.indeed.com/aav7lmbvhdrq": {
     "company": "Survitec",
@@ -7726,10 +8541,24 @@
     "location": "Exeter",
     "title": "Structures Inspector"
   },
+  "https://to.indeed.com/aavjq6wcwsqf": {
+    "company": "Steady Climbing GmbH",
+    "country": "Germany",
+    "date_found": "2026-09-01",
+    "location": "Stuhr",
+    "title": "Industriekletterer / Quereinsteiger aus dem Handwerk (m/w/d)"
+  },
   "https://to.indeed.com/aavk8swvf7wn": {
     "company": "Acrobatica",
     "date_found": "2026-08-21",
     "title": "Assistente Tecnico - Grosseto"
+  },
+  "https://to.indeed.com/aavl7fpndkqy": {
+    "company": "Zweiseil GmbH",
+    "country": "Germany",
+    "date_found": "2026-09-01",
+    "location": "Linz am Rhein",
+    "title": "Industriekletterer in Ausbildung"
   },
   "https://to.indeed.com/aavlv2pp9qvb": {
     "company": "Vestas",
@@ -7756,6 +8585,13 @@
     "company": "Maes Hoogwerkers",
     "date_found": "2026-08-14",
     "title": "Machinist hoogwerker (MEWP operator)"
+  },
+  "https://to.indeed.com/aavrdp7yfzvq": {
+    "company": "PROMAN",
+    "country": "France",
+    "date_found": "2026-09-01",
+    "location": "Pralognan-la-Vanoise (73)",
+    "title": "Cordiste forage H/F"
   },
   "https://to.indeed.com/aavrw2pnt89y": {
     "company": "MM Solutions",
@@ -8008,6 +8844,13 @@
     "location": "Quart de Poblet, Valencia, Spain",
     "title": "Alpinista / técnico en trabajos verticales"
   },
+  "https://to.indeed.com/aawz9w274drj": {
+    "company": "Arena Events Group",
+    "country": "United Kingdom",
+    "date_found": "2026-08-31",
+    "location": "Newbury",
+    "title": "Seating Rigger"
+  },
   "https://to.indeed.com/aawzcy9cbphq": {
     "company": "SARL DEVERS",
     "date_found": "2026-08-24",
@@ -8116,6 +8959,13 @@
     "date_found": "2026-08-21",
     "title": "Abseiler"
   },
+  "https://to.indeed.com/aaxhqy9dx84q": {
+    "company": "BCS Tree Services",
+    "country": "United Kingdom",
+    "date_found": "2026-08-31",
+    "location": "Wickford",
+    "title": "Arborist Climber"
+  },
   "https://to.indeed.com/aaxj8fq67jd4": {
     "company": "Ørsted",
     "country": "United Kingdom",
@@ -8135,6 +8985,13 @@
     "date_found": "2026-08-24",
     "location": "Hatfield",
     "title": "Abseiler"
+  },
+  "https://to.indeed.com/aaxlhvqm9jd2": {
+    "company": "Groupe LIP",
+    "country": "France",
+    "date_found": "2026-09-01",
+    "location": "Lyon (69)",
+    "title": "Cordiste urbain (H/F)"
   },
   "https://to.indeed.com/aaxll9lf4dvw": {
     "company": "Laois Scaffolding Hire Ltd.",
@@ -8169,6 +9026,13 @@
     "company": "DYWIDAG-Systems International GmbH",
     "date_found": "2026-08-08",
     "title": "Höhenarbeiter (alle Geschlechtsidentitäten)"
+  },
+  "https://to.indeed.com/aaxpp692sck6": {
+    "company": "Vestas",
+    "country": "Germany",
+    "date_found": "2026-09-01",
+    "location": "Würzburg",
+    "title": "Servicetechniker (m/w/d) Windenergie – Rotorblattreparatur (Seilbühne)"
   },
   "https://to.indeed.com/aaxq7pvm4px7": {
     "company": "Ediliziacrobatica France",
@@ -8227,10 +9091,24 @@
     "location": "Donegal, Ireland",
     "title": "Wind Turbine Technician (Enercon Platforms)"
   },
+  "https://to.indeed.com/aaxzlb9w79mn": {
+    "company": "SAP Landscapes",
+    "country": "Ireland",
+    "date_found": "2026-08-31",
+    "location": "Dublin, County Dublin",
+    "title": "Tree Surgeon"
+  },
   "https://to.indeed.com/aaxzw88dbvqz": {
     "company": "Ouest Acro",
     "date_found": "2026-08-21",
     "title": "Chargé(e) d'affaires nucléaire F/H"
+  },
+  "https://to.indeed.com/aaxzwyp89nl9": {
+    "company": "Vestas",
+    "country": "Germany",
+    "date_found": "2026-09-01",
+    "location": "Husum",
+    "title": "Blade Technician (m/w/d), Empfingen"
   },
   "https://to.indeed.com/aay2qr6sh48l": {
     "company": "FairWind",
@@ -8292,6 +9170,13 @@
     "date_found": "2026-08-25",
     "location": "Aberdeen, Scotland",
     "title": "Rigger/Crane Operator"
+  },
+  "https://to.indeed.com/aaygnglqsvrs": {
+    "company": "L&G Rail Ltd",
+    "country": "United Kingdom",
+    "date_found": "2026-08-31",
+    "location": "Newark-on-Trent",
+    "title": "Arborist"
   },
   "https://to.indeed.com/aayhjbckg9my": {
     "company": "P & G Scaffolding",
@@ -8376,6 +9261,13 @@
     "date_found": "2026-08-21",
     "title": "Cordiste forage H/F"
   },
+  "https://to.indeed.com/aaytljtjp7zm": {
+    "company": "Bilfinger ISP Offshore Norway AS",
+    "country": "Norway",
+    "date_found": "2026-09-01",
+    "location": "Stavanger",
+    "title": "Tilkomsttekniker nivå 2-3-Sikringsleder"
+  },
   "https://to.indeed.com/aayvy47lvnx7": {
     "company": "E-KEEP IDF",
     "country": "France",
@@ -8408,6 +9300,13 @@
     "date_found": "2026-08-13",
     "title": "Rope Access Firestopper"
   },
+  "https://to.indeed.com/aayzfvy2lx2m": {
+    "company": "3B Dienstleistung Deutschland GmbH",
+    "country": "Germany",
+    "date_found": "2026-09-01",
+    "location": "Berlin",
+    "title": "Industriekletterer für Glas- und Fassadenreinigung (m/w/d)"
+  },
   "https://to.indeed.com/aaz26zj6kd4g": {
     "company": "Aerones",
     "country": "Germany",
@@ -8421,6 +9320,13 @@
     "date_found": "2026-08-06",
     "location": "Warrington",
     "title": "Rope Access Technician (Equipment/Stores Coordinator)"
+  },
+  "https://to.indeed.com/aaz6r7l66tqk": {
+    "company": "Kh garden services ltd",
+    "country": "United Kingdom",
+    "date_found": "2026-08-31",
+    "location": "Wokingham",
+    "title": "Arborist"
   },
   "https://to.indeed.com/aaz6tvmbc4ql": {
     "company": "GRUPO EOSOL",
@@ -8461,6 +9367,13 @@
     "location": "Drap (06)",
     "title": "Cordiste H/F"
   },
+  "https://to.indeed.com/aaz8pdvpwppb": {
+    "company": "Umana",
+    "country": "Italy",
+    "date_found": "2026-09-01",
+    "location": "Roma",
+    "title": "OPERATORE IN FUNE"
+  },
   "https://to.indeed.com/aaz8rwqtr8cj": {
     "company": "ANCY ROPE ACCESS",
     "date_found": "2026-08-21",
@@ -8494,6 +9407,13 @@
     "location": "Warrington",
     "title": "Rope Access Technician"
   },
+  "https://to.indeed.com/aazfm2zxdnkc": {
+    "company": "Vestas",
+    "country": "United Kingdom",
+    "date_found": "2026-08-31",
+    "location": "Blyth",
+    "title": "Appointed Person"
+  },
   "https://to.indeed.com/aazgcn646rws": {
     "company": "MDS MittelDeutsche Seiltechnik GmbH",
     "country": "Germany",
@@ -8512,6 +9432,13 @@
     "company": "Bureau Veritas",
     "date_found": "2026-08-21",
     "title": "Technicien Eolien (F-H-X)"
+  },
+  "https://to.indeed.com/aazgz66qzx9j": {
+    "company": "LPA - Lauragais Pyrénées Accès",
+    "country": "France",
+    "date_found": "2026-09-01",
+    "location": "Castanet-Tolosan (31)",
+    "title": "Chef d'équipe cordiste maçon H/F"
   },
   "https://to.indeed.com/aazhzttfzgvl": {
     "company": "BlackLine srls",
@@ -8543,6 +9470,13 @@
     "date_found": "2026-08-19",
     "location": "Rennes (35), France",
     "title": "Chef d'équipe cordiste (F/H)"
+  },
+  "https://to.indeed.com/aazmcx8zbczg": {
+    "company": "REMONDIS / BUCHEN EnergyServices",
+    "country": "Germany",
+    "date_found": "2026-09-01",
+    "location": "Herne",
+    "title": "Aufsichtsführender Höhenarbeiter / Industriekletterer (m/w/d)"
   },
   "https://to.indeed.com/aazmg2fmj94y": {
     "company": "Wintalent Executive Search",
@@ -8595,6 +9529,13 @@
     "date_found": "2026-08-27",
     "location": "Caen (14)",
     "title": "Cordiste (h/f)"
+  },
+  "https://to.indeed.com/aazsz9cgqwg6": {
+    "company": "Projector Lifting Service Ltd",
+    "country": "United Kingdom",
+    "date_found": "2026-08-31",
+    "location": "Olney",
+    "title": "Rigger"
   },
   "https://to.indeed.com/aaztjfw6zppn": {
     "company": "E-KEEP IDF",
@@ -8785,6 +9726,13 @@
     "date_found": "2026-08-15",
     "title": "A/B Rigger"
   },
+  "https://uk.linkedin.com/jobs/view/adhoc-rope-access-ndt-technician-at-bilfinger-uk-3797475702": {
+    "company": "Bilfinger UK",
+    "country": "United Kingdom",
+    "date_found": "2026-09-01",
+    "location": "UK",
+    "title": "ADHOC Rope Access NDT Technician"
+  },
   "https://uk.linkedin.com/jobs/view/arborist-second-climber-at-idverde-uk-4129902658": {
     "company": "idverde UK",
     "country": "United Kingdom",
@@ -8855,6 +9803,13 @@
     "company": "Wick Hollow",
     "date_found": "2026-08-15",
     "title": "IRATA Rope Access Operative"
+  },
+  "https://uk.linkedin.com/jobs/view/irata-rope-access-technician-at-pendrich-height-services-4182881472": {
+    "company": "Pendrich Height Services (PTSG)",
+    "country": "United Kingdom",
+    "date_found": "2026-09-02",
+    "location": "UK",
+    "title": "IRATA Rope Access Technician"
   },
   "https://uk.linkedin.com/jobs/view/irata-rope-access-technician-at-pendrich-height-services-4186469664": {
     "company": "Pendrich Height Services",
@@ -9023,6 +9978,13 @@
     "date_found": "2026-08-13",
     "title": "Rope Access Technician"
   },
+  "https://uk.linkedin.com/jobs/view/rope-access-technician-at-proaltus-group-4047587744": {
+    "company": "ProAltus Group",
+    "country": "United Kingdom",
+    "date_found": "2026-09-01",
+    "location": "Greater London",
+    "title": "Rope Access Technician"
+  },
   "https://uk.linkedin.com/jobs/view/rope-access-technician-at-rapid-rope-access-4188793052": {
     "company": "Rapid Rope Access",
     "date_found": "2026-08-15",
@@ -9031,6 +9993,13 @@
   "https://uk.linkedin.com/jobs/view/rope-access-technician-at-smiths-rope-access-4167541644": {
     "company": "Smiths Rope Access",
     "date_found": "2026-08-12",
+    "title": "Rope Access Technician"
+  },
+  "https://uk.linkedin.com/jobs/view/rope-access-technician-at-specialist-access-technicians-3889416780": {
+    "company": "Specialist Access Technicians (SAT)",
+    "country": "United Kingdom",
+    "date_found": "2026-09-01",
+    "location": "UK",
     "title": "Rope Access Technician"
   },
   "https://uk.linkedin.com/jobs/view/rope-access-technician-london-at-can-3734825710": {
@@ -9130,6 +10099,13 @@
     "company": "GB Rope Access Techs",
     "date_found": "2026-08-15",
     "title": "Window Cleaner (Rope Access)"
+  },
+  "https://uk.linkedin.com/showcase/altrad-sparrows-recruitment/": {
+    "company": "Altrad Sparrows",
+    "country": "United Kingdom",
+    "date_found": "2026-09-02",
+    "location": "Aberdeen, Scotland",
+    "title": "Rope Access Technician (Aberdeen, offshore)"
   },
   "https://uk.talent.com/view?id=295b3c7b2a19": {
     "company": "Pendrich Height Services",
@@ -9311,6 +10287,20 @@
     "location": "Madrid, Spain",
     "title": "Albañil-Verticales"
   },
+  "https://www.anetva.org/oferta-de-empleo/autonomos-en-trabajos-verticales/": {
+    "company": "via ANETVA board",
+    "country": "Spain",
+    "date_found": "2026-09-01",
+    "location": "Spain",
+    "title": "Autónomos en Trabajos Verticales"
+  },
+  "https://www.anetva.org/oferta-de-empleo/especialista-trabajos-verticales-obra-civil-y-montaje-mecanico-2/": {
+    "company": "via ANETVA board",
+    "country": "Spain",
+    "date_found": "2026-09-01",
+    "location": "San Roque, Cádiz",
+    "title": "Especialista Trabajos Verticales Obra Civil y Montaje Mecánico"
+  },
   "https://www.anetva.org/oferta-de-empleo/instalador-de-lineas-de-vida-definitivas/": {
     "company": "Not specified (ANETVA member co.)",
     "date_found": "2026-08-15",
@@ -9469,6 +10459,11 @@
     "location": "Germany",
     "title": "Industriekletterer/in / Höhenarbeiter/in (m/w/d)"
   },
+  "https://www.arbeitsagentur.de/jobsuche/jobdetail/10000-1202353218-S": {
+    "company": "RPG Dachbau GmbH",
+    "date_found": "2026-09-03",
+    "title": "Kletterer Reinigung Dachrinnen (m/w/d)"
+  },
   "https://www.arbeitsagentur.de/jobsuche/jobdetail/10000-1203695577-S": {
     "company": "Die Industriekletterer GmbH",
     "date_found": "2026-08-18",
@@ -9485,6 +10480,11 @@
     "company": "RTS Wind AG",
     "date_found": "2026-08-21",
     "title": "Industriekletterer (all genders) Rotorblattreparaturen"
+  },
+  "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1001592303-S": {
+    "company": "verticalSOLUTION GmbH",
+    "date_found": "2026-09-03",
+    "title": "Industriekletterer/-kletterin"
   },
   "https://www.arbeitsagentur.de/jobsuche/jobdetail/12577-12970835-S": {
     "company": "RTS Wind AG",
@@ -9580,12 +10580,26 @@
     "date_found": "2026-08-07",
     "title": "Rope Access Technician"
   },
+  "https://www.bluestreamoffshore.com/nl/jouw-carriere/vacatures/rope-access-technician/": {
+    "company": "Bluestream Offshore",
+    "country": "Netherlands",
+    "date_found": "2026-09-01",
+    "location": "Netherlands",
+    "title": "Rope Access Technician"
+  },
   "https://www.breakroom.cc/en-gb/jobs/listing/72180389-pendrich-height-services-rope-access-technician-reading": {
     "company": "Pendrich Height Services",
     "country": "United Kingdom",
     "date_found": "2026-08-20",
     "location": "Reading",
     "title": "Rope Access Technician"
+  },
+  "https://www.bs-frielingsdorf-nord.de/stellenangebote/Industriekletterer_d_m_w_30_Tage_Urlaub_Quereinstieg_moeglich/086cc5e3-6b02-4374-a1a5-6367f0aa74c8/": {
+    "company": "Frielingsdorf Nord",
+    "country": "Germany",
+    "date_found": "2026-08-31",
+    "location": "Lübeck",
+    "title": "Industriekletterer (d/m/w, 30 Tage Urlaub, Quereinstieg möglich)"
   },
   "https://www.bs-frielingsdorf-nord.de/stellenangebote/Industriekletterer_m_w_d/a173b1b2-fbdc-4abf-8ce1-2249bbe6c440/": {
     "company": "Frielingsdorf Nord GmbH",
@@ -9625,6 +10639,11 @@
     "location": "Milano",
     "title": "Responsabile Tecnico-Commerciale (coordinates rope-access teams)"
   },
+  "https://www.cpmax.com/de/job-bei-cp-max-rotortechnik/servicetechniker-m-w-f%C3%BCr-rotorbl%C3%A4tter-von-windenergieanlagen.html": {
+    "company": "cp.max Rotortechnik GmbH & Co. KG",
+    "date_found": "2026-09-03",
+    "title": "Servicetechniker (m/w/d) für Rotorblätter von Windenergieanlagen"
+  },
   "https://www.cri-ropeaccess.com/pages/en/vacature.html": {
     "company": "C.R.I.",
     "date_found": "2026-08-05",
@@ -9654,6 +10673,11 @@
     "company": "NRL Recruitment",
     "date_found": "2026-08-12",
     "title": "Rope Access Thermal Insulation Engineer"
+  },
+  "https://www.cv-library.co.uk/job/224344546/PTS-IRATA-Rope-Access-Operatives": {
+    "company": "via CV-Library",
+    "date_found": "2026-09-03",
+    "title": "PTS IRATA Rope Access Operatives"
   },
   "https://www.cv-library.co.uk/job/224348955/Rope-Access-Plater": {
     "company": "First Achieve Ltd",
@@ -9876,6 +10900,13 @@
     "date_found": "2026-08-07",
     "title": "Tilkomsttekniker elektro"
   },
+  "https://www.finn.no/job/employer/company/962": {
+    "company": "Hytech Access & Inspection AS",
+    "country": "Norway",
+    "date_found": "2026-09-02",
+    "location": "Sola",
+    "title": "Offshore Tilkomsttekniker (m/ elektrofagbrev)"
+  },
   "https://www.finn.no/job/fulltime/ad.html?finnkode=265348249": {
     "company": "Not disclosed",
     "country": "Norway",
@@ -10043,6 +11074,11 @@
     "date_found": "2026-08-14",
     "title": "Arboriste Élagueur-Grimpeur (CDI)"
   },
+  "https://www.hellowork.com/fr-fr/emplois/74412017.html": {
+    "company": "LIP Industrie Technique et Nucléaire",
+    "date_found": "2026-09-03",
+    "title": "Mission d'Intérim Cordiste"
+  },
   "https://www.hellowork.com/fr-fr/emplois/75906226.html": {
     "company": "Groupe CAN",
     "country": "France",
@@ -10088,6 +11124,13 @@
     "company": "Not specified (via Iberempleos)",
     "date_found": "2026-08-14",
     "title": "Podador/a en altura"
+  },
+  "https://www.industriekletternberlin.de/karriere/": {
+    "company": "Industriekletterer Berlin",
+    "country": "Germany",
+    "date_found": "2026-09-02",
+    "location": "Berlin",
+    "title": "Industriekletterer – Karriere/openings page"
   },
   "https://www.infojobs.it/bologna/operatore-in-fune-capo-squadra/of-i9cfd66f4414e1a8c65bf435fa7aa2f": {
     "company": "In Job S.p.A.",
@@ -10173,6 +11216,20 @@
     "company": "Not specified (via InfoJobs)",
     "date_found": "2026-08-14",
     "title": "Técnico en Trabajos Verticales con ANETVA/IRATA"
+  },
+  "https://www.infojobs.net/tarragona/tecnico-trabajos-verticales-con-anetva-irata./of-i1a6d4a968845e79ef55f5c1c0821ea?applicationOrigin=search-new&page=1&sortBy=RELEVANCE": {
+    "company": "(unspecified employer via InfoJobs)",
+    "country": "Spain",
+    "date_found": "2026-08-31",
+    "location": "Tarragona",
+    "title": "Técnico en Trabajos Verticales con ANETVA/IRATA"
+  },
+  "https://www.infojobs.net/valencia/oficial-trabajos-verticales/of-i8c3a9a9b9b4775a25ed20c974a55a6?applicationOrigin=search-new&page=1&sortBy=PUBLICATION_DATE": {
+    "company": "Alturia Verticales",
+    "country": "Spain",
+    "date_found": "2026-08-31",
+    "location": "Valencia",
+    "title": "Oficial en Trabajos Verticales"
   },
   "https://www.infojobs.net/vertikalia-trabajos-verticales-sl/em-i98555251555048866982840016054327111909/ofertas": {
     "company": "InfoJobs",
@@ -10325,12 +11382,26 @@
     "date_found": "2026-08-13",
     "title": "JobsAtHeight.com"
   },
+  "https://www.jobsatheight.com/jobs/rope-access-technician-level-2-795bf7d0": {
+    "company": "OCS",
+    "country": "United Kingdom",
+    "date_found": "2026-09-01",
+    "location": "Crawley",
+    "title": "Rope Access Technician (Level 2)"
+  },
   "https://www.jobscout24.ch/en/job/628d27ef-82de-4008-b273-48aa756fd323/": {
     "company": "Bellini Personal AG",
     "country": "Switzerland",
     "date_found": "2026-08-30",
     "location": "ganze Deutschschweiz (temp placement)",
     "title": "Industriekletterer (m/w)"
+  },
+  "https://www.jobscout24.ch/en/job/b28bfd4d-f912-4a0e-b8f7-0b35c7cf701f/": {
+    "company": "Bellini Personal AG",
+    "country": "Switzerland",
+    "date_found": "2026-09-01",
+    "location": "Chur area",
+    "title": "Industriekletterer (m/w) (Nr. 856)"
   },
   "https://www.jobscout24.ch/en/job/dbf41ebe-c250-4834-87ab-d2b8b56a174e/": {
     "company": "Bellini Personal AG",
@@ -10373,6 +11444,13 @@
   "https://www.jobup.ch/en/jobs/detail/267ecf2d-93b2-4590-87b7-86fc7f46538a": {
     "company": "Groupe PGN",
     "date_found": "2026-08-21",
+    "title": "Cordiste sur corde"
+  },
+  "https://www.jobup.ch/en/jobs/detail/267ecf2d-93b2-4590-87b7-86fc7f46538a/": {
+    "company": "Groupe PGN",
+    "country": "Switzerland",
+    "date_found": "2026-09-01",
+    "location": "Switzerland",
     "title": "Cordiste sur corde"
   },
   "https://www.jobup.ch/en/jobs/detail/731ade28-a73d-4ea2-a72c-7233cc98bef1/": {
@@ -10512,6 +11590,13 @@
     "date_found": "2026-08-15",
     "title": "SOFT rope access personnel (offshore trip)"
   },
+  "https://www.manpower.nl/en/jobs/198182/service-technician-wind-turbines-netherlands": {
+    "company": "Manpower NL",
+    "country": "Netherlands",
+    "date_found": "2026-09-02",
+    "location": "Netherlands",
+    "title": "Service Technician wind turbines Netherlands"
+  },
   "https://www.mansveld.nl/vacature/rigger": {
     "company": "Mansveld",
     "country": "Netherlands",
@@ -10589,6 +11674,23 @@
     "location": "Portugal (multiple sites)",
     "title": "Técnicos de Montagem e Instalação de Turbinas Eólicas (m/f)"
   },
+  "https://www.net-empregos.com/12654279/tecnicos-especializados-alpinista/": {
+    "company": "Robison Santiago Unipessoal Lda (RS Facilits)",
+    "country": "Portugal",
+    "date_found": "2026-08-31",
+    "location": "Lisboa & Margem Sul",
+    "title": "Técnicos Especializados – Alpinista"
+  },
+  "https://www.net-empregos.com/12860115/admite-se-alpinista/": {
+    "company": "Imperunica Lda",
+    "date_found": "2026-09-03",
+    "title": "Admite-se Alpinista"
+  },
+  "https://www.net-empregos.com/12918260/blade-repair-technicians-irata-l3/": {
+    "company": "Muehlhan Wind Service Portugal Unipessoal Lda",
+    "date_found": "2026-09-03",
+    "title": "Blade Repair Technicians"
+  },
   "https://www.net-empregos.com/13249287/tecnico-a-de-trabalhos-em-altura-rede-movel-leiria/": {
     "company": "via net-empregos.com",
     "country": "Portugal",
@@ -10648,6 +11750,11 @@
     "company": "WorkalpIndustry",
     "date_found": "2026-08-11",
     "title": "Alpinista Industrial - Construção"
+  },
+  "https://www.net-empregos.com/9641385/blade-repair-technician/": {
+    "company": "EOS Project Management",
+    "date_found": "2026-09-03",
+    "title": "Blade repair technician"
   },
   "https://www.net-empregos.com/montadores-de-andaimes/": {
     "company": "Various employers",
@@ -10808,6 +11915,13 @@
     "date_found": "2026-08-08",
     "title": "Rope Access Technicians"
   },
+  "https://www.randstad.es/candidatos/ofertas-empleo/oferta/operario-a-trabajos-altura-con-formacion-verticales-2922061/": {
+    "company": "Randstad",
+    "country": "Spain",
+    "date_found": "2026-08-31",
+    "location": "Valencia/Paterna",
+    "title": "Operario/a de Trabajos en Altura con Formación en Verticales"
+  },
   "https://www.recrutementspectacle.com/offres-d-emploi-rigger-accrocheur.348.1": {
     "company": "Recrutement Spectacle (aggregator)",
     "country": "France",
@@ -10833,6 +11947,11 @@
     "company": "Various employers",
     "date_found": "2026-08-21",
     "title": "Rope Access Job Vacancies"
+  },
+  "https://www.reed.co.uk/jobs/rope-access-supervisor-irata-level-3/36263078": {
+    "company": "via Reed",
+    "date_found": "2026-09-03",
+    "title": "Rope Access Supervisor (IRATA Level 3)"
   },
   "https://www.reed.co.uk/jobs/rope-access-trainer-full-training-provided/54226647": {
     "company": "Rise Technical Recruitment",
@@ -10906,6 +12025,13 @@
     "company": "RTS Wind Group",
     "date_found": "2026-08-09",
     "title": "Rotor Blade Technician (Rope Access)"
+  },
+  "https://www.rts-wind.com/careers/rotor-blade-technician/": {
+    "company": "RTS Wind",
+    "country": "Netherlands",
+    "date_found": "2026-09-02",
+    "location": "Europe",
+    "title": "Rotor Blade Technician (Platform)"
   },
   "https://www.rts-wind.com/careers/senior-rope-access-technician": {
     "company": "RTS Wind Group",
@@ -11102,6 +12228,13 @@
     "location": "Firenze, Toscana, Italy",
     "title": "Operaio/Capo squadra - Edilizia su fune"
   },
+  "https://www.subnetservices.com/recruitment/detail/irata-level-1--ndt-inspector--rope-access-technician-subnet00095": {
+    "company": "Subnet Services Ltd",
+    "country": "United Kingdom",
+    "date_found": "2026-09-02",
+    "location": "Offshore (UK agency)",
+    "title": "IRATA Level 1 / NDT Inspector (Rope Access Technician)"
+  },
   "https://www.subnetservices.com/recruitment/detail/irata-level-3-supervisor--rope-access-technician-subnet00097": {
     "company": "Subnet Services Ltd",
     "country": "UK",
@@ -11210,12 +12343,22 @@
     "location": "Switzerland",
     "title": "Jobs (listing hub)"
   },
+  "https://www.totaljobs.com/job/arborist/cheshire-east-job105927421": {
+    "company": "Cheshire East",
+    "date_found": "2026-09-03",
+    "title": "Arborist (E3097)"
+  },
   "https://www.totaljobs.com/job/flying-squad-rope-access-level-3-rigger/sparrows-offshore-services-limited-job105194431": {
     "company": "Sparrows Offshore Services Ltd (Altrad Sparrows)",
     "country": "UK",
     "date_found": "2026-08-27",
     "location": "North Sea/offshore, UK",
     "title": "Flying Squad – Rope Access Level 3 Rigger"
+  },
+  "https://www.totaljobs.com/job/irata-level-3-supervisor/story-contracting-ltd-job104039917": {
+    "company": "Story Contracting Ltd",
+    "date_found": "2026-09-03",
+    "title": "IRATA Level 3 Supervisor"
   },
   "https://www.totaljobs.com/job/junior-estimator-rope-access-irata/certain-advantage-job106991657": {
     "company": "Certain Advantage",
@@ -11228,6 +12371,13 @@
     "company": "Stork Technical Services UK Ltd",
     "date_found": "2026-08-17",
     "title": "Rope Access Multi NDT Technician"
+  },
+  "https://www.totaljobs.com/job/ndt-technician/altrad-integrity-services-limited-job105109081": {
+    "company": "Altrad Integrity Services",
+    "country": "United Kingdom",
+    "date_found": "2026-09-01",
+    "location": "Fawley, Southampton",
+    "title": "Rope Access NDT Technician"
   },
   "https://www.totaljobs.com/job/rope-access-advanced-ndt-technician/altrad-integrity-services-limited-job105464661": {
     "company": "Altrad Integrity Services Limited",
@@ -11309,6 +12459,13 @@
     "date_found": "2026-08-24",
     "location": "Heist-op-den-Berg",
     "title": "Rope Access Technicians"
+  },
+  "https://www.vdab.be/vindeenjob/vacatures/70093766/industrieel-techniekers-touw-touwtechniekers-rope-access-technicians": {
+    "company": "employer via VDAB (offshore/steel SME)",
+    "country": "Belgium",
+    "date_found": "2026-09-01",
+    "location": "Zeebrugge area",
+    "title": "Industrieel Technieker Touw / Touwtechnieker / Rope Access Technician"
   },
   "https://www.verticalaccess.co.uk/news/now-hiring-geotechnical-rope-access-technicians-irata-l3": {
     "company": "Vertical Access Ltd",
@@ -11443,992 +12600,5 @@
     "company": "Zenith Structural",
     "date_found": "2026-08-15",
     "title": "Inspection Rope Access Technician"
-  },
-  "https://to.indeed.com/aadxh6xj8gsw": {
-    "title": "IRATA Level 2 – Rope Access Technician (Window Cleaning & Property Maintenance)",
-    "company": "PALMER & CO",
-    "location": "Glasgow",
-    "country": "United Kingdom",
-    "date_found": "2026-08-31"
-  },
-  "https://to.indeed.com/aadwl28dg9zk": {
-    "title": "NDT Inspector – Offshore Vessel Project",
-    "company": "interocean",
-    "location": "Aberdeen",
-    "country": "United Kingdom",
-    "date_found": "2026-08-31"
-  },
-  "https://to.indeed.com/aa4b79pbx9w8": {
-    "title": "Roofer",
-    "company": "Vertex Access",
-    "location": "Chesterfield",
-    "country": "United Kingdom",
-    "date_found": "2026-08-31"
-  },
-  "https://to.indeed.com/aandmlqnlrxn": {
-    "title": "Field Expert Technician (Offshore, Fire Systems)",
-    "company": "Res",
-    "location": "Grimsby",
-    "country": "United Kingdom",
-    "date_found": "2026-08-31"
-  },
-  "https://to.indeed.com/aasfg4svjjpl": {
-    "title": "Rigger",
-    "company": "CDM Recruit",
-    "location": "Liverpool",
-    "country": "United Kingdom",
-    "date_found": "2026-08-31"
-  },
-  "https://to.indeed.com/aacpglfrn2qt": {
-    "title": "Rigger",
-    "company": "Navantia UK",
-    "location": "Stornoway",
-    "country": "United Kingdom",
-    "date_found": "2026-08-31"
-  },
-  "https://to.indeed.com/aazsz9cgqwg6": {
-    "title": "Rigger",
-    "company": "Projector Lifting Service Ltd",
-    "location": "Olney",
-    "country": "United Kingdom",
-    "date_found": "2026-08-31"
-  },
-  "https://to.indeed.com/aawz9w274drj": {
-    "title": "Seating Rigger",
-    "company": "Arena Events Group",
-    "location": "Newbury",
-    "country": "United Kingdom",
-    "date_found": "2026-08-31"
-  },
-  "https://to.indeed.com/aa7sq2dzfcpm": {
-    "title": "Rigger – Culham",
-    "company": "ALTRAD",
-    "location": "Culham",
-    "country": "United Kingdom",
-    "date_found": "2026-08-31"
-  },
-  "https://to.indeed.com/aasf6zrln4pl": {
-    "title": "Rigger",
-    "company": "Wood",
-    "location": "Cleveland",
-    "country": "United Kingdom",
-    "date_found": "2026-08-31"
-  },
-  "https://to.indeed.com/aatly8jzc9sm": {
-    "title": "Marquee Rigger",
-    "company": "UK Event Structures Limited",
-    "location": "Pontefract",
-    "country": "United Kingdom",
-    "date_found": "2026-08-31"
-  },
-  "https://to.indeed.com/aadnvcz94yvc": {
-    "title": "Trainee Rigger / Slinger Signaller",
-    "company": "Stainless Steel Vessels Limited",
-    "location": "Leeds",
-    "country": "United Kingdom",
-    "date_found": "2026-08-31"
-  },
-  "https://to.indeed.com/aa9qy9xgk9gg": {
-    "title": "Rigger",
-    "company": "Mammoet",
-    "location": "Tain",
-    "country": "United Kingdom",
-    "date_found": "2026-08-31"
-  },
-  "https://to.indeed.com/aabn7cl7976c": {
-    "title": "Experienced Arborist / Tree Surgeon",
-    "company": "Ajb Group",
-    "location": "Thame",
-    "country": "United Kingdom",
-    "date_found": "2026-08-31"
-  },
-  "https://to.indeed.com/aaygnglqsvrs": {
-    "title": "Arborist",
-    "company": "L&G Rail Ltd",
-    "location": "Newark-on-Trent",
-    "country": "United Kingdom",
-    "date_found": "2026-08-31"
-  },
-  "https://to.indeed.com/aaxhqy9dx84q": {
-    "title": "Arborist Climber",
-    "company": "BCS Tree Services",
-    "location": "Wickford",
-    "country": "United Kingdom",
-    "date_found": "2026-08-31"
-  },
-  "https://to.indeed.com/aaz6r7l66tqk": {
-    "title": "Arborist",
-    "company": "Kh garden services ltd",
-    "location": "Wokingham",
-    "country": "United Kingdom",
-    "date_found": "2026-08-31"
-  },
-  "https://to.indeed.com/aagbl6978mwv": {
-    "title": "Arborist",
-    "company": "Beechfield Tree Services",
-    "location": "Pudsey",
-    "country": "United Kingdom",
-    "date_found": "2026-08-31"
-  },
-  "https://to.indeed.com/aag2mntrrn9y": {
-    "title": "Arborist",
-    "company": "C&D Tree Limited",
-    "location": "Winchester",
-    "country": "United Kingdom",
-    "date_found": "2026-08-31"
-  },
-  "https://to.indeed.com/aagm2gldtpjh": {
-    "title": "Arborist",
-    "company": "Green Ice Ltd",
-    "location": "Bury St. Edmunds",
-    "country": "United Kingdom",
-    "date_found": "2026-08-31"
-  },
-  "https://to.indeed.com/aapwrspxvmgf": {
-    "title": "Climbing Arborist",
-    "company": "Ben Mason Arb Ltd",
-    "location": "Crowborough",
-    "country": "United Kingdom",
-    "date_found": "2026-08-31"
-  },
-  "https://to.indeed.com/aah6ccwpyyzp": {
-    "title": "Lynemouth – Wind Technician",
-    "company": "Res",
-    "location": "Lynemouth",
-    "country": "United Kingdom",
-    "date_found": "2026-08-31"
-  },
-  "https://to.indeed.com/aadnzjvvljzk": {
-    "title": "Field Service Fitter and Equipment Examiner",
-    "company": "Safer Rig Services",
-    "location": "Avonmouth",
-    "country": "United Kingdom",
-    "date_found": "2026-08-31"
-  },
-  "https://to.indeed.com/aa67ty7qdp4q": {
-    "title": "Technical Report Writer (Working at Height)",
-    "company": "Central (High Rise) Limited",
-    "location": "Nottingham",
-    "country": "United Kingdom",
-    "date_found": "2026-08-31"
-  },
-  "https://to.indeed.com/aarzq2p7wzwg": {
-    "title": "Training Instructor – South East",
-    "company": "Arco Limited",
-    "location": "Bracknell",
-    "country": "United Kingdom",
-    "date_found": "2026-08-31"
-  },
-  "https://to.indeed.com/aazfm2zxdnkc": {
-    "title": "Appointed Person",
-    "company": "Vestas",
-    "location": "Blyth",
-    "country": "United Kingdom",
-    "date_found": "2026-08-31"
-  },
-  "https://to.indeed.com/aa9cl4s6c6cd": {
-    "title": "IRATA Level 1 Rope Access Technicians",
-    "company": "Agua-Clean Services",
-    "location": "Dublin, County Dublin",
-    "country": "Ireland",
-    "date_found": "2026-08-31"
-  },
-  "https://to.indeed.com/aatyt6c7rdmc": {
-    "title": "Rigger",
-    "company": "Fohntech Group",
-    "location": "South Dublin, County Dublin",
-    "country": "Ireland",
-    "date_found": "2026-08-31"
-  },
-  "https://to.indeed.com/aarhlt4drhll": {
-    "title": "Arborist Climber / Tree Surgeon",
-    "company": "Bartlett Tree Experts",
-    "location": "Rathcoole, County Dublin",
-    "country": "Ireland",
-    "date_found": "2026-08-31"
-  },
-  "https://to.indeed.com/aac8c8wnj9mx": {
-    "title": "Tree Surgeon/Groundsperson",
-    "company": "POWERSERVE",
-    "location": "Port Laoise, County Laois",
-    "country": "Ireland",
-    "date_found": "2026-08-31"
-  },
-  "https://to.indeed.com/aaxzlb9w79mn": {
-    "title": "Tree Surgeon",
-    "company": "SAP Landscapes",
-    "location": "Dublin, County Dublin",
-    "country": "Ireland",
-    "date_found": "2026-08-31"
-  },
-  "https://to.indeed.com/aajj4t7tgr6b": {
-    "title": "High Ropes Instructor",
-    "company": "Center Parcs",
-    "location": "Longford, County Longford",
-    "country": "Ireland",
-    "date_found": "2026-08-31"
-  },
-  "https://to.indeed.com/aa74xhtfmhl7": {
-    "title": "Industriekletterer / Quereinsteiger aus dem Handwerk (m/w/d)",
-    "company": "Steady Climbing GmbH",
-    "location": "Stuhr",
-    "country": "Germany",
-    "date_found": "2026-08-31"
-  },
-  "https://to.indeed.com/aasf4s7scjqt": {
-    "title": "Monteur (m/w/d) für Sanierungsprojekte im Bereich Windkraftanlagen",
-    "company": "Supianek Baugesellschaft mbH",
-    "location": "Hilden",
-    "country": "Germany",
-    "date_found": "2026-08-31"
-  },
-  "https://to.indeed.com/aanqvr8qmd7v": {
-    "title": "Instandsetzer (m/w/d) für Sanierungsprojekte im Bereich Windkraftanlagen",
-    "company": "Supianek Baugesellschaft mbH",
-    "location": "Hilden",
-    "country": "Germany",
-    "date_found": "2026-08-31"
-  },
-  "https://www.bs-frielingsdorf-nord.de/stellenangebote/Industriekletterer_d_m_w_30_Tage_Urlaub_Quereinstieg_moeglich/086cc5e3-6b02-4374-a1a5-6367f0aa74c8/": {
-    "title": "Industriekletterer (d/m/w, 30 Tage Urlaub, Quereinstieg möglich)",
-    "company": "Frielingsdorf Nord",
-    "location": "Lübeck",
-    "country": "Germany",
-    "date_found": "2026-08-31"
-  },
-  "https://to.indeed.com/aan76d2nqc7b": {
-    "title": "Tilkomsttekniker nivå 2-3-Sikringsleder",
-    "company": "Bilfinger",
-    "location": "Stavanger",
-    "country": "Norway",
-    "date_found": "2026-08-31"
-  },
-  "https://to.indeed.com/aafpbychvmm6": {
-    "title": "Tilkomsttekniker med elektriker fagbrev",
-    "company": "DeepOcean",
-    "location": "Sola",
-    "country": "Norway",
-    "date_found": "2026-08-31"
-  },
-  "https://to.indeed.com/aa7ndfz6dpws": {
-    "title": "NDT Level II Inspector (rope access)",
-    "company": "Intertek",
-    "location": "Vestlandet",
-    "country": "Norway",
-    "date_found": "2026-08-31"
-  },
-  "https://to.indeed.com/aagg7xdc9csy": {
-    "title": "Blade Technician season 2026",
-    "company": "SWIRE",
-    "location": "Lystrup",
-    "country": "Denmark",
-    "date_found": "2026-08-31"
-  },
-  "https://to.indeed.com/aa2vsvxfqwr8": {
-    "title": "Tecnico Operatore su Fune (Accesso su Fune)",
-    "company": "Ediliziaerea Srl",
-    "location": "Desio, Lombardia",
-    "country": "Italy",
-    "date_found": "2026-08-31"
-  },
-  "https://to.indeed.com/aar2g4cjk9vm": {
-    "title": "Operatore per installazioni in quota",
-    "company": "Odi srl",
-    "location": "Torino, Piemonte",
-    "country": "Italy",
-    "date_found": "2026-08-31"
-  },
-  "https://to.indeed.com/aasc9kvxsq9q": {
-    "title": "Rope Access Level 3 - Painter Blaster",
-    "company": "ALTRAD",
-    "location": "Warrington, UK",
-    "country": "Pan-European",
-    "date_found": "2026-08-31"
-  },
-  "https://to.indeed.com/aalxzmzs9cq2": {
-    "title": "IRATA Level 2 - Rope Access Technician",
-    "company": "Palmer & Co",
-    "location": "Glasgow, UK",
-    "country": "Pan-European",
-    "date_found": "2026-08-31"
-  },
-  "https://to.indeed.com/aagd2s2c4yrs": {
-    "title": "Level 3 Rope Access Technician",
-    "company": "Classic Cleaning LTD",
-    "location": "London, UK",
-    "country": "Pan-European",
-    "date_found": "2026-08-31"
-  },
-  "https://www.net-empregos.com/12654279/tecnicos-especializados-alpinista/": {
-    "title": "Técnicos Especializados – Alpinista",
-    "company": "Robison Santiago Unipessoal Lda (RS Facilits)",
-    "location": "Lisboa & Margem Sul",
-    "country": "Portugal",
-    "date_found": "2026-08-31"
-  },
-  "https://www.infojobs.net/valencia/oficial-trabajos-verticales/of-i8c3a9a9b9b4775a25ed20c974a55a6?applicationOrigin=search-new&page=1&sortBy=PUBLICATION_DATE": {
-    "title": "Oficial en Trabajos Verticales",
-    "company": "Alturia Verticales",
-    "location": "Valencia",
-    "country": "Spain",
-    "date_found": "2026-08-31"
-  },
-  "https://www.randstad.es/candidatos/ofertas-empleo/oferta/operario-a-trabajos-altura-con-formacion-verticales-2922061/": {
-    "title": "Operario/a de Trabajos en Altura con Formación en Verticales",
-    "company": "Randstad",
-    "location": "Valencia/Paterna",
-    "country": "Spain",
-    "date_found": "2026-08-31"
-  },
-  "https://www.infojobs.net/tarragona/tecnico-trabajos-verticales-con-anetva-irata./of-i1a6d4a968845e79ef55f5c1c0821ea?applicationOrigin=search-new&page=1&sortBy=RELEVANCE": {
-    "title": "Técnico en Trabajos Verticales con ANETVA/IRATA",
-    "company": "(unspecified employer via InfoJobs)",
-    "location": "Tarragona",
-    "country": "Spain",
-    "date_found": "2026-08-31"
-  },
-  "https://candidat.francetravail.fr/offres/recherche/detail/205YPST": {
-    "title": "Cordiste (H/F)",
-    "company": "(agency listing)",
-    "location": "Caen (14)",
-    "country": "France",
-    "date_found": "2026-08-31"
-  },
-  "https://candidat.francetravail.fr/offres/recherche/detail/202NHGQ": {
-    "title": "Électriciens Cordistes Offshore (H/F)",
-    "company": "(agency listing)",
-    "location": "Vigneux-de-Bretagne (44)",
-    "country": "France",
-    "date_found": "2026-08-31"
-  },
-  "https://candidat.francetravail.fr/offres/recherche/detail/206XTJB": {
-    "title": "Chef d'Équipe Cordiste (H/F)",
-    "company": "(agency listing)",
-    "location": "Nantes (44)",
-    "country": "France",
-    "date_found": "2026-08-31"
-  },
-  "https://candidat.francetravail.fr/offres/recherche/detail/173LXTG": {
-    "title": "Chef d'Équipe Cordiste (H/F)",
-    "company": "(agency listing)",
-    "location": "Herblay-sur-Seine (95)",
-    "country": "France",
-    "date_found": "2026-08-31"
-  },
-  "https://candidat.francetravail.fr/offres/recherche/detail/206KWPL": {
-    "title": "Cordiste (H/F)",
-    "company": "(agency listing)",
-    "location": "Grenoble (38)",
-    "country": "France",
-    "date_found": "2026-08-31"
-  },
-  "https://candidat.francetravail.fr/offres/recherche/detail/207GBTD": {
-    "title": "Chef d'Équipe Cordiste – Lyon & Région AURA",
-    "company": "(agency listing)",
-    "location": "Chasse-sur-Rhône (38)",
-    "country": "France",
-    "date_found": "2026-08-31"
-  },
-  "https://candidat.francetravail.fr/offres/recherche/detail/201BTQZ": {
-    "title": "Chef d'Équipe Cordiste (H/F)",
-    "company": "(agency listing)",
-    "location": "Auray (56)",
-    "country": "France",
-    "date_found": "2026-08-31"
-  },
-  "https://candidat.francetravail.fr/offres/recherche/detail/186BQWP": {
-    "title": "Chef d'Équipe Cordiste (H/F)",
-    "company": "(agency listing)",
-    "location": "Annecy (74)",
-    "country": "France",
-    "date_found": "2026-08-31"
-  },
-  "https://candidat.francetravail.fr/offres/recherche/detail/195HXFB": {
-    "title": "Chef / Cheffe d'Équipe Cordiste (H/F)",
-    "company": "(agency listing)",
-    "location": "Le Muy (83)",
-    "country": "France",
-    "date_found": "2026-08-31"
-  },
-  "https://fr.linkedin.com/jobs/view/formation-cordiste-urbain-h-f-at-ediliziacrobatica-france-4045810731": {
-    "title": "Formation Cordiste Urbain (H/F)",
-    "company": "EdiliziAcrobatica France",
-    "location": "Toulouse/Nice/Marseille/Perpignan/Lyon",
-    "country": "France",
-    "date_found": "2026-08-31"
-  },
-  "https://cargadetrabalhos.pt/ofertas/tecnico-de-montagem-em-eventos/": {
-    "title": "Técnico de Montagem em Eventos",
-    "company": "Mainvision – Media Solutions",
-    "location": "Portugal",
-    "country": "Portugal",
-    "date_found": "2026-09-01"
-  },
-  "https://www.anetva.org/oferta-de-empleo/especialista-trabajos-verticales-obra-civil-y-montaje-mecanico-2/": {
-    "title": "Especialista Trabajos Verticales Obra Civil y Montaje Mecánico",
-    "company": "via ANETVA board",
-    "location": "San Roque, Cádiz",
-    "country": "Spain",
-    "date_found": "2026-09-01"
-  },
-  "https://www.anetva.org/oferta-de-empleo/autonomos-en-trabajos-verticales/": {
-    "title": "Autónomos en Trabajos Verticales",
-    "company": "via ANETVA board",
-    "location": "Spain",
-    "country": "Spain",
-    "date_found": "2026-09-01"
-  },
-  "https://to.indeed.com/aaltlnqhfvr6": {
-    "title": "Técnico en reparación de palas / Blade Repair Technician",
-    "company": "FairWind",
-    "location": "Vilalba, Lugo",
-    "country": "Spain",
-    "date_found": "2026-09-01"
-  },
-  "https://www.totaljobs.com/job/ndt-technician/altrad-integrity-services-limited-job105109081": {
-    "title": "Rope Access NDT Technician",
-    "company": "Altrad Integrity Services",
-    "location": "Fawley, Southampton",
-    "country": "United Kingdom",
-    "date_found": "2026-09-01"
-  },
-  "https://www.jobsatheight.com/jobs/rope-access-technician-level-2-795bf7d0": {
-    "title": "Rope Access Technician (Level 2)",
-    "company": "OCS",
-    "location": "Crawley",
-    "country": "United Kingdom",
-    "date_found": "2026-09-01"
-  },
-  "https://uk.linkedin.com/jobs/view/adhoc-rope-access-ndt-technician-at-bilfinger-uk-3797475702": {
-    "title": "ADHOC Rope Access NDT Technician",
-    "company": "Bilfinger UK",
-    "location": "UK",
-    "country": "United Kingdom",
-    "date_found": "2026-09-01"
-  },
-  "https://uk.linkedin.com/jobs/view/rope-access-technician-at-proaltus-group-4047587744": {
-    "title": "Rope Access Technician",
-    "company": "ProAltus Group",
-    "location": "Greater London",
-    "country": "United Kingdom",
-    "date_found": "2026-09-01"
-  },
-  "https://uk.linkedin.com/jobs/view/rope-access-technician-at-specialist-access-technicians-3889416780": {
-    "title": "Rope Access Technician",
-    "company": "Specialist Access Technicians (SAT)",
-    "location": "UK",
-    "country": "United Kingdom",
-    "date_found": "2026-09-01"
-  },
-  "https://talents.studysmarter.co.uk/companies/windtex/irata-level-3-blade-inspection-and-repair-technicians-6898822/": {
-    "title": "IRATA Level 3 Blade Inspection and Repair Technicians",
-    "company": "Windtex",
-    "location": "UK",
-    "country": "United Kingdom",
-    "date_found": "2026-09-01"
-  },
-  "https://to.indeed.com/aaclltzfmccz": {
-    "title": "Level 3 Rope Access Technician",
-    "company": "Classic Cleaning LTD",
-    "location": "London",
-    "country": "United Kingdom",
-    "date_found": "2026-09-01"
-  },
-  "https://to.indeed.com/aa27xwgc8rwp": {
-    "title": "Rope Access level 1 or 2",
-    "company": "Interocean",
-    "location": "Aberdeen",
-    "country": "United Kingdom",
-    "date_found": "2026-09-01"
-  },
-  "https://to.indeed.com/aahdgtzngmmm": {
-    "title": "Abseiler",
-    "company": "Titchfield Group",
-    "location": "Hatfield",
-    "country": "United Kingdom",
-    "date_found": "2026-09-01"
-  },
-  "https://www.bluestreamoffshore.com/nl/jouw-carriere/vacatures/rope-access-technician/": {
-    "title": "Rope Access Technician",
-    "company": "Bluestream Offshore",
-    "location": "Netherlands",
-    "country": "Netherlands",
-    "date_found": "2026-09-01"
-  },
-  "https://www.vdab.be/vindeenjob/vacatures/70093766/industrieel-techniekers-touw-touwtechniekers-rope-access-technicians": {
-    "title": "Industrieel Technieker Touw / Touwtechnieker / Rope Access Technician",
-    "company": "employer via VDAB (offshore/steel SME)",
-    "location": "Zeebrugge area",
-    "country": "Belgium",
-    "date_found": "2026-09-01"
-  },
-  "https://www.jobscout24.ch/en/job/b28bfd4d-f912-4a0e-b8f7-0b35c7cf701f/": {
-    "title": "Industriekletterer (m/w) (Nr. 856)",
-    "company": "Bellini Personal AG",
-    "location": "Chur area",
-    "country": "Switzerland",
-    "date_found": "2026-09-01"
-  },
-  "https://www.jobup.ch/en/jobs/detail/267ecf2d-93b2-4590-87b7-86fc7f46538a/": {
-    "title": "Cordiste sur corde",
-    "company": "Groupe PGN",
-    "location": "Switzerland",
-    "country": "Switzerland",
-    "date_found": "2026-09-01"
-  },
-  "https://to.indeed.com/aa9wh2tgspzp": {
-    "title": "Wind Turbine Rope Access Technician – Rotor Blades (m/f/d)",
-    "company": "SPIE Wind",
-    "location": "Bremen",
-    "country": "Germany",
-    "date_found": "2026-09-01"
-  },
-  "https://to.indeed.com/aapbplmzxhq4": {
-    "title": "Rope Access Technician",
-    "company": "Aerones",
-    "location": "Germany (nationwide)",
-    "country": "Germany",
-    "date_found": "2026-09-01"
-  },
-  "https://to.indeed.com/aagjvlxlprfb": {
-    "title": "Industriekletterer",
-    "company": "Zweiseil GmbH",
-    "location": "Linz am Rhein",
-    "country": "Germany",
-    "date_found": "2026-09-01"
-  },
-  "https://to.indeed.com/aavl7fpndkqy": {
-    "title": "Industriekletterer in Ausbildung",
-    "company": "Zweiseil GmbH",
-    "location": "Linz am Rhein",
-    "country": "Germany",
-    "date_found": "2026-09-01"
-  },
-  "https://to.indeed.com/aayzfvy2lx2m": {
-    "title": "Industriekletterer für Glas- und Fassadenreinigung (m/w/d)",
-    "company": "3B Dienstleistung Deutschland GmbH",
-    "location": "Berlin",
-    "country": "Germany",
-    "date_found": "2026-09-01"
-  },
-  "https://to.indeed.com/aazmcx8zbczg": {
-    "title": "Aufsichtsführender Höhenarbeiter / Industriekletterer (m/w/d)",
-    "company": "REMONDIS / BUCHEN EnergyServices",
-    "location": "Herne",
-    "country": "Germany",
-    "date_found": "2026-09-01"
-  },
-  "https://to.indeed.com/aahfbxjzqlwn": {
-    "title": "Industriekletterer / Höhenarbeiter (m/w/d)",
-    "company": "Piepenbrock",
-    "location": "Hamburg",
-    "country": "Germany",
-    "date_found": "2026-09-01"
-  },
-  "https://to.indeed.com/aac7pvtnt47f": {
-    "title": "Vollzeit-Kletterer/Industriekletterer",
-    "company": "Dachdienst Hamburg",
-    "location": "Hamburg",
-    "country": "Germany",
-    "date_found": "2026-09-01"
-  },
-  "https://to.indeed.com/aavjq6wcwsqf": {
-    "title": "Industriekletterer / Quereinsteiger aus dem Handwerk (m/w/d)",
-    "company": "Steady Climbing GmbH",
-    "location": "Stuhr",
-    "country": "Germany",
-    "date_found": "2026-09-01"
-  },
-  "https://to.indeed.com/aa8zxyvcfsc2": {
-    "title": "Monteur (m/w/d) für Sanierungsprojekte im Bereich Windkraftanlagen",
-    "company": "Supianek Baugesellschaft mbH",
-    "location": "Hilden",
-    "country": "Germany",
-    "date_found": "2026-09-01"
-  },
-  "https://to.indeed.com/aadxhyykv22v": {
-    "title": "Blade Technician (m/w/d), Vogelsdorf",
-    "company": "Vestas",
-    "location": "Potsdam",
-    "country": "Germany",
-    "date_found": "2026-09-01"
-  },
-  "https://to.indeed.com/aaxzwyp89nl9": {
-    "title": "Blade Technician (m/w/d), Empfingen",
-    "company": "Vestas",
-    "location": "Husum",
-    "country": "Germany",
-    "date_found": "2026-09-01"
-  },
-  "https://to.indeed.com/aargnfshwrf4": {
-    "title": "Service Technician (m/w/d) Blades, near Berchtesgaden",
-    "company": "Vestas",
-    "location": "Hamburg",
-    "country": "Germany",
-    "date_found": "2026-09-01"
-  },
-  "https://to.indeed.com/aalgf2f8cpqn": {
-    "title": "Verfahrensmechaniker (m/w/d) Windenergie – Rotorblattreparatur (Seilbühne)",
-    "company": "Vestas",
-    "location": "Waldbüttelbrunn",
-    "country": "Germany",
-    "date_found": "2026-09-01"
-  },
-  "https://to.indeed.com/aaxpp692sck6": {
-    "title": "Servicetechniker (m/w/d) Windenergie – Rotorblattreparatur (Seilbühne)",
-    "company": "Vestas",
-    "location": "Würzburg",
-    "country": "Germany",
-    "date_found": "2026-09-01"
-  },
-  "https://to.indeed.com/aaytljtjp7zm": {
-    "title": "Tilkomsttekniker nivå 2-3-Sikringsleder",
-    "company": "Bilfinger ISP Offshore Norway AS",
-    "location": "Stavanger",
-    "country": "Norway",
-    "date_found": "2026-09-01"
-  },
-  "https://to.indeed.com/aatqvvhsqyny": {
-    "title": "Scaffolder I Offshore I Worldwide",
-    "company": "contractor via Indeed",
-    "location": "Bergen",
-    "country": "Norway",
-    "date_found": "2026-09-01"
-  },
-  "https://to.indeed.com/aarxz764tclh": {
-    "title": "Industrial Insulation Fitter / Industrial Painter / Scaffolder",
-    "company": "Adecco",
-    "location": "Oslo",
-    "country": "Norway",
-    "date_found": "2026-09-01"
-  },
-  "https://to.indeed.com/aabjz7pmcr8r": {
-    "title": "NDT Level II Inspector",
-    "company": "Intertek",
-    "location": "Vestlandet",
-    "country": "Norway",
-    "date_found": "2026-09-01"
-  },
-  "https://to.indeed.com/aapbwp7497lx": {
-    "title": "Rope Access NDT Technicians",
-    "company": "Swire Renewable Energy",
-    "location": "Lystrup",
-    "country": "Denmark",
-    "date_found": "2026-09-01"
-  },
-  "https://to.indeed.com/aafpm7sxmbh6": {
-    "title": "Complex Blade Repair Technicians",
-    "company": "Global Wind Service",
-    "location": "Fredericia",
-    "country": "Denmark",
-    "date_found": "2026-09-01"
-  },
-  "https://to.indeed.com/aa4vjyrvpg9b": {
-    "title": "Cordiste",
-    "company": "MACE",
-    "location": "Trégueux (22)",
-    "country": "France",
-    "date_found": "2026-09-01"
-  },
-  "https://to.indeed.com/aaq6kghqxmcy": {
-    "title": "Cordiste H/F/X",
-    "company": "E-KEEP IDF",
-    "location": "Clermont-Ferrand (63)",
-    "country": "France",
-    "date_found": "2026-09-01"
-  },
-  "https://to.indeed.com/aavrdp7yfzvq": {
-    "title": "Cordiste forage H/F",
-    "company": "PROMAN",
-    "location": "Pralognan-la-Vanoise (73)",
-    "country": "France",
-    "date_found": "2026-09-01"
-  },
-  "https://to.indeed.com/aam6b7hxbbrv": {
-    "title": "Cordiste H/F (74)",
-    "company": "PROMAN",
-    "location": "Annemasse (74)",
-    "country": "France",
-    "date_found": "2026-09-01"
-  },
-  "https://to.indeed.com/aan8jwfqb2b9": {
-    "title": "Cordiste tp H/F (07)",
-    "company": "PROMAN",
-    "location": "Privas (07)",
-    "country": "France",
-    "date_found": "2026-09-01"
-  },
-  "https://to.indeed.com/aa8rdpfkcqkl": {
-    "title": "Cordiste H/F",
-    "company": "PROMAN",
-    "location": "Lille (59)",
-    "country": "France",
-    "date_found": "2026-09-01"
-  },
-  "https://to.indeed.com/aav6xxfc6gcp": {
-    "title": "Technicien Cordiste H/F",
-    "company": "Groupe NA",
-    "location": "Cannes (06)",
-    "country": "France",
-    "date_found": "2026-09-01"
-  },
-  "https://to.indeed.com/aam48gsrwqvf": {
-    "title": "Technicien cordiste H/F",
-    "company": "ANCY ROPE ACCESS",
-    "location": "Annecy (74)",
-    "country": "France",
-    "date_found": "2026-09-01"
-  },
-  "https://to.indeed.com/aarygtrvsplx": {
-    "title": "Technicien Cordiste Maçon H/F",
-    "company": "ANCY ROPE ACCESS",
-    "location": "Annecy (74)",
-    "country": "France",
-    "date_found": "2026-09-01"
-  },
-  "https://to.indeed.com/aaxlhvqm9jd2": {
-    "title": "Cordiste urbain (H/F)",
-    "company": "Groupe LIP",
-    "location": "Lyon (69)",
-    "country": "France",
-    "date_found": "2026-09-01"
-  },
-  "https://to.indeed.com/aar62z8xc9sl": {
-    "title": "Technicien Maintenance Cordiste H/F",
-    "company": "Noriap",
-    "location": "Saleux",
-    "country": "France",
-    "date_found": "2026-09-01"
-  },
-  "https://to.indeed.com/aajgz76jqsdf": {
-    "title": "Chef d'équipe bâtiment tout corps d'état cordiste (H/F)",
-    "company": "ALTITUDE SERVICES ILE DE FRANCE",
-    "location": "Vigneux-de-Bretagne (44)",
-    "country": "France",
-    "date_found": "2026-09-01"
-  },
-  "https://to.indeed.com/aap4m7lzf8n6": {
-    "title": "Chef d'équipe cordiste (F/H)",
-    "company": "Actual Experts Grand Ouest",
-    "location": "Rennes (35)",
-    "country": "France",
-    "date_found": "2026-09-01"
-  },
-  "https://to.indeed.com/aarpf8bk7qk4": {
-    "title": "Chef d'équipe cordiste (H/F)",
-    "company": "Actual Experts Grand Ouest",
-    "location": "Romillé (35)",
-    "country": "France",
-    "date_found": "2026-09-01"
-  },
-  "https://to.indeed.com/aacs6ggcrycr": {
-    "title": "Cordiste H/F chef d'équipe",
-    "company": "3D Mobility",
-    "location": "Passy (74)",
-    "country": "France",
-    "date_found": "2026-09-01"
-  },
-  "https://to.indeed.com/aazgz66qzx9j": {
-    "title": "Chef d'équipe cordiste maçon H/F",
-    "company": "LPA - Lauragais Pyrénées Accès",
-    "location": "Castanet-Tolosan (31)",
-    "country": "France",
-    "date_found": "2026-09-01"
-  },
-  "https://to.indeed.com/aaq62bmbgkjb": {
-    "title": "Chef d'équipe Cordiste H/F",
-    "company": "Groupe NA",
-    "location": "Quéven (56)",
-    "country": "France",
-    "date_found": "2026-09-01"
-  },
-  "https://to.indeed.com/aafpm82qscxt": {
-    "title": "Chef d'équipe et assistant cordiste urbain CQP1/CQP2/CATC (H/F)",
-    "company": "Ediliziacrobatica France",
-    "location": "Bordeaux (33)",
-    "country": "France",
-    "date_found": "2026-09-01"
-  },
-  "https://to.indeed.com/aaprsy4shdqy": {
-    "title": "OPERATORE IN FUNE",
-    "company": "Umana",
-    "location": "Milano",
-    "country": "Italy",
-    "date_found": "2026-09-01"
-  },
-  "https://to.indeed.com/aaz8pdvpwppb": {
-    "title": "OPERATORE IN FUNE",
-    "company": "Umana",
-    "location": "Roma",
-    "country": "Italy",
-    "date_found": "2026-09-01"
-  },
-  "https://to.indeed.com/aabgz6x4phxw": {
-    "title": "OPERATORE IN FUNE",
-    "company": "Umana",
-    "location": "Bologna",
-    "country": "Italy",
-    "date_found": "2026-09-01"
-  },
-  "https://to.indeed.com/aa9c74dqx2st": {
-    "title": "Tecnico Operatore su Fune (Accesso su Fune)",
-    "company": "Ediliziaerea Srl",
-    "location": "Desio (MB), Lombardia",
-    "country": "Italy",
-    "date_found": "2026-09-01"
-  },
-  "https://to.indeed.com/aa96kqt8cwbt": {
-    "title": "Operatore su fune",
-    "company": "BlackLine srls",
-    "location": "Genova",
-    "country": "Italy",
-    "date_found": "2026-09-01"
-  },
-  "https://candidat.francetravail.fr/offres/recherche/detail/206JKVR": {
-    "title": "Cordiste BTP (H/F)",
-    "company": "LPA (Lauragais Pyrénées Accès)",
-    "location": "Toulouse (31)",
-    "country": "France",
-    "date_found": "2026-09-02"
-  },
-  "https://candidat.francetravail.fr/offres/recherche/detail/212BCKP": {
-    "title": "Formation Technicien Cordiste Nucléaire (H/F)",
-    "company": "via France Travail",
-    "location": "Pierrelatte (26)",
-    "country": "France",
-    "date_found": "2026-09-02"
-  },
-  "https://talents.studysmarter.co.uk/companies/can-group/rope-access-ndt-technician-310857/": {
-    "title": "Rope Access NDT Technician",
-    "company": "CAN Group",
-    "location": "Barrow-in-Furness",
-    "country": "United Kingdom",
-    "date_found": "2026-09-02"
-  },
-  "https://uk.linkedin.com/jobs/view/irata-rope-access-technician-at-pendrich-height-services-4182881472": {
-    "title": "IRATA Rope Access Technician",
-    "company": "Pendrich Height Services (PTSG)",
-    "location": "UK",
-    "country": "United Kingdom",
-    "date_found": "2026-09-02"
-  },
-  "https://www.subnetservices.com/recruitment/detail/irata-level-1--ndt-inspector--rope-access-technician-subnet00095": {
-    "title": "IRATA Level 1 / NDT Inspector (Rope Access Technician)",
-    "company": "Subnet Services Ltd",
-    "location": "Offshore (UK agency)",
-    "country": "United Kingdom",
-    "date_found": "2026-09-02"
-  },
-  "http://www.escaladeropeaccess.co.uk/": {
-    "title": "Rope Access Technician (ongoing recruitment)",
-    "company": "Escalade Rope Access Ltd",
-    "location": "Belfast, Northern Ireland",
-    "country": "United Kingdom",
-    "date_found": "2026-09-02"
-  },
-  "https://uk.linkedin.com/showcase/altrad-sparrows-recruitment/": {
-    "title": "Rope Access Technician (Aberdeen, offshore)",
-    "company": "Altrad Sparrows",
-    "location": "Aberdeen, Scotland",
-    "country": "United Kingdom",
-    "date_found": "2026-09-02"
-  },
-  "https://arbordivision.co.uk/contact-us/job-vacancies": {
-    "title": "Team Leader Arborist Climber",
-    "company": "Arbor Division Ltd",
-    "location": "UK-wide (rail/utility/commercial)",
-    "country": "United Kingdom",
-    "date_found": "2026-09-02"
-  },
-  "https://www.rts-wind.com/careers/rotor-blade-technician/": {
-    "title": "Rotor Blade Technician (Platform)",
-    "company": "RTS Wind",
-    "location": "Europe",
-    "country": "Netherlands",
-    "date_found": "2026-09-02"
-  },
-  "https://oceanwidecrew.com/vacancies/vacancy/service-technician-blade-repair-netherlands-and-utrecht~2023-00501": {
-    "title": "Service Technician – Blade Repair (NL and BE)",
-    "company": "Oceanwide Crew",
-    "location": "Onshore windfarms NL/BE",
-    "country": "Netherlands",
-    "date_found": "2026-09-02"
-  },
-  "https://www.manpower.nl/en/jobs/198182/service-technician-wind-turbines-netherlands": {
-    "title": "Service Technician wind turbines Netherlands",
-    "company": "Manpower NL",
-    "location": "Netherlands",
-    "country": "Netherlands",
-    "date_found": "2026-09-02"
-  },
-  "https://belgique-travaux-hauteur.be/": {
-    "title": "Technicien(ne) Cordiste",
-    "company": "BTH (Belgique Travaux en Hauteur)",
-    "location": "Mouscron, Wallonia",
-    "country": "Belgium",
-    "date_found": "2026-09-02"
-  },
-  "https://basf.jobs/content/apply/?extJobId=87711-de_DE": {
-    "title": "Montagekoordination Industriekletterer:in mit Level 3 (m/w/d)",
-    "company": "BASF SE",
-    "location": "Ludwigshafen am Rhein",
-    "country": "Germany",
-    "date_found": "2026-09-02"
-  },
-  "https://frielingsdorf-group.de/stellenangebote-industriekletterer/": {
-    "title": "Industriekletterer (d/m/w), Quereinsteiger möglich",
-    "company": "Frielingsdorf Nord GmbH",
-    "location": "Germany-wide",
-    "country": "Germany",
-    "date_found": "2026-09-02"
-  },
-  "https://www.industriekletternberlin.de/karriere/": {
-    "title": "Industriekletterer – Karriere/openings page",
-    "company": "Industriekletterer Berlin",
-    "location": "Berlin",
-    "country": "Germany",
-    "date_found": "2026-09-02"
-  },
-  "https://www.finn.no/job/employer/company/962": {
-    "title": "Offshore Tilkomsttekniker (m/ elektrofagbrev)",
-    "company": "Hytech Access & Inspection AS",
-    "location": "Sola",
-    "country": "Norway",
-    "date_found": "2026-09-02"
-  },
-  "https://jobs.bilfinger.com/job/Esbjerg-NDT-Technician-Onshore-83-DK/1076090601/": {
-    "title": "NDT Technician Onshore",
-    "company": "Bilfinger Danmark A/S",
-    "location": "Esbjerg",
-    "country": "Denmark",
-    "date_found": "2026-09-02"
-  },
-  "https://crewbase.pro/jobs/B6VMcZzudfGazXqJxFco": {
-    "title": "IRATA L3 Technician",
-    "company": "Muehlhan Wind Service",
-    "location": "Offshore windfarm vessels, Scandinavia/Greece",
-    "country": "Denmark",
-    "date_found": "2026-09-02"
-  },
-  "https://careers.vestas.com/job/Aarhus-C-Travelling-Service-Technician-Offshore-Regi/1374765533/": {
-    "title": "Travelling Service Technician – Offshore",
-    "company": "Vestas",
-    "location": "Aarhus C",
-    "country": "Denmark",
-    "date_found": "2026-09-02"
-  },
-  "https://it.indeed.com/viewjob?jk=04a0f7542d1863de": {
-    "title": "Operaio su fune",
-    "company": "via Indeed",
-    "location": "Roma, Lazio",
-    "country": "Italy",
-    "date_found": "2026-09-02"
-  },
-  "https://it.indeed.com/viewjob?jk=4ff195ed5c6a178f": {
-    "title": "Muratore su fune",
-    "company": "via Indeed",
-    "location": "Milano, Lombardia",
-    "country": "Italy",
-    "date_found": "2026-09-02"
   }
 }
