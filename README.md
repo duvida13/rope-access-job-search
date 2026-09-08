@@ -1,4 +1,4 @@
 # rope-access-job-search
 rope access job search Europe
 
-Latest: digests/2026-09-08.md
+Latest: digests/2026-09-09.md
