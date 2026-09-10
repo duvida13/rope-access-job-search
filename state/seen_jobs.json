@@ -148,6 +148,12 @@
     "date_found": "2026-08-13",
     "title": "Allrig Group – Offshore Rope Access in Iceland"
   },
+  "https://alpin-group.pro/Praca/": {
+    "company": "Alpin Group",
+    "country": "Poland",
+    "date_found": "2026-09-10",
+    "title": "Alpinista przemysłowy - technik dostępu linowego"
+  },
   "https://alprojects.eu/job-offers/ndt-technician/": {
     "company": "ALprojects Group",
     "date_found": "2026-08-17",
@@ -2715,6 +2721,12 @@
     "company": "Rebteknikeren ApS",
     "date_found": "2026-08-08",
     "title": "Job (rope access craftspeople)"
+  },
+  "https://rebteknikeren.dk/vi-soeger-erhvervsklatrere-l1-l2-l3/": {
+    "company": "Rebteknikeren ApS",
+    "country": "Denmark",
+    "date_found": "2026-09-10",
+    "title": "Erhvervsklatrere L1 / L2 / L3"
   },
   "https://recrute.francetravail.fr/page-entreprise/ediliziacrobatica-france": {
     "company": "EdiliziAcrobatica France",
@@ -6821,6 +6833,12 @@
     "date_found": "2026-08-08",
     "title": "CORDISTE (H/F)"
   },
+  "https://to.indeed.com/aakqqyk8yfhl": {
+    "company": "PolyTALENT GmbH",
+    "country": "Germany",
+    "date_found": "2026-09-10",
+    "title": "Industriekletterer / Höhenarbeiter (m/w/d)"
+  },
   "https://to.indeed.com/aakqslbnwccj": {
     "company": "Titchfield Group",
     "country": "UK",
@@ -6868,6 +6886,12 @@
     "date_found": "2026-08-06",
     "location": "Roma",
     "title": "Tecnico in fune"
+  },
+  "https://to.indeed.com/aal6mfptccnj": {
+    "company": "Vertical Marques",
+    "country": "Portugal",
+    "date_found": "2026-09-10",
+    "title": "Técnico de Acesso por Cordas (Alpinista de Construção Civil) — among other trades"
   },
   "https://to.indeed.com/aal7db9fphlh": {
     "company": "LOVAC",
@@ -7345,6 +7369,12 @@
     "company": "Palmer & Co",
     "date_found": "2026-08-14",
     "title": "IRATA Level 2 – Rope Access Technician (Window Cleaning & Property Maintenance)"
+  },
+  "https://to.indeed.com/aan2lwc7pgb4": {
+    "company": "quip GmbH",
+    "country": "Germany",
+    "date_found": "2026-09-10",
+    "title": "Konstruktionsmechaniker/ Industriekletterer (m/w/d)"
   },
   "https://to.indeed.com/aan2vlc96jxs": {
     "company": "Ouest Acro",
@@ -8557,6 +8587,12 @@
     "location": "Annecy (74)",
     "title": "Technicien Cordiste Maçon H/F"
   },
+  "https://to.indeed.com/aaryr97d6m7n": {
+    "company": "3KER RAS Group (Piepenbrock)",
+    "country": "Germany",
+    "date_found": "2026-09-10",
+    "title": "Industriekletterer / Höhenarbeiter (m/w/d) bei 3KER RAS GROUP in Hamburg"
+  },
   "https://to.indeed.com/aarzgvvrfpkv": {
     "company": "Acrobatica",
     "country": "Italy",
@@ -9057,6 +9093,12 @@
     "date_found": "2026-08-20",
     "location": "Mutilva Alta, Navarra, Spain",
     "title": "Reparador/a de Palas"
+  },
+  "https://to.indeed.com/aatpxx4k4lz6": {
+    "company": "Premium Site Services Ltd",
+    "country": "United Kingdom",
+    "date_found": "2026-09-10",
+    "title": "Trainee Rope Access Cleaning & Maintenance Technician"
   },
   "https://to.indeed.com/aatqvvhsqyny": {
     "company": "contractor via Indeed",
@@ -11009,6 +11051,12 @@
     "date_found": "2026-08-21",
     "title": "Rigger (m/w/d)"
   },
+  "https://vyn.se/karriar": {
+    "company": "Vyn AB",
+    "country": "Sweden",
+    "date_found": "2026-09-10",
+    "title": "Erfaren reparbetare, SPRAT/IRATA level 3"
+  },
   "https://vyn.se/karriar/erfaren-reparbetare": {
     "company": "VYN",
     "date_found": "2026-08-13",
@@ -11174,6 +11222,18 @@
     "date_found": "2026-08-13",
     "title": "Operario de Trabajos Verticales"
   },
+  "https://www.anetva.org/oferta-de-empleo/peon-especialista-3/": {
+    "company": "Sima Vertical",
+    "country": "Spain",
+    "date_found": "2026-09-10",
+    "title": "Peón Especialista"
+  },
+  "https://www.anetva.org/oferta-de-empleo/peon-especialista-en-trabajos-verticales/": {
+    "company": "Aprolan21",
+    "country": "Spain",
+    "date_found": "2026-09-10",
+    "title": "Peón Especialista en Trabajos Verticales"
+  },
   "https://www.anetva.org/oferta-de-empleo/peon-especialista-oficial-de-ii/": {
     "company": "Not disclosed (ANETVA)",
     "country": "Spain",
@@ -11290,6 +11350,12 @@
     "company": "ANETVA",
     "date_found": "2026-08-13",
     "title": "Técnicos Verticales para Palma de Mallorca"
+  },
+  "https://www.anetva.org/oferta-de-empleo/trabajadores-especialistas-en-trabajos-verticales/": {
+    "company": "Altura S",
+    "country": "Spain",
+    "date_found": "2026-09-10",
+    "title": "Trabajadores especialistas en trabajos verticales"
   },
   "https://www.apaheightaccess.uk/vacancy-page/rope_access_technicians": {
     "company": "APA Height Access",
@@ -12697,6 +12763,30 @@
     "date_found": "2026-08-21",
     "title": "Técnico de Trabalhos em Altura / Alpinismo Industrial"
   },
+  "https://www.net-empregos.com/15824824/alpinista-industrial/": {
+    "company": "Grupo Extrema",
+    "country": "Portugal",
+    "date_found": "2026-09-10",
+    "title": "Alpinista Industrial"
+  },
+  "https://www.net-empregos.com/15838206/alpinista-tecnico-de-acesso-por-cordas/": {
+    "company": "Varandas Florestais",
+    "country": "Portugal",
+    "date_found": "2026-09-10",
+    "title": "Alpinista - Técnico de Acesso por cordas"
+  },
+  "https://www.net-empregos.com/15865464/recrutamento-alpinistas-trabalhos-em-altura-lisboa/": {
+    "company": "BestPlusGold Lda",
+    "country": "Portugal",
+    "date_found": "2026-09-10",
+    "title": "Alpinistas / Técnicos de Trabalhos em Altura"
+  },
+  "https://www.net-empregos.com/15866047/montador-de-andaimes-alpinista/": {
+    "company": "Confidencial (anonymous employer, urban facade rehabilitation)",
+    "country": "Portugal",
+    "date_found": "2026-09-10",
+    "title": "Montador de Andaimes / Alpinista"
+  },
   "https://www.net-empregos.com/1852583/procuramos-alpinistas-industriais/": {
     "company": "Rkesa - Construção Civil",
     "date_found": "2026-08-11",
@@ -12801,6 +12891,18 @@
     "date_found": "2026-08-30",
     "location": "Loures",
     "title": "Alpinismo industrial (pintura prédios, exterior, rapel)"
+  },
+  "https://www.olx.ro/oferta/loc-de-munca/angajam-personal-pentru-munca-la-inaltime-IDjsO8W.html": {
+    "company": "Group Alpin",
+    "country": "Romania",
+    "date_found": "2026-09-10",
+    "title": "Alpiniști Utilitari"
+  },
+  "https://www.olx.ro/oferta/loc-de-munca/angajari-montatori-materiale-publicitare-si-alpinisti-utilitari-IDedCo7.html": {
+    "company": "betaalpin",
+    "country": "Romania",
+    "date_found": "2026-09-10",
+    "title": "Montatori materiale publicitare și Alpiniști utilitari"
   },
   "https://www.oneoiljobsearch.com/jobs/rope-access-irata-l1-ndt-technician-pesaro-italy/": {
     "company": "TBT Careers Ltd",
@@ -13670,5 +13772,11 @@
     "company": "Zenith Structural",
     "date_found": "2026-08-15",
     "title": "Inspection Rope Access Technician"
+  },
+  "novurl::Advance Emploi::Cordiste TP (H/F)::FR": {
+    "company": "Advance Emploi",
+    "country": "France",
+    "date_found": "2026-09-10",
+    "title": "Cordiste TP (H/F)"
   }
 }
