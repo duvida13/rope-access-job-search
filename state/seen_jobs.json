@@ -616,6 +616,24 @@
     "location": "Bretagne",
     "title": "Équipier Cordiste – Bâtiment & Industrie (H/F)"
   },
+  "https://careers.flatchr.io/fr/company/jarnias/vacancy/7brjv9ma6qx9r5mn-technicien-ne-cordiste-f-h-lexigence-urbaine-signee-acro-btp/": {
+    "company": "ACRO BTP - Groupe Jarnias",
+    "country": "France",
+    "date_found": "2026-09-11",
+    "title": "Technicien.ne Cordiste – L'Exigence urbaine, signée ACRO BTP"
+  },
+  "https://careers.flatchr.io/fr/company/jarnias/vacancy/gqayv9lo1kjn6lxe-chef-fe-dequipe-cordiste-f-h-lexcellence-bretonne-cest-nous/": {
+    "company": "ALTI CITY - Groupe Jarnias",
+    "country": "France",
+    "date_found": "2026-09-11",
+    "title": "Chef.fe d'Équipe Cordiste – L'Excellence Bretonne, C'est Nous !"
+  },
+  "https://careers.flatchr.io/fr/company/jarnias/vacancy/zndrr9bro4m9yqqy-technicien-ne-cordiste-lexigence-normande-partout-ou-il-faut/": {
+    "company": "TAN (Travaux d'Acces Difficiles de Normandie) - Groupe Jarnias",
+    "country": "France",
+    "date_found": "2026-09-11",
+    "title": "Technicien.ne Cordiste – L'Exigence Normande, Partout où il faut !"
+  },
   "https://careers.flatchr.io/vacancy/gqayv9lo1kjn6lxe-chef-fe-dequipe-cordiste-f-h-lexcellence-bretonne-cest-nous/": {
     "company": "Groupe Jarnias",
     "date_found": "2026-09-07",
@@ -934,6 +952,12 @@
     "company": "Fender BV",
     "date_found": "2026-08-05",
     "title": "Rope Access Technician"
+  },
+  "https://en.moovijob.com/job-offers/triangle-solutions-rh-luxembourg/cordiste-hfx": {
+    "company": "TRIANGLE Solutions RH Luxembourg",
+    "country": "Luxembourg",
+    "date_found": "2026-09-11",
+    "title": "CORDISTE (H/F/X)"
   },
   "https://es.indeed.com/q-t%C3%A9cnico-vertical-empleos.html": {
     "company": "Indeed España",
@@ -2918,6 +2942,12 @@
     "company": "SPIE",
     "date_found": "2026-08-12",
     "title": "Industriekletterer Rotorblatt mittels Seilzugangstechnik (m/w/d)"
+  },
+  "https://starter.pgn.ch/travaux-sur-cordes": {
+    "company": "STARTER (PGN Holding SA)",
+    "country": "Switzerland",
+    "date_found": "2026-09-11",
+    "title": "Cordiste Polyvalent IRATA CQP 1-2-3 (H/F/D) / Technicien Cordiste"
   },
   "https://synergie-italia.it/candidato/offerte-di-lavoro/315552-operatore-su-fune-edilizia-274062": {
     "company": "Synergie Italia",
@@ -11412,10 +11442,22 @@
     "date_found": "2026-09-03",
     "title": "Industriekletterer/-kletterin"
   },
+  "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003642783-S": {
+    "company": "Sapiatz GmbH",
+    "country": "Germany",
+    "date_found": "2026-09-11",
+    "title": "Dachdecker, Industriekletterer"
+  },
   "https://www.arbeitsagentur.de/jobsuche/jobdetail/12577-12970835-S": {
     "company": "RTS Wind AG",
     "date_found": "2026-08-21",
     "title": "Offshore Industriekletterer (all genders) Windenergie"
+  },
+  "https://www.arbeitsagentur.de/jobsuche/jobdetail/12811-2046540-S": {
+    "company": "Industrie Kletterer Hamburg IKH GmbH",
+    "country": "Germany",
+    "date_found": "2026-09-11",
+    "title": "Level 1-3 Industriekletterer (m/w/d)"
   },
   "https://www.arbeitsagentur.de/jobsuche/jobdetail/14332-00002f2463d001-S": {
     "company": "Buchen EnergyServices GmbH",
@@ -11558,6 +11600,12 @@
     "date_found": "2026-09-06",
     "location": "Aberdeen/UK & offshore",
     "title": "Rope Access NDT Technician"
+  },
+  "https://www.cangroup.net/careers/current-vacancies/": {
+    "company": "CAN Group",
+    "country": "United Kingdom",
+    "date_found": "2026-09-11",
+    "title": "Rope Access Radiographer"
   },
   "https://www.capaxis.com/en/about/jobs-at-capaxis": {
     "company": "Capaxis",
@@ -12826,6 +12874,12 @@
     "location": "Portugal",
     "title": "Montadores de Andaimes (Scaffolders)"
   },
+  "https://www.nord-acces-difficiles.fr/recrutement/": {
+    "company": "Nord Accès Difficiles (NAD) - Groupe NA",
+    "country": "France",
+    "date_found": "2026-09-11",
+    "title": "Techniciens cordistes binômes, et aspirants cordistes"
+  },
   "https://www.nord-access.fr/recrutement/": {
     "company": "Nord Access",
     "country": "France",
@@ -12967,6 +13021,12 @@
     "company": "Alpiservice (Trabalhos Verticais)",
     "date_found": "2026-08-07",
     "title": "Técnico de acesso por corda"
+  },
+  "https://www.pracuj.pl/praca/alpinista-przemyslowy-serwis-sprzatajacy-warszawa,oferta,1002477710": {
+    "company": "HIGH LIFE ALPINIŚCI sp. z o.o.",
+    "country": "Poland",
+    "date_found": "2026-09-11",
+    "title": "Alpinista przemysłowy - serwis sprzątający"
   },
   "https://www.pracuj.pl/praca/rope-access-technician-plock,oferta,1003497408": {
     "company": "DAEAH Engineering & Construction Co. Ltd. sp. z o.o.",
@@ -13140,6 +13200,12 @@
     "company": "Rope-Edil",
     "date_found": "2026-08-17",
     "title": "Operaio Edile su Fune con esperienza"
+  },
+  "https://www.roxedilizia.com/": {
+    "company": "Rox Edilizia",
+    "country": "Italy",
+    "date_found": "2026-09-11",
+    "title": "Operatori / Capo Squadra (Edilizia su Fune)"
   },
   "https://www.rts-wind.com/careers-in-wind-energy/": {
     "company": "RTS Wind Group",
@@ -13665,12 +13731,24 @@
     "location": "Saint-Nazaire (44)",
     "title": "Cordiste F/H"
   },
+  "https://www.werkenbijeurosafe.nl/vacatures/monteur-valbeveiliging": {
+    "company": "Eurosafe Solutions",
+    "country": "Netherlands",
+    "date_found": "2026-09-11",
+    "title": "Monteur op hoogte (valbeveiliging)"
+  },
   "https://www.werkenbijeurosafe.nl/vacatures/rope-access-medewerker": {
     "company": "Eurosafe",
     "country": "Netherlands",
     "date_found": "2026-08-06",
     "location": "Zwolle / Dordrecht / Zevenbergen",
     "title": "Rope access medewerker"
+  },
+  "https://www.werkenbijeurosafe.nl/vacatures/zzp-rescue-team-member": {
+    "company": "Eurosafe Solutions",
+    "country": "Netherlands",
+    "date_found": "2026-09-11",
+    "title": "ZZP | Rescue team member"
   },
   "https://www.werkenbijeurosafe.nl/vacatures/zzp-rope-access": {
     "company": "Eurosafe",
@@ -13773,10 +13851,88 @@
     "date_found": "2026-08-15",
     "title": "Inspection Rope Access Technician"
   },
+  "novurl::ALTCLIMB - Trabalhos em Altura, Unipessoal Lda::Alpinista Industrial com Curso e Recibos Verdes::PT": {
+    "company": "ALTCLIMB - Trabalhos em Altura, Unipessoal Lda",
+    "country": "Portugal",
+    "date_found": "2026-09-11",
+    "title": "Alpinista Industrial com Curso e Recibos Verdes"
+  },
   "novurl::Advance Emploi::Cordiste TP (H/F)::FR": {
     "company": "Advance Emploi",
     "country": "France",
     "date_found": "2026-09-10",
     "title": "Cordiste TP (H/F)"
+  },
+  "novurl::Alpendre Vertical Lda::Alpinistas (Precisa-se)::PT": {
+    "company": "Alpendre Vertical Lda",
+    "country": "Portugal",
+    "date_found": "2026-09-11",
+    "title": "Alpinistas (Precisa-se)"
+  },
+  "novurl::Bilfinger::Industrieel vakman Rope Access (met of zonder IRATA certificaat)::NL": {
+    "company": "Bilfinger",
+    "country": "Netherlands",
+    "date_found": "2026-09-11",
+    "title": "Industrieel vakman Rope Access (met of zonder IRATA certificaat)"
+  },
+  "novurl::Everest Trabalhos Verticais::Tecnico de Acesso por Cordas / Alpinista::PT": {
+    "company": "Everest Trabalhos Verticais",
+    "country": "Portugal",
+    "date_found": "2026-09-11",
+    "title": "Tecnico de Acesso por Cordas / Alpinista"
+  },
+  "novurl::Grupo MDN::Alpinista / Rapel::PT": {
+    "company": "Grupo MDN",
+    "country": "Portugal",
+    "date_found": "2026-09-11",
+    "title": "Alpinista / Rapel"
+  },
+  "novurl::HS Construção Unipessoal::Alpinismo Industrial - Acesso por Corda::PT": {
+    "company": "HS Construção Unipessoal",
+    "country": "Portugal",
+    "date_found": "2026-09-11",
+    "title": "Alpinismo Industrial - Acesso por Corda"
+  },
+  "novurl::Maria Silva & Robert Oliveira Remodelação::Alpinista Industrial::PT": {
+    "company": "Maria Silva & Robert Oliveira Remodelação",
+    "country": "Portugal",
+    "date_found": "2026-09-11",
+    "title": "Alpinista Industrial"
+  },
+  "novurl::RL Pinturas::Alpinista e Ajudante (Painter's Helper)::PT": {
+    "company": "RL Pinturas",
+    "country": "Portugal",
+    "date_found": "2026-09-11",
+    "title": "Alpinista e Ajudante (Painter's Helper)"
+  },
+  "novurl::Robison Santiago Unipessoal Lda::Alpinista / Rapel - Pinturas::PT": {
+    "company": "Robison Santiago Unipessoal Lda",
+    "country": "Portugal",
+    "date_found": "2026-09-11",
+    "title": "Alpinista / Rapel - Pinturas"
+  },
+  "novurl::SC Alpaccess SRL::Alpinist utilitar::RO": {
+    "company": "SC Alpaccess SRL",
+    "country": "Romania",
+    "date_found": "2026-09-11",
+    "title": "Alpinist utilitar"
+  },
+  "novurl::Tlcpinturasverticais::Pintor Alpinista::PT": {
+    "company": "Tlcpinturasverticais",
+    "country": "Portugal",
+    "date_found": "2026-09-11",
+    "title": "Pintor Alpinista"
+  },
+  "novurl::WISAG Produktionsservice GmbH::Industriekletterer / Hoehenarbeiter::DE": {
+    "company": "WISAG Produktionsservice GmbH",
+    "country": "Germany",
+    "date_found": "2026-09-11",
+    "title": "Industriekletterer / Hoehenarbeiter"
+  },
+  "novurl::WallPaint.pt::Pintor Alpinista (com experiência em pintura)::PT": {
+    "company": "WallPaint.pt",
+    "country": "Portugal",
+    "date_found": "2026-09-11",
+    "title": "Pintor Alpinista (com experiência em pintura)"
   }
 }
