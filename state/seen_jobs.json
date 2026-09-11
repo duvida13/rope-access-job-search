@@ -744,6 +744,12 @@
     "date_found": "2026-08-13",
     "title": "Careers/jobs page"
   },
+  "https://climbig-industrieklettern.de/jobs/": {
+    "company": "ClimBIG Industrieklettern (Tobias Holl)",
+    "country": "Germany",
+    "date_found": "2026-09-12",
+    "title": "Industriekletterer / Industrial Climber"
+  },
   "https://comantur.com/empleo/": {
     "company": "COMANTUR",
     "date_found": "2026-08-14",
@@ -4389,6 +4395,12 @@
     "date_found": "2026-08-14",
     "title": "Rope Access Technician Window Cleaning (IRATA L3)"
   },
+  "https://to.indeed.com/aa8qcbfyvp9g": {
+    "company": "RES (Renewable Energy Systems)",
+    "country": "United Kingdom",
+    "date_found": "2026-09-12",
+    "title": "Field Expert Technician (Offshore, Fire Systems)"
+  },
   "https://to.indeed.com/aa8qtqjms9tz": {
     "company": "SARL DEVERS",
     "country": "France",
@@ -4609,6 +4621,12 @@
     "date_found": "2026-08-19",
     "location": "Cinisello Balsamo, Italy",
     "title": "UN OPERATORE SU FUNE - MANUTENTORE (H/F/D)"
+  },
+  "https://to.indeed.com/aa9kvfcs7tyg": {
+    "company": "RES (Renewable Energy Systems)",
+    "country": "United Kingdom",
+    "date_found": "2026-09-12",
+    "title": "O&M Offshore Technician"
   },
   "https://to.indeed.com/aa9kxd92pnlg": {
     "company": "SERPE",
@@ -11180,6 +11198,12 @@
     "location": "Norway (multiple sites)",
     "title": "Rope Access Technician - Level III"
   },
+  "https://www.alpinisti-utilitari.com/anunturi/firma-specializata-in-domeniul-constructiilor-angajam-alpinist-utilitar-12": {
+    "company": "SC Design Industrial Construct SRL",
+    "country": "Romania",
+    "date_found": "2026-09-12",
+    "title": "Alpinist utilitar"
+  },
   "https://www.altertec.net/empleo/tecnico-trabajos-verticales/": {
     "company": "Altertec Renovables",
     "country": "Spain",
@@ -11606,6 +11630,12 @@
     "country": "United Kingdom",
     "date_found": "2026-09-11",
     "title": "Rope Access Radiographer"
+  },
+  "https://www.cantieri-verticali.it/": {
+    "company": "Cantieri Verticali",
+    "country": "Italy",
+    "date_found": "2026-09-12",
+    "title": "Operatore su Fune"
   },
   "https://www.capaxis.com/en/about/jobs-at-capaxis": {
     "company": "Capaxis",
@@ -12754,6 +12784,12 @@
     "date_found": "2026-08-09",
     "title": "Rope Access Technician"
   },
+  "https://www.neotec.group/vacatures": {
+    "company": "Neotec Group",
+    "country": "Belgium",
+    "date_found": "2026-09-12",
+    "title": "Energieke Touwtechnieker"
+  },
   "https://www.net-empregos.com/12562902/tecnicos-de-montagem-e-instalacao-de-turbinas-eolicas-m-f/": {
     "company": "FIGALEG Unipessoal Lda",
     "country": "Portugal",
@@ -12939,6 +12975,12 @@
     "location": "Amora (deployment to USA)",
     "title": "Alpinista Industrial – Projetos nos EUA"
   },
+  "https://www.olx.pt/anuncio/emprego/procura-se-servente-alpinista-IDJA1Th.html": {
+    "company": "KEUREM BUENO MEDIACAO IMOBILIARIA LDA",
+    "country": "Portugal",
+    "date_found": "2026-09-12",
+    "title": "Procura-se Servente/ Alpinista"
+  },
   "https://www.olx.pt/d/anuncio/alpinismo-industrial-pintura-predios-exterior-rapel-IDHIbqJ.html": {
     "company": "Private poster",
     "country": "Portugal",
@@ -13021,6 +13063,12 @@
     "company": "Alpiservice (Trabalhos Verticais)",
     "date_found": "2026-08-07",
     "title": "Técnico de acesso por corda"
+  },
+  "https://www.pracuj.pl/praca/alpinista-przemyslowy-czyszczenie-w-obiektach-przemyslowych-rybnik,oferta,1004524568": {
+    "company": "ALPI-REM Zakład Usług Wysokościowych Dariusz Pielecha",
+    "country": "Poland",
+    "date_found": "2026-09-12",
+    "title": "Alpinista przemysłowy - czyszczenie w obiektach przemysłowych"
   },
   "https://www.pracuj.pl/praca/alpinista-przemyslowy-serwis-sprzatajacy-warszawa,oferta,1002477710": {
     "company": "HIGH LIFE ALPINIŚCI sp. z o.o.",
@@ -13453,6 +13501,12 @@
     "date_found": "2026-08-18",
     "title": "Rope Access Technician (Level 1/2/3)"
   },
+  "https://www.synergiejobs.be/nl/jobs/655b819b5a8a5801c770c314/touwtechnieker/": {
+    "company": "Synergie Jobs",
+    "country": "Belgium",
+    "date_found": "2026-09-12",
+    "title": "Touwtechnieker"
+  },
   "https://www.talentdetection.com/bara-investissement-groupe-ouest-acro/offre-12997-4tfjDU": {
     "company": "Ouest Acro",
     "date_found": "2026-09-07",
@@ -13559,6 +13613,12 @@
     "date_found": "2026-09-07",
     "location": "Muret area (31)",
     "title": "Cordiste CQP2 (H/F)"
+  },
+  "https://www.toprope.ch/en/toprope/jobs": {
+    "company": "Toprope GmbH",
+    "country": "Switzerland",
+    "date_found": "2026-09-12",
+    "title": "Projektleiter Höhenarbeit (80%)"
   },
   "https://www.toprope.ch/jobs": {
     "company": "Toprope GmbH",
@@ -13851,6 +13911,12 @@
     "date_found": "2026-08-15",
     "title": "Inspection Rope Access Technician"
   },
+  "novurl::ACTIEF Personalmanagement GmbH::Industriekletterer (m/w/d)::DE": {
+    "company": "ACTIEF Personalmanagement GmbH",
+    "country": "Germany",
+    "date_found": "2026-09-12",
+    "title": "Industriekletterer (m/w/d)"
+  },
   "novurl::ALTCLIMB - Trabalhos em Altura, Unipessoal Lda::Alpinista Industrial com Curso e Recibos Verdes::PT": {
     "company": "ALTCLIMB - Trabalhos em Altura, Unipessoal Lda",
     "country": "Portugal",
@@ -13899,6 +13965,12 @@
     "date_found": "2026-09-11",
     "title": "Alpinista Industrial"
   },
+  "novurl::Océlian (Groupe VINCI Construction)::Chef d'équipe Cordiste F/H::FR": {
+    "company": "Océlian (Groupe VINCI Construction)",
+    "country": "France",
+    "date_found": "2026-09-12",
+    "title": "Chef d'équipe Cordiste F/H"
+  },
   "novurl::RL Pinturas::Alpinista e Ajudante (Painter's Helper)::PT": {
     "company": "RL Pinturas",
     "country": "Portugal",
@@ -13922,6 +13994,12 @@
     "country": "Portugal",
     "date_found": "2026-09-11",
     "title": "Pintor Alpinista"
+  },
+  "novurl::Vertikalis GmbH::Höhenarbeiter / Industriekletterer, Dachdecker, Tischler (m/w/d)::DE": {
+    "company": "Vertikalis GmbH",
+    "country": "Germany",
+    "date_found": "2026-09-12",
+    "title": "Höhenarbeiter / Industriekletterer, Dachdecker, Tischler (m/w/d)"
   },
   "novurl::WISAG Produktionsservice GmbH::Industriekletterer / Hoehenarbeiter::DE": {
     "company": "WISAG Produktionsservice GmbH",
