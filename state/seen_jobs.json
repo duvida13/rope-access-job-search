@@ -616,11 +616,23 @@
     "location": "Bretagne",
     "title": "Équipier Cordiste – Bâtiment & Industrie (H/F)"
   },
+  "https://careers.flatchr.io/fr/company/jarnias/vacancy/1zj8md6ylprpyz70-chef-fe-de-chantier-cordiste-f-h-lexigence-urbaine-signee-acro-btp/": {
+    "company": "ACRO BTP - Groupe Jarnias",
+    "country": "France",
+    "date_found": "2026-09-14",
+    "title": "Chef.fe de Chantier Cordiste – L'Exigence urbaine, signée ACRO BTP !"
+  },
   "https://careers.flatchr.io/fr/company/jarnias/vacancy/7brjv9ma6qx9r5mn-technicien-ne-cordiste-f-h-lexigence-urbaine-signee-acro-btp/": {
     "company": "ACRO BTP - Groupe Jarnias",
     "country": "France",
     "date_found": "2026-09-11",
     "title": "Technicien.ne Cordiste – L'Exigence urbaine, signée ACRO BTP"
+  },
+  "https://careers.flatchr.io/fr/company/jarnias/vacancy/d3nvzdqzblmnmyb6-chef-fe-dequipe-cordiste-f-h-lexcellence-bretonne-cest-nous/": {
+    "company": "ALTI CITY - Groupe Jarnias",
+    "country": "France",
+    "date_found": "2026-09-14",
+    "title": "Chef.fe d'Équipe Cordiste – L'Excellence Bretonne, C'est Nous !"
   },
   "https://careers.flatchr.io/fr/company/jarnias/vacancy/gqayv9lo1kjn6lxe-chef-fe-dequipe-cordiste-f-h-lexcellence-bretonne-cest-nous/": {
     "company": "ALTI CITY - Groupe Jarnias",
@@ -2062,6 +2074,12 @@
     "date_found": "2026-08-09",
     "title": "Rope Access Electrical Technician"
   },
+  "https://jobs.swire-re.com/o/blade-technician-season-2026": {
+    "company": "SWIRE",
+    "country": "United Kingdom",
+    "date_found": "2026-09-14",
+    "title": "Blade Technician season 2026"
+  },
   "https://jobs.vinci.com/fr/job/-/-/1440/22661392256?idorigine=2290": {
     "company": "VINCI Construction",
     "date_found": "2026-08-07",
@@ -2560,6 +2578,12 @@
     "location": "France",
     "title": "Cordiste Soudeur Arc Acier"
   },
+  "https://offres.emploi-cordiste.fr/listing/cordiste-telepilote-de-drone-h-f/": {
+    "company": "Groupe Actual (SETT PACA)",
+    "country": "France",
+    "date_found": "2026-09-14",
+    "title": "Cordiste / Télépilote de Drone H/F"
+  },
   "https://offres.emploi-cordiste.fr/listing/cordiste-vitreux-geneve-lausanne-suisse/": {
     "company": "Starter SA",
     "country": "Switzerland",
@@ -2758,12 +2782,24 @@
     "date_found": "2026-09-10",
     "title": "Erhvervsklatrere L1 / L2 / L3"
   },
+  "https://rebteknikeren.dk/vi-soeger-murer-toemrer-og-elektriker/": {
+    "company": "Rebteknikeren ApS",
+    "country": "Denmark",
+    "date_found": "2026-09-14",
+    "title": "Murer, tømrer og elektriker"
+  },
   "https://recrute.francetravail.fr/page-entreprise/ediliziacrobatica-france": {
     "company": "EdiliziAcrobatica France",
     "country": "France",
     "date_found": "2026-08-30",
     "location": "Nationwide France",
     "title": "Open vacancies (company recruiter page)"
+  },
+  "https://redak-services.com/working-at/vacancy-blade-specialist": {
+    "company": "Redak Service & Maintenance",
+    "country": "Netherlands",
+    "date_found": "2026-09-14",
+    "title": "Blade Specialist"
   },
   "https://rejobs.org/en/renewable-energy-jobs/106092-senior-rope-access-technician-rts-wind": {
     "company": "RTS Wind Group",
@@ -12176,6 +12212,12 @@
     "location": "Bollène (84), France",
     "title": "Cordiste CDI (Industrie)"
   },
+  "https://www.hellowork.com/fr-fr/emplois/76020628.html": {
+    "company": "SOLCIS Nice",
+    "country": "France",
+    "date_found": "2026-09-14",
+    "title": "Cordiste Urbain H/F"
+  },
   "https://www.hellowork.com/fr-fr/emplois/76712946.html": {
     "company": "Adéquat (agency posting)",
     "country": "France",
@@ -12988,6 +13030,12 @@
     "location": "Loures",
     "title": "Alpinismo industrial (pintura prédios, exterior, rapel)"
   },
+  "https://www.olx.ro/d/oferta/loc-de-munca/sc-alpaccess-srl-angajeaza-alpinist-utilitar-IDkW0Xt.html": {
+    "company": "SC Alpaccess SRL",
+    "country": "Romania",
+    "date_found": "2026-09-14",
+    "title": "SC Alpaccess SRL angajează alpinist utilitar"
+  },
   "https://www.olx.ro/oferta/loc-de-munca/angajam-personal-pentru-munca-la-inaltime-IDjsO8W.html": {
     "company": "Group Alpin",
     "country": "Romania",
@@ -13075,6 +13123,24 @@
     "country": "Poland",
     "date_found": "2026-09-11",
     "title": "Alpinista przemysłowy - serwis sprzątający"
+  },
+  "https://www.pracuj.pl/praca/alpinista-przemyslowy-serwis-sprzatajacy-warszawa,oferta,1003211313": {
+    "company": "EMESLINE USŁUGI ALPINISTYCZNE MAREK ŚLADEWSKI",
+    "country": "Poland",
+    "date_found": "2026-09-14",
+    "title": "Alpinista przemysłowy - serwis sprzątający"
+  },
+  "https://www.pracuj.pl/praca/instruktor-alpinista-przemyslowy-krakow-cechowa-64c,oferta,1003918482": {
+    "company": "AROCA SAFETY P.S.A.",
+    "country": "Poland",
+    "date_found": "2026-09-14",
+    "title": "Instruktor - Alpinista przemysłowy"
+  },
+  "https://www.pracuj.pl/praca/pracownik-budowlany-alpinista-przemyslowy-koszalin,oferta,1004050753": {
+    "company": "MONOLITH PRO sp. z o.o.",
+    "country": "Poland",
+    "date_found": "2026-09-14",
+    "title": "Pracownik budowlany - Alpinista przemysłowy"
   },
   "https://www.pracuj.pl/praca/rope-access-technician-plock,oferta,1003497408": {
     "company": "DAEAH Engineering & Construction Co. Ltd. sp. z o.o.",
@@ -13896,6 +13962,12 @@
     "location": "Inverness, Scotland",
     "title": "L3 Rope Access Technician"
   },
+  "https://www.zweiseil.at/jobs/": {
+    "company": "Zweiseil GmbH",
+    "country": "Austria",
+    "date_found": "2026-09-14",
+    "title": "Baumpfleger"
+  },
   "https://www.zweiseil.at/jobs/industriekletterer-in-ausbildung/": {
     "company": "Zweiseil GmbH",
     "date_found": "2026-08-18",
@@ -13958,6 +14030,12 @@
     "country": "Portugal",
     "date_found": "2026-09-11",
     "title": "Alpinismo Industrial - Acesso por Corda"
+  },
+  "novurl::JMC Pinturas::Preciso de Pintor alpinista com experiência em pintura::PT": {
+    "company": "JMC Pinturas",
+    "country": "Portugal",
+    "date_found": "2026-09-14",
+    "title": "Preciso de Pintor alpinista com experiência em pintura"
   },
   "novurl::Maria Silva & Robert Oliveira Remodelação::Alpinista Industrial::PT": {
     "company": "Maria Silva & Robert Oliveira Remodelação",
