@@ -1,0 +1,554 @@
+{
+ "_doc": "Daily search plan. `python3 tools/jobtool.py plan --date D` expands it. core cities run daily; rotating cities run on their slot (weekday %% rotation_slots) so every hub is covered every 4 days. Tune using `jobtool.py stats`.",
+ "rotation_slots": 4,
+ "countries": {
+  "Portugal": {
+   "code": "PT",
+   "core_cities": [
+    "Lisboa",
+    "Porto"
+   ],
+   "rotating_cities": [
+    [
+     "Setúbal",
+     0
+    ],
+    [
+     "Sines",
+     1
+    ],
+    [
+     "Faro",
+     2
+    ],
+    [
+     "Braga",
+     3
+    ]
+   ],
+   "terms": [
+    "técnico acesso por cordas",
+    "trabalhos em altura rapel"
+   ]
+  },
+  "United Kingdom": {
+   "code": "GB",
+   "core_cities": [
+    "Aberdeen",
+    "London"
+   ],
+   "rotating_cities": [
+    [
+     "Manchester",
+     0
+    ],
+    [
+     "Glasgow",
+     1
+    ],
+    [
+     "Teesside",
+     2
+    ],
+    [
+     "Great Yarmouth",
+     3
+    ],
+    [
+     "Southampton",
+     0
+    ],
+    [
+     "Cardiff",
+     1
+    ],
+    [
+     "Hull",
+     2
+    ],
+    [
+     "Belfast",
+     3
+    ]
+   ],
+   "terms": [
+    "rope access technician",
+    "IRATA technician"
+   ]
+  },
+  "Ireland": {
+   "code": "IE",
+   "core_cities": [
+    "Dublin"
+   ],
+   "rotating_cities": [
+    [
+     "Cork",
+     0
+    ],
+    [
+     "Galway",
+     2
+    ]
+   ],
+   "terms": [
+    "rope access technician",
+    "IRATA"
+   ]
+  },
+  "Netherlands": {
+   "code": "NL",
+   "core_cities": [
+    "Rotterdam"
+   ],
+   "rotating_cities": [
+    [
+     "Amsterdam",
+     0
+    ],
+    [
+     "Vlissingen",
+     1
+    ],
+    [
+     "Groningen",
+     2
+    ],
+    [
+     "Den Helder",
+     3
+    ]
+   ],
+   "terms": [
+    "rope access technician",
+    "industrieel klimmer"
+   ]
+  },
+  "Belgium": {
+   "code": "BE",
+   "core_cities": [
+    "Antwerp"
+   ],
+   "rotating_cities": [
+    [
+     "Brussels",
+     0
+    ],
+    [
+     "Ghent",
+     1
+    ],
+    [
+     "Liège",
+     2
+    ]
+   ],
+   "terms": [
+    "rope access technician",
+    "klimmer"
+   ]
+  },
+  "Germany": {
+   "code": "DE",
+   "core_cities": [
+    "Hamburg",
+    "Bremen"
+   ],
+   "rotating_cities": [
+    [
+     "Berlin",
+     0
+    ],
+    [
+     "Köln",
+     1
+    ],
+    [
+     "Frankfurt",
+     2
+    ],
+    [
+     "München",
+     3
+    ],
+    [
+     "Rostock",
+     1
+    ],
+    [
+     "Duisburg",
+     3
+    ]
+   ],
+   "terms": [
+    "Industriekletterer",
+    "rope access technician"
+   ]
+  },
+  "Switzerland": {
+   "code": "CH",
+   "core_cities": [
+    "Zürich"
+   ],
+   "rotating_cities": [
+    [
+     "Basel",
+     0
+    ],
+    [
+     "Genève",
+     1
+    ],
+    [
+     "Bern",
+     2
+    ]
+   ],
+   "terms": [
+    "Industriekletterer",
+    "cordiste"
+   ]
+  },
+  "Norway": {
+   "code": "NO",
+   "core_cities": [
+    "Stavanger"
+   ],
+   "rotating_cities": [
+    [
+     "Bergen",
+     0
+    ],
+    [
+     "Oslo",
+     1
+    ],
+    [
+     "Kristiansand",
+     2
+    ],
+    [
+     "Trondheim",
+     3
+    ]
+   ],
+   "terms": [
+    "rope access technician",
+    "klatretekniker"
+   ]
+  },
+  "Denmark": {
+   "code": "DK",
+   "core_cities": [
+    "Esbjerg"
+   ],
+   "rotating_cities": [
+    [
+     "Copenhagen",
+     0
+    ],
+    [
+     "Aarhus",
+     1
+    ],
+    [
+     "Aalborg",
+     2
+    ]
+   ],
+   "terms": [
+    "rope access technician",
+    "industrial climber"
+   ]
+  },
+  "Spain": {
+   "code": "ES",
+   "core_cities": [
+    "Madrid",
+    "Barcelona"
+   ],
+   "rotating_cities": [
+    [
+     "Valencia",
+     0
+    ],
+    [
+     "Bilbao",
+     1
+    ],
+    [
+     "Sevilla",
+     2
+    ],
+    [
+     "A Coruña",
+     3
+    ],
+    [
+     "Tarragona",
+     1
+    ]
+   ],
+   "terms": [
+    "trabajos verticales",
+    "técnico acceso cuerdas"
+   ]
+  },
+  "France": {
+   "code": "FR",
+   "core_cities": [
+    "Paris",
+    "Marseille"
+   ],
+   "rotating_cities": [
+    [
+     "Lyon",
+     0
+    ],
+    [
+     "Toulouse",
+     1
+    ],
+    [
+     "Nantes",
+     2
+    ],
+    [
+     "Lille",
+     3
+    ],
+    [
+     "Bordeaux",
+     0
+    ],
+    [
+     "Strasbourg",
+     1
+    ],
+    [
+     "Grenoble",
+     2
+    ],
+    [
+     "Le Havre",
+     3
+    ]
+   ],
+   "terms": [
+    "cordiste",
+    "technicien cordiste travaux sur corde"
+   ]
+  },
+  "Italy": {
+   "code": "IT",
+   "core_cities": [
+    "Milano",
+    "Roma"
+   ],
+   "rotating_cities": [
+    [
+     "Torino",
+     0
+    ],
+    [
+     "Genova",
+     1
+    ],
+    [
+     "Napoli",
+     2
+    ],
+    [
+     "Venezia",
+     3
+    ],
+    [
+     "Bologna",
+     0
+    ]
+   ],
+   "terms": [
+    "operatore in fune",
+    "tecnico lavori su fune"
+   ]
+  }
+ },
+ "web_queries": [
+  {
+   "query": "rope access technician IRATA vacancy",
+   "allowed_domains": [
+    "uk.linkedin.com",
+    "findajob.dwp.gov.uk",
+    "irata.org",
+    "reed.co.uk",
+    "totaljobs.com",
+    "cv-library.co.uk"
+   ]
+  },
+  {
+   "query": "rope access technician",
+   "allowed_domains": [
+    "irishjobs.ie",
+    "jobs.ie",
+    "ie.linkedin.com",
+    "ziprecruiter.ie"
+   ]
+  },
+  {
+   "query": "cordiste offre emploi",
+   "allowed_domains": [
+    "candidat.francetravail.fr",
+    "offres.emploi-cordiste.fr",
+    "hellowork.com",
+    "fr.linkedin.com"
+   ]
+  },
+  {
+   "query": "trabajos verticales oferta empleo",
+   "allowed_domains": [
+    "infojobs.net",
+    "anetva.org",
+    "es.linkedin.com"
+   ]
+  },
+  {
+   "query": "técnico acesso por cordas emprego",
+   "allowed_domains": [
+    "net-empregos.com",
+    "olx.pt",
+    "pt.linkedin.com"
+   ]
+  },
+  {
+   "query": "rope access technician",
+   "allowed_domains": [
+    "finn.no",
+    "karrierestart.no"
+   ]
+  },
+  {
+   "query": "rope access technician",
+   "allowed_domains": [
+    "jobindex.dk",
+    "dk.linkedin.com"
+   ]
+  },
+  {
+   "query": "Industriekletterer Seilzugangstechniker Stellenangebot",
+   "allowed_domains": [
+    "stepstone.de",
+    "de.linkedin.com",
+    "arbeitsagentur.de",
+    "stellenmarkt.de"
+   ]
+  },
+  {
+   "query": "rope access technician klimmer vacature",
+   "allowed_domains": [
+    "vdab.be",
+    "nl.linkedin.com",
+    "stepstone.be",
+    "werk.nl"
+   ]
+  },
+  {
+   "query": "Industriekletterer Seilzugang Stelle",
+   "allowed_domains": [
+    "jobs.ch",
+    "ch.linkedin.com"
+   ]
+  },
+  {
+   "query": "operatore in fune lavori in quota offerta",
+   "allowed_domains": [
+    "it.linkedin.com",
+    "it.indeed.com"
+   ]
+  },
+  {
+   "query": "rope access technician Europe job vacancy",
+   "allowed_domains": [
+    "eures.europa.eu",
+    "jooble.org"
+   ]
+  },
+  {
+   "query": "IRATA rope access technician job opening Europe this week",
+   "mode": "extended",
+   "weekday": 0
+  },
+  {
+   "query": "industrial climbing rope access recruitment Germany Netherlands Belgium Denmark Norway",
+   "mode": "extended",
+   "weekday": 3
+  }
+ ],
+ "watchlist": [
+  {
+   "name": "Acrobatica",
+   "code": "IT",
+   "city": "Milano"
+  },
+  {
+   "name": "Altrad rope access",
+   "code": "NL",
+   "city": "Rotterdam"
+  },
+  {
+   "name": "Interocean rope access",
+   "code": "GB",
+   "city": "Aberdeen"
+  },
+  {
+   "name": "Bilfinger rope access",
+   "code": "DE",
+   "city": "Hamburg"
+  },
+  {
+   "name": "Vestas rope access",
+   "code": "DK",
+   "city": "Aarhus"
+  },
+  {
+   "name": "Deutsche Windtechnik Seilzugangstechniker",
+   "code": "DE",
+   "city": "Bremen"
+  },
+  {
+   "name": "Equans cordiste",
+   "code": "FR",
+   "city": "Paris"
+  },
+  {
+   "name": "Applus rope access",
+   "code": "GB",
+   "city": "Glasgow"
+  },
+  {
+   "name": "Vertical Access IRATA",
+   "code": "GB",
+   "city": "Manchester"
+  },
+  {
+   "name": "Bidvest Noonan rope access",
+   "code": "IE",
+   "city": "Dublin"
+  },
+  {
+   "name": "ADSS rope access",
+   "code": "GB",
+   "city": "Stoke-on-Trent"
+  },
+  {
+   "name": "Swire rope access",
+   "code": "DK",
+   "city": "Copenhagen"
+  },
+  {
+   "name": "Vandeputte Safety",
+   "code": "BE",
+   "city": "Ghent"
+  }
+ ],
+ "watchlist_per_day": 3
+}
