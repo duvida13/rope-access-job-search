@@ -641,8 +641,9 @@ def cmd_process(args):
            "suppressed": sum(d["verdict"] == "suppress" for d in ds),
            "excluded": sum(d["verdict"] == "exclude" for d in ds),
            "queries": {k: {"results": v[0], "shown": v[1]} for k, v in q_stats.items()}}
-    with RUN_LOG.open("a") as f:
-        f.write(json.dumps(log, ensure_ascii=False) + "\n")
+    kept = [l for l in (RUN_LOG.read_text().splitlines() if RUN_LOG.exists() else [])
+            if json.loads(l).get("date") != iso(today)]
+    RUN_LOG.write_text("".join(l + "\n" for l in kept + [json.dumps(log, ensure_ascii=False)]))
     print(json.dumps({k: v for k, v in log.items() if k != "queries"}))
     print(f"digest -> digests/{iso(today)}.md ; state -> {JOBS_FILE.relative_to(ROOT)} (network checks: {'on' if net else 'unavailable'})")
 
