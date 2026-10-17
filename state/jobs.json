@@ -1978,7 +1978,7 @@
    },
    "first_seen": "2026-08-06",
    "last_reported": "2026-10-11",
-   "last_seen": "2026-10-16",
+   "last_seen": "2026-10-17",
    "location": "Dovre",
    "reports": [
     "2026-08-06",
@@ -4644,8 +4644,8 @@
    },
    "first_seen": "2026-10-04",
    "last_reported": "2026-10-04",
-   "last_seen": "2026-10-16",
-   "location": "",
+   "last_seen": "2026-10-17",
+   "location": "Norway",
    "reports": [
     "2026-10-04"
    ],
@@ -5259,8 +5259,8 @@
    "country": "Norway",
    "first_seen": "2026-09-24",
    "last_reported": "2026-09-24",
-   "last_seen": "2026-10-16",
-   "location": "Bergen",
+   "last_seen": "2026-10-17",
+   "location": "Norway",
    "reports": [
     "2026-09-24"
    ],
@@ -11108,14 +11108,15 @@
   "394d796c66": {
    "city": "",
    "co": "",
-   "company": "Not disclosed",
+   "company": "",
    "country": "Spain",
    "first_seen": "2026-08-10",
-   "last_reported": "2026-08-10",
-   "last_seen": "2026-08-10",
-   "location": "Madrid, Spain",
+   "last_reported": "2026-10-17",
+   "last_seen": "2026-10-17",
+   "location": "Spain",
    "reports": [
-    "2026-08-10"
+    "2026-08-10",
+    "2026-10-17"
    ],
    "status": "active",
    "ti": "albanil verticales",
@@ -15326,8 +15327,8 @@
    "country": "Norway",
    "first_seen": "2026-10-12",
    "last_reported": "2026-10-12",
-   "last_seen": "2026-10-16",
-   "location": "",
+   "last_seen": "2026-10-17",
+   "location": "Norway",
    "reports": [
     "2026-10-12"
    ],
@@ -17300,7 +17301,7 @@
    "country": "United Kingdom",
    "first_seen": "2026-08-08",
    "last_reported": "2026-10-05",
-   "last_seen": "2026-10-15",
+   "last_seen": "2026-10-17",
    "location": "Aberdeen",
    "posted": "2026-06-09",
    "reports": [
@@ -17331,7 +17332,7 @@
    "ti": "rope access level 1 or 2",
    "title": "Rope Access level 1 or 2",
    "urls": [
-    "https://to.indeed.com/aamf72wczxqc"
+    "https://to.indeed.com/aa8mhw4j6bt8"
    ]
   },
   "5aa1a7ca41": {
@@ -20851,6 +20852,25 @@
     "https://to.indeed.com/aagqbhkjz9cp"
    ]
   },
+  "6db4d974bf": {
+   "city": "speichersdorf",
+   "co": "ho l personal",
+   "company": "Hößl Personal GmbH",
+   "country": "Germany",
+   "first_seen": "2026-10-17",
+   "last_reported": "2026-10-17",
+   "last_seen": "2026-10-17",
+   "location": "Speichersdorf",
+   "reports": [
+    "2026-10-17"
+   ],
+   "status": "active",
+   "ti": "ausbildung zum industriekletterer",
+   "title": "Ausbildung zum Industriekletterer",
+   "urls": [
+    "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1001731008-S"
+   ]
+  },
   "6de06d5eaf": {
    "city": "london essex",
    "co": "ldt contractors",
@@ -23054,8 +23074,8 @@
    "country": "Norway",
    "first_seen": "2026-08-20",
    "last_reported": "2026-10-11",
-   "last_seen": "2026-10-16",
-   "location": "",
+   "last_seen": "2026-10-17",
+   "location": "Norway",
    "reports": [
     "2026-08-20",
     "2026-10-11"
@@ -32383,7 +32403,7 @@
    "country": "Spain",
    "first_seen": "2026-10-16",
    "last_reported": "2026-10-16",
-   "last_seen": "2026-10-16",
+   "last_seen": "2026-10-17",
    "location": "Barcelona",
    "reports": [
     "2026-10-16"
@@ -32987,14 +33007,14 @@
    ]
   },
   "afc0285ffa": {
-   "city": "",
+   "city": "barcelona",
    "co": "",
    "company": "",
    "country": "Spain",
    "first_seen": "2026-10-16",
    "last_reported": "2026-10-16",
-   "last_seen": "2026-10-16",
-   "location": "",
+   "last_seen": "2026-10-17",
+   "location": "Barcelona",
    "reports": [
     "2026-10-16"
    ],
@@ -34763,6 +34783,25 @@
     "https://www.dangleacademy.com/geo-technical"
    ]
   },
+  "b9fbda8f89": {
+   "city": "england",
+   "co": "copius",
+   "company": "Copius Group",
+   "country": "United Kingdom",
+   "first_seen": "2026-10-17",
+   "last_reported": "2026-10-17",
+   "last_seen": "2026-10-17",
+   "location": "England, United Kingdom",
+   "reports": [
+    "2026-10-17"
+   ],
+   "status": "active",
+   "ti": "rope access technician liverpool bay decommissioning x12",
+   "title": "Rope Access Technician (Liverpool Bay decommissioning, x12)",
+   "urls": [
+    "https://uk.jooble.org/jdp/-8004432323882718081"
+   ]
+  },
   "ba3c787567": {
    "city": "",
    "co": "altrad",
@@ -35958,7 +35997,7 @@
    "country": "Germany",
    "first_seen": "2026-08-28",
    "last_reported": "2026-10-11",
-   "last_seen": "2026-10-16",
+   "last_seen": "2026-10-17",
    "location": "Troisdorf",
    "reports": [
     "2026-08-28",
@@ -36326,8 +36365,8 @@
    },
    "first_seen": "2026-10-04",
    "last_reported": "2026-10-04",
-   "last_seen": "2026-10-16",
-   "location": "",
+   "last_seen": "2026-10-17",
+   "location": "Norway",
    "reports": [
     "2026-10-04"
    ],
@@ -38318,7 +38357,7 @@
    "country": "Germany",
    "first_seen": "2026-10-16",
    "last_reported": "2026-10-16",
-   "last_seen": "2026-10-16",
+   "last_seen": "2026-10-17",
    "location": "Rostock",
    "reports": [
     "2026-10-16"
@@ -40126,8 +40165,9 @@
    "country": "Germany",
    "first_seen": "2026-10-11",
    "last_reported": "2026-10-11",
-   "last_seen": "2026-10-16",
+   "last_seen": "2026-10-17",
    "location": "Mönchengladbach",
+   "posted": "2026-10-11",
    "reports": [
     "2026-10-11"
    ],
@@ -41746,8 +41786,8 @@
    "country": "Norway",
    "first_seen": "2026-08-08",
    "last_reported": "2026-10-11",
-   "last_seen": "2026-10-16",
-   "location": "",
+   "last_seen": "2026-10-17",
+   "location": "Norway",
    "reports": [
     "2026-08-08",
     "2026-10-11"
@@ -42114,8 +42154,8 @@
    },
    "first_seen": "2026-08-05",
    "last_reported": "2026-09-29",
-   "last_seen": "2026-10-16",
-   "location": "Bergen",
+   "last_seen": "2026-10-17",
+   "location": "Norway",
    "reports": [
     "2026-08-05",
     "2026-08-20",
@@ -45094,7 +45134,7 @@
    "country": "Germany",
    "first_seen": "2026-10-13",
    "last_reported": "2026-10-13",
-   "last_seen": "2026-10-16",
+   "last_seen": "2026-10-17",
    "location": "Schwarzheide",
    "reports": [
     "2026-10-13"
@@ -47471,7 +47511,7 @@
   }
  },
  "meta": {
-  "last_run": "2026-10-16",
+  "last_run": "2026-10-17",
   "migrated_from": "seen_jobs.json"
  },
  "version": 1
