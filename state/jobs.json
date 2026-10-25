@@ -1,5 +1,27 @@
 {
  "jobs": {
+  "002a239036": {
+   "city": "camarate unhos apelacao",
+   "co": "unknown olx listing",
+   "company": "unknown (OLX listing)",
+   "country": "Portugal",
+   "excluded": {
+    "date": "2026-10-25",
+    "reason": "likely stale (posted 88d ago, could not confirm still open)"
+   },
+   "first_seen": "2026-10-25",
+   "last_reported": null,
+   "last_seen": "2026-10-25",
+   "location": "Camarate / Unhos / Apelacao (Lisboa)",
+   "posted": "2026-07-29",
+   "reports": [],
+   "status": "active",
+   "ti": "technico de acesso por cordas alpinista de construcao civil",
+   "title": "Technico de acesso por cordas / Alpinista de construcao civil",
+   "urls": [
+    "https://www.olx.pt/anuncio/emprego/contratamos-tcnico-de-acesso-por-cordas-alpinista-de-construo-civil-pedreiros-pintores-barradores-e-serventes-lisboa-integrao-imediata-IDJmDej.html"
+   ]
+  },
   "002c59c3b6": {
    "city": "batalha",
    "co": "csoutdoors",
@@ -438,6 +460,28 @@
    "title": "Cordiste (H/F)",
    "urls": [
     "https://fr.linkedin.com/jobs/view/cordiste-h-f-at-interim-nation-annecy-3499324185"
+   ]
+  },
+  "02a04b6452": {
+   "city": "selestat",
+   "co": "unknown france travail listing",
+   "company": "unknown (France Travail listing)",
+   "country": "France",
+   "excluded": {
+    "date": "2026-10-25",
+    "reason": "likely stale (posted 81d ago, could not confirm still open)"
+   },
+   "first_seen": "2026-10-25",
+   "last_reported": null,
+   "last_seen": "2026-10-25",
+   "location": "Selestat",
+   "posted": "2026-08-05",
+   "reports": [],
+   "status": "active",
+   "ti": "cordiste chef d equipe",
+   "title": "Cordiste (H/F) - chef d'equipe",
+   "urls": [
+    "https://candidat.francetravail.fr/offres/recherche/detail/5722160"
    ]
   },
   "02b0985e49": {
@@ -2754,7 +2798,7 @@
    "country": "Germany",
    "first_seen": "2026-10-12",
    "last_reported": "2026-10-12",
-   "last_seen": "2026-10-12",
+   "last_seen": "2026-10-25",
    "location": "Moenchengladbach",
    "reports": [
     "2026-10-12"
@@ -7313,6 +7357,25 @@
     "https://www.voltige-services.com/presentation/recrutement.html"
    ]
   },
+  "2584fc8405": {
+   "city": "speichersdorf",
+   "co": "hoessl personal",
+   "company": "Hoessl Personal GmbH",
+   "country": "Germany",
+   "first_seen": "2026-10-25",
+   "last_reported": "2026-10-25",
+   "last_seen": "2026-10-25",
+   "location": "Speichersdorf",
+   "reports": [
+    "2026-10-25"
+   ],
+   "status": "active",
+   "ti": "ausbildung zum industriekletterer",
+   "title": "Ausbildung zum Industriekletterer",
+   "urls": [
+    "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1001731008-S"
+   ]
+  },
   "2598b25629": {
    "city": "",
    "co": "marine service international",
@@ -8638,6 +8701,26 @@
    "title": "Monteur-échafaudeur H/F/X",
    "urls": [
     "https://to.indeed.com/aakv6hwnvrgv"
+   ]
+  },
+  "2b72c995e1": {
+   "city": "zaragoza",
+   "co": "unknown infojobs listing",
+   "company": "unknown (InfoJobs listing)",
+   "country": "Spain",
+   "first_seen": "2026-10-25",
+   "last_reported": "2026-10-25",
+   "last_seen": "2026-10-25",
+   "location": "Zaragoza",
+   "posted": "2026-10-25",
+   "reports": [
+    "2026-10-25"
+   ],
+   "status": "active",
+   "ti": "oficial en trabajos verticales",
+   "title": "Oficial en trabajos verticales",
+   "urls": [
+    "https://www.infojobs.net/zaragoza/oficial-trabajos-verticales/of-i1600928a4848d6b2f5ce377541e373"
    ]
   },
   "2b8d6f5393": {
@@ -12400,14 +12483,14 @@
    "country": "Germany",
    "first_seen": "2026-10-12",
    "last_reported": "2026-10-12",
-   "last_seen": "2026-10-12",
+   "last_seen": "2026-10-25",
    "location": "Schwarzheide",
    "reports": [
     "2026-10-12"
    ],
    "status": "active",
    "ti": "industriekletterer hoehenarbeiter",
-   "title": "Industriekletterer/Hoehenarbeiter",
+   "title": "Industriekletterer / Hoehenarbeiter (m/w/d)",
    "urls": [
     "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003766387-S"
    ]
@@ -14855,6 +14938,28 @@
     "https://to.indeed.com/aahqzxqgtbp9"
    ]
   },
+  "4cb9174a48": {
+   "city": "lyon",
+   "co": "temporis interim",
+   "company": "Temporis (interim)",
+   "country": "France",
+   "excluded": {
+    "date": "2026-10-25",
+    "reason": "likely stale (posted 96d ago, could not confirm still open)"
+   },
+   "first_seen": "2026-10-25",
+   "last_reported": null,
+   "last_seen": "2026-10-25",
+   "location": "Lyon",
+   "posted": "2026-07-21",
+   "reports": [],
+   "status": "active",
+   "ti": "cordiste etancheite sur cordes",
+   "title": "Cordiste H/F (etancheite sur cordes)",
+   "urls": [
+    "https://candidat.francetravail.fr/offres/recherche/detail/3866657"
+   ]
+  },
   "4cbc8965a2": {
    "city": "caen",
    "co": "motiv interim",
@@ -16736,6 +16841,25 @@
     "https://www.manpower.nl/en/jobs/198182/service-technician-wind-turbines-netherlands"
    ]
   },
+  "563e6dc43a": {
+   "city": "multiple",
+   "co": "rts wind",
+   "company": "RTS Wind",
+   "country": "Germany",
+   "first_seen": "2026-10-25",
+   "last_reported": "2026-10-25",
+   "last_seen": "2026-10-25",
+   "location": "multiple (PT/UK/DE/AT)",
+   "reports": [
+    "2026-10-25"
+   ],
+   "status": "active",
+   "ti": "senior rope access technician rotor blade",
+   "title": "Senior Rope Access Technician (Rotor Blade)",
+   "urls": [
+    "https://rejobs.org/en/renewable-energy-jobs/106092-senior-rope-access-technician-rts-wind"
+   ]
+  },
   "5640e36768": {
    "city": "",
    "co": "linkedin jobs aggregator",
@@ -17049,6 +17173,25 @@
    "title": "Technicienne/Technicien cordiste",
    "urls": [
     "https://to.indeed.com/aalzdcm22nfn"
+   ]
+  },
+  "5878a81775": {
+   "city": "xeuilley",
+   "co": "gezim interim",
+   "company": "Gezim (interim)",
+   "country": "France",
+   "first_seen": "2026-10-25",
+   "last_reported": "2026-10-25",
+   "last_seen": "2026-10-25",
+   "location": "Xeuilley",
+   "reports": [
+    "2026-10-25"
+   ],
+   "status": "active",
+   "ti": "cordiste domaine industriel",
+   "title": "Cordiste - Domaine Industriel H/F",
+   "urls": [
+    "https://candidat.francetravail.fr/offres/recherche/detail/3914040"
    ]
   },
   "587b20ab9e": {
@@ -17585,6 +17728,25 @@
    "title": "Industriekletterer (m/w/d) Rotorblattreparaturen — Magdeburg",
    "urls": [
     "https://jobs.rts-wind.de/stellenangebote/Industriekletterer-m-w-d-Rotorblattreparaturen-Magdeburg-RTS-Wind-AG--840939389"
+   ]
+  },
+  "5a3a6950a4": {
+   "city": "ripollet",
+   "co": "unknown infojobs listing",
+   "company": "unknown (InfoJobs listing)",
+   "country": "Spain",
+   "first_seen": "2026-10-25",
+   "last_reported": "2026-10-25",
+   "last_seen": "2026-10-25",
+   "location": "Ripollet",
+   "reports": [
+    "2026-10-25"
+   ],
+   "status": "active",
+   "ti": "tecnico a en trabajos verticales",
+   "title": "Tecnico/a en trabajos verticales",
+   "urls": [
+    "https://www.infojobs.net/ripollet/tecnico-trabajos-verticales/of-i5ccf6b5eb54ae7987c896d64f39e3a"
    ]
   },
   "5a3f2ffc3a": {
@@ -22310,6 +22472,25 @@
    "title": "Vacature Touwtechnieker",
    "urls": [
     "https://www.cri-ropeaccess.com/pages/nl/vacature.html"
+   ]
+  },
+  "7304bf1332": {
+   "city": "wildau",
+   "co": "unknown thelocalcom listing",
+   "company": "unknown (thelocal.com listing)",
+   "country": "Germany",
+   "first_seen": "2026-10-25",
+   "last_reported": "2026-10-25",
+   "last_seen": "2026-10-25",
+   "location": "Wildau, Brandenburg",
+   "reports": [
+    "2026-10-25"
+   ],
+   "status": "active",
+   "ti": "rope access technicians level 2 3 blade inspection repair",
+   "title": "Rope Access Technicians Level 2/3 (m/w/d) - blade inspection & repair",
+   "urls": [
+    "https://jobs.thelocal.com/jobs/rope-access-technicians-level-2-3-mwd-in-wildau-brandenburg-de/"
    ]
   },
   "73214cc122": {
@@ -35405,6 +35586,25 @@
     "https://to.indeed.com/aab4c8qyz6lq"
    ]
   },
+  "b7e37a51ab": {
+   "city": "projects across europe",
+   "co": "coast recruiter",
+   "company": "Coast (recruiter)",
+   "country": "United Kingdom",
+   "first_seen": "2026-10-25",
+   "last_reported": "2026-10-25",
+   "last_seen": "2026-10-25",
+   "location": "projects across Europe (recruiter based Dundee, UK)",
+   "reports": [
+    "2026-10-25"
+   ],
+   "status": "active",
+   "ti": "rope access blade repair technicians",
+   "title": "Rope access blade repair technicians",
+   "urls": [
+    "https://coast.recruitee.com/o/rope-access-blade-repair-technicians"
+   ]
+  },
   "b7e5895bad": {
    "city": "liverpool bay",
    "co": "copius",
@@ -35695,6 +35895,25 @@
    "title": "Geotechnical Rope Access roles",
    "urls": [
     "https://www.dangleacademy.com/geo-technical"
+   ]
+  },
+  "b9d6de6a9a": {
+   "city": "zaragoza",
+   "co": "unknown infojobs listing",
+   "company": "unknown (InfoJobs listing)",
+   "country": "Spain",
+   "first_seen": "2026-10-25",
+   "last_reported": "2026-10-25",
+   "last_seen": "2026-10-25",
+   "location": "Zaragoza",
+   "reports": [
+    "2026-10-25"
+   ],
+   "status": "active",
+   "ti": "tecnico a en trabajos verticales",
+   "title": "Tecnico/a en trabajos verticales",
+   "urls": [
+    "https://www.infojobs.net/zaragoza/tecnico-trabajos-verticales/of-i7ebc50f1164c18860d070e314258f8"
    ]
   },
   "b9fbda8f89": {
@@ -36946,11 +37165,11 @@
   "c08936d577": {
    "city": "troisdorf",
    "co": "industriekletterer bonn inh toni harbig",
-   "company": "Industriekletterer Bonn Inh. Toni Harbig",
+   "company": "Industriekletterer Bonn (Inh. Toni Harbig)",
    "country": "Germany",
    "first_seen": "2026-08-28",
    "last_reported": "2026-10-11",
-   "last_seen": "2026-10-23",
+   "last_seen": "2026-10-25",
    "location": "Troisdorf",
    "reports": [
     "2026-08-28",
@@ -44261,6 +44480,25 @@
     "https://hijobs.net/job/305050/irata-technicians"
    ]
   },
+  "e56a07a7f0": {
+   "city": "rostock",
+   "co": "ventotec solution",
+   "company": "Ventotec Solution",
+   "country": "Germany",
+   "first_seen": "2026-10-25",
+   "last_reported": "2026-10-25",
+   "last_seen": "2026-10-25",
+   "location": "Rostock",
+   "reports": [
+    "2026-10-25"
+   ],
+   "status": "active",
+   "ti": "industriekletterer rotorblatt level 1 3 seil buehne",
+   "title": "Industriekletterer Rotorblatt Level 1-3 Seil & Buehne",
+   "urls": [
+    "https://www.stepstone.de/stellenangebote--Industriekletterer-Rotorblatt-Level-1-3-Seil-Buehne-Rostock-Ventotec-Solution--11566958-inline.html"
+   ]
+  },
   "e593bc0171": {
    "city": "zuid holland",
    "co": "swire",
@@ -46327,6 +46565,25 @@
    "title": "Service Technician (wind turbine)",
    "urls": [
     "https://careers.vestas.com/job/Aarhus-N-Service-Technician-Regi/1395584833/"
+   ]
+  },
+  "f1c600075b": {
+   "city": "",
+   "co": "unknown jobindex listing",
+   "company": "unknown (Jobindex listing)",
+   "country": "Denmark",
+   "first_seen": "2026-10-25",
+   "last_reported": "2026-10-25",
+   "last_seen": "2026-10-25",
+   "location": "Denmark (city not shown in snippet)",
+   "reports": [
+    "2026-10-25"
+   ],
+   "status": "active",
+   "ti": "rope access technician",
+   "title": "Rope Access Technician",
+   "urls": [
+    "https://www.jobindex.dk/jobannonce/r12448447/rope-access-technician"
    ]
   },
   "f1dc4fc883": {
@@ -48815,7 +49072,7 @@
   }
  },
  "meta": {
-  "last_run": "2026-10-23",
+  "last_run": "2026-10-25",
   "migrated_from": "seen_jobs.json"
  },
  "version": 1
