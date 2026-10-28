@@ -1,6 +1,6 @@
 # rope-access-job-search
 rope access job search Europe
 
-Latest: digests/2026-10-27.md
+Latest: digests/2026-10-28.md
 
 How the daily run works (dedup, re-post handling, dead-link filtering, search plan): [docs/PROCESS.md](docs/PROCESS.md). Tool: `tools/jobtool.py`, tests: `python3 tools/test_jobtool.py`.
