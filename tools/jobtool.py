@@ -632,7 +632,7 @@ def cmd_process(args):
     save_state(state)
     q_stats = collections.defaultdict(lambda: [0, 0])
     for q in meta.get("queries", []):
-        q_stats[q.get("id") or q.get("q", "?")][0] += q.get("results", 0)
+        q_stats[q.get("id") or q.get("q", "?")][0] += q.get("results") or 0
     for d in ds:
         if d["verdict"] == "report" and d["cand"].get("query") in q_stats:
             q_stats[d["cand"]["query"]][1] += 1
