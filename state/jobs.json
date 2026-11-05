@@ -1064,20 +1064,22 @@
    "company": "Samsic HR Italia S.p.A.",
    "country": "Italy",
    "first_seen": "2026-08-08",
-   "last_reported": "2026-10-04",
-   "last_seen": "2026-10-04",
+   "last_reported": "2026-11-05",
+   "last_seen": "2026-11-05",
    "location": "Cinisello Balsamo, Lombardia",
+   "posted": "2026-11-04",
    "reports": [
     "2026-08-08",
     "2026-08-19",
     "2026-08-24",
-    "2026-10-04"
+    "2026-10-04",
+    "2026-11-05"
    ],
    "status": "active",
    "ti": "un operatore su fune manutentore",
-   "title": "UN OPERATORE SU FUNE - MANUTENTORE (H/F/D)(M/F/X)",
+   "title": "UN OPERATORE SU FUNE - MANUTENTORE (M/F/X)",
    "urls": [
-    "https://to.indeed.com/aatnfg4z8rhh"
+    "https://to.indeed.com/aamrjvrsfbrk"
    ]
   },
   "0570f28a05": {
@@ -3589,8 +3591,8 @@
    "country": "Spain",
    "first_seen": "2026-09-29",
    "last_reported": "2026-09-30",
-   "last_seen": "2026-10-29",
-   "location": "A Coruña, A Coruña provincia",
+   "last_seen": "2026-11-05",
+   "location": "A Coruña",
    "posted": "2026-04-27",
    "reports": [
     "2026-09-29",
@@ -3600,7 +3602,7 @@
    "ti": "tecnico de reparacion de palas movilidad nacional irata 3",
    "title": "Técnico de reparación de palas -movilidad nacional - IRATA 3",
    "urls": [
-    "https://to.indeed.com/aags4q7g6zsj"
+    "https://to.indeed.com/aat6pqw6jkk8"
    ]
   },
   "12a87aa37f": {
@@ -4786,7 +4788,7 @@
    "country": "Germany",
    "first_seen": "2026-08-08",
    "last_reported": "2026-09-07",
-   "last_seen": "2026-11-04",
+   "last_seen": "2026-11-05",
    "location": "Hamburg",
    "posted": "2026-02-27",
    "reports": [
@@ -4803,7 +4805,7 @@
    "ti": "vollzeit kletterer industriekletterer",
    "title": "Vollzeit-Kletterer/Industriekletterer",
    "urls": [
-    "https://to.indeed.com/aatrrn8k47hz"
+    "https://to.indeed.com/aat8czmmxkvj"
    ]
   },
   "1798dab2a7": {
@@ -4963,15 +4965,15 @@
   "18040637c1": {
    "city": "",
    "co": "langset rope access",
-   "company": "Langset Rope Access",
+   "company": "LANGSET ROPE ACCESS",
    "country": "Norway",
    "excluded": {
-    "date": "2026-10-22",
+    "date": "2026-11-05",
     "reason": "off-topic (title has no rope/height-access signal)"
    },
    "first_seen": "2026-10-04",
    "last_reported": "2026-10-04",
-   "last_seen": "2026-11-04",
+   "last_seen": "2026-11-05",
    "location": "Norway",
    "reports": [
     "2026-10-04"
@@ -5572,7 +5574,7 @@
    "country": "United Kingdom",
    "first_seen": "2026-11-04",
    "last_reported": "2026-11-04",
-   "last_seen": "2026-11-04",
+   "last_seen": "2026-11-05",
    "location": "London",
    "posted": "2026-11-04",
    "reports": [
@@ -5582,7 +5584,7 @@
    "ti": "irata rope access technician",
    "title": "IRATA Rope Access Technician",
    "urls": [
-    "https://to.indeed.com/aapgzltsdpty"
+    "https://to.indeed.com/aapznxjbjz64"
    ]
   },
   "1b2a56aecc": {
@@ -6605,6 +6607,25 @@
     "https://de.jooble.org/stellenangebote-seilzugangstechniker"
    ]
   },
+  "200dccd0f1": {
+   "city": "",
+   "co": "anetva member employer",
+   "company": "(Anetva member employer)",
+   "country": "Spain",
+   "first_seen": "2026-11-05",
+   "last_reported": "2026-11-05",
+   "last_seen": "2026-11-05",
+   "location": "Spain",
+   "reports": [
+    "2026-11-05"
+   ],
+   "status": "active",
+   "ti": "operario en trabajos verticales con conocimientos de albanileria instalacion de canalones fachadas lineas de vida etc",
+   "title": "Operario en Trabajos Verticales (con conocimientos de albañilería, instalación de canalones, fachadas, líneas de vida, etc)",
+   "urls": [
+    "https://www.anetva.org/oferta-de-empleo/operario-en-trabajos-verticales-con-conocimientos-de-albanileria-instalacion-de-canalones-fachadas-lineas-de-vida-etc/"
+   ]
+  },
   "202038aa77": {
    "city": "cordemais",
    "co": "",
@@ -6900,7 +6921,7 @@
    "country": "France",
    "first_seen": "2026-11-01",
    "last_reported": "2026-11-01",
-   "last_seen": "2026-11-04",
+   "last_seen": "2026-11-05",
    "location": "Paris (75)",
    "posted": "2026-10-27",
    "reports": [
@@ -6910,7 +6931,7 @@
    "ti": "chef d equipe cordiste",
    "title": "Chef d'équipe cordiste (h/f)",
    "urls": [
-    "https://to.indeed.com/aa79gxzv8tk7"
+    "https://to.indeed.com/aa7wm8l4yl7t"
    ]
   },
   "2177956583": {
@@ -7602,12 +7623,12 @@
   "2545a4bb52": {
    "city": "valencia",
    "co": "anetva member employer",
-   "company": "Anetva member employer",
+   "company": "(Anetva member employer)",
    "country": "Spain",
    "first_seen": "2026-10-28",
    "last_reported": "2026-10-28",
-   "last_seen": "2026-10-28",
-   "location": "Valencia, Spain",
+   "last_seen": "2026-11-05",
+   "location": "Valencia",
    "reports": [
     "2026-10-28"
    ],
@@ -9406,11 +9427,11 @@
   "2daf6db330": {
    "city": "",
    "co": "anetva member employer",
-   "company": "Anetva member employer",
+   "company": "(Anetva member employer)",
    "country": "Spain",
    "first_seen": "2026-10-28",
    "last_reported": "2026-10-28",
-   "last_seen": "2026-10-28",
+   "last_seen": "2026-11-05",
    "location": "Spain",
    "reports": [
     "2026-10-28"
@@ -13235,7 +13256,7 @@
    "country": "Portugal",
    "first_seen": "2026-09-21",
    "last_reported": "2026-10-09",
-   "last_seen": "2026-11-04",
+   "last_seen": "2026-11-05",
    "location": "Lisboa",
    "posted": "2026-09-11",
    "reports": [
@@ -13251,7 +13272,7 @@
    "ti": "pedreiros e pintores de alturas trabalhos em rapel",
    "title": "Pedreiros e Pintores de Alturas / Trabalhos em Rapel (M/F)",
    "urls": [
-    "https://to.indeed.com/aaxlms7prjn6"
+    "https://to.indeed.com/aahpdtxbzmfx"
    ]
   },
   "417dc3785e": {
@@ -13739,7 +13760,7 @@
    "country": "France",
    "first_seen": "2026-10-15",
    "last_reported": "2026-10-15",
-   "last_seen": "2026-10-15",
+   "last_seen": "2026-11-05",
    "location": "Fécamp (76)",
    "posted": "2026-10-06",
    "reports": [
@@ -13749,7 +13770,7 @@
    "ti": "cordiste",
    "title": "Cordiste (h/f)",
    "urls": [
-    "https://to.indeed.com/aafdxxpwtkvd"
+    "https://to.indeed.com/aaf2vvqm2vmp"
    ]
   },
   "44737394bc": {
@@ -14681,7 +14702,7 @@
    "country": "France",
    "first_seen": "2026-08-20",
    "last_reported": "2026-09-21",
-   "last_seen": "2026-10-29",
+   "last_seen": "2026-11-05",
    "location": "Le Havre (76)",
    "posted": "2026-02-27",
    "reports": [
@@ -14694,7 +14715,7 @@
    "ti": "technicienne technicien cordiste le havre",
    "title": "Technicienne Technicien cordiste Le Havre",
    "urls": [
-    "https://to.indeed.com/aaph2cscnqbr"
+    "https://to.indeed.com/aalbyg9d4zwv"
    ]
   },
   "4837ebf81d": {
@@ -15891,12 +15912,12 @@
   "4e2e222680": {
    "city": "barcelona",
    "co": "anetva member employer",
-   "company": "Anetva member employer",
+   "company": "(Anetva member employer)",
    "country": "Spain",
    "first_seen": "2026-10-28",
    "last_reported": "2026-10-28",
-   "last_seen": "2026-10-28",
-   "location": "Barcelona, Spain",
+   "last_seen": "2026-11-05",
+   "location": "Barcelona",
    "reports": [
     "2026-10-28"
    ],
@@ -16098,7 +16119,7 @@
    "country": "France",
    "first_seen": "2026-08-19",
    "last_reported": "2026-10-04",
-   "last_seen": "2026-11-04",
+   "last_seen": "2026-11-05",
    "location": "Paris (75)",
    "posted": "2025-09-23",
    "reports": [
@@ -16115,7 +16136,7 @@
    "ti": "cordiste urbain cqp1 cqp2 catc",
    "title": "Cordiste urbain CQP1 / CQP2 / CATC (H/F)",
    "urls": [
-    "https://to.indeed.com/aac8txz6n76f"
+    "https://to.indeed.com/aad27srkytqz"
    ]
   },
   "4f614bc5b2": {
@@ -16125,9 +16146,9 @@
    "country": "Italy",
    "first_seen": "2026-10-20",
    "last_reported": "2026-10-20",
-   "last_seen": "2026-10-22",
-   "location": "Cesano Maderno",
-   "posted": "2026-10-16",
+   "last_seen": "2026-11-05",
+   "location": "Cesano Maderno, Lombardia",
+   "posted": "2026-10-27",
    "reports": [
     "2026-10-20"
    ],
@@ -16135,7 +16156,7 @@
    "ti": "muratore operaio edile con esperienza cesano maderno mb",
    "title": "Muratore/Operaio Edile con esperienza - Cesano Maderno (MB)",
    "urls": [
-    "https://to.indeed.com/aavh4bllzshq"
+    "https://to.indeed.com/aax6yk8mrjfg"
    ]
   },
   "4f6c9d9135": {
@@ -16412,14 +16433,14 @@
    "country": "Norway",
    "first_seen": "2026-10-12",
    "last_reported": "2026-10-12",
-   "last_seen": "2026-11-04",
+   "last_seen": "2026-11-05",
    "location": "Norway",
    "reports": [
     "2026-10-12"
    ],
    "status": "active",
    "ti": "tilkomsttekniker tt niva 1 2 3 klatrer",
-   "title": "Tilkomsttekniker, (TT) Nivå 1, 2, 3 (klatrer)",
+   "title": "Tilkomsttekniker (TT) Nivå 1, 2, 3 (klatrer)",
    "urls": [
     "https://karrierestart.no/ledig-stilling/295807"
    ]
@@ -16641,7 +16662,7 @@
    "country": "France",
    "first_seen": "2026-10-13",
    "last_reported": "2026-10-13",
-   "last_seen": "2026-11-04",
+   "last_seen": "2026-11-05",
    "location": "Île-de-France",
    "posted": "2026-10-05",
    "reports": [
@@ -16651,7 +16672,7 @@
    "ti": "chef d equipe cordiste urbain",
    "title": "Chef d'équipe cordiste urbain H/F",
    "urls": [
-    "https://to.indeed.com/aaptypr4r2ds"
+    "https://to.indeed.com/aatfqclbm97j"
    ]
   },
   "50dc6eeac6": {
@@ -16661,7 +16682,7 @@
    "country": "France",
    "first_seen": "2026-09-30",
    "last_reported": "2026-11-04",
-   "last_seen": "2026-11-04",
+   "last_seen": "2026-11-05",
    "location": "Éguilles (13)",
    "posted": "2026-11-04",
    "reports": [
@@ -16675,7 +16696,7 @@
    "ti": "technicien cordiste",
    "title": "Technicien cordiste H/F",
    "urls": [
-    "https://to.indeed.com/aakycwz7m6kf"
+    "https://to.indeed.com/aamcnflmnj4z"
    ]
   },
   "50ec274332": {
@@ -16799,7 +16820,7 @@
    "country": "Germany",
    "first_seen": "2026-09-26",
    "last_reported": "2026-10-29",
-   "last_seen": "2026-10-31",
+   "last_seen": "2026-11-05",
    "location": "Düsseldorf",
    "posted": "2026-10-29",
    "reports": [
@@ -16811,7 +16832,7 @@
    "ti": "industriekletterer",
    "title": "Industriekletterer m/w/d",
    "urls": [
-    "https://to.indeed.com/aay7sjn9d7jp"
+    "https://to.indeed.com/aavl4j27l2mw"
    ]
   },
   "51a4e8bc72": {
@@ -17551,6 +17572,28 @@
    "title": "Teamlead Blade Repair (m/w/d)",
    "urls": [
     "https://rejobs.org/en/renewable-energy-jobs/106607-teamlead-blade-repair-mwd-rts-wind"
+   ]
+  },
+  "55ff09320a": {
+   "city": "le havre",
+   "co": "ouest acro",
+   "company": "Ouest Acro",
+   "country": "France",
+   "excluded": {
+    "date": "2026-11-05",
+    "reason": "off-topic (judged by search run)"
+   },
+   "first_seen": "2026-11-05",
+   "last_reported": null,
+   "last_seen": "2026-11-05",
+   "location": "Le Havre (76)",
+   "posted": "2026-03-13",
+   "reports": [],
+   "status": "active",
+   "ti": "conducteur de travaux nucleaire",
+   "title": "Conducteur de travaux nucléaire F/H",
+   "urls": [
+    "https://to.indeed.com/aapvhtjyxsqp"
    ]
   },
   "560cb8672e": {
@@ -20301,8 +20344,8 @@
    "country": "United Kingdom",
    "first_seen": "2026-09-26",
    "last_reported": "2026-09-26",
-   "last_seen": "2026-10-27",
-   "location": "UK (offshore decommissioning)",
+   "last_seen": "2026-11-05",
+   "location": "United Kingdom",
    "posted": "2026-07-07",
    "reports": [
     "2026-09-26"
@@ -21171,7 +21214,7 @@
    },
    "first_seen": "2026-09-22",
    "last_reported": "2026-10-04",
-   "last_seen": "2026-11-01",
+   "last_seen": "2026-11-05",
    "location": "Milano, Lombardia",
    "posted": "2026-09-04",
    "reports": [
@@ -21182,7 +21225,7 @@
    "ti": "responsabile tecnico milano",
    "title": "Responsabile Tecnico Milano",
    "urls": [
-    "https://to.indeed.com/aap7btqpcfgr"
+    "https://to.indeed.com/aa24wds48qb6"
    ]
   },
   "6820cea9d4": {
@@ -23519,7 +23562,7 @@
    "country": "France",
    "first_seen": "2026-08-05",
    "last_reported": "2026-10-19",
-   "last_seen": "2026-11-04",
+   "last_seen": "2026-11-05",
    "location": "Bois-Colombes (92)",
    "posted": "2026-10-07",
    "reports": [
@@ -23530,7 +23573,7 @@
    "ti": "charge d affaires cordiste",
    "title": "Chargé d'affaires cordiste H/F",
    "urls": [
-    "https://to.indeed.com/aasb9xz7qyzw"
+    "https://to.indeed.com/aad2dtglccgp"
    ]
   },
   "73d8fbed65": {
@@ -23540,8 +23583,8 @@
    "country": "Norway",
    "first_seen": "2026-10-22",
    "last_reported": "2026-10-22",
-   "last_seen": "2026-11-04",
-   "location": "Norway (offshore)",
+   "last_seen": "2026-11-05",
+   "location": "Stavanger",
    "reports": [
     "2026-10-22"
    ],
@@ -23756,6 +23799,25 @@
    "urls": [
     "https://to.indeed.com/aamqcxtwptvf",
     "https://fr.indeed.com/viewjob?jk=205d1e461ade0f30"
+   ]
+  },
+  "75265f8572": {
+   "city": "",
+   "co": "anetva member employer",
+   "company": "(Anetva member employer)",
+   "country": "Spain",
+   "first_seen": "2026-11-05",
+   "last_reported": "2026-11-05",
+   "last_seen": "2026-11-05",
+   "location": "Spain",
+   "reports": [
+    "2026-11-05"
+   ],
+   "status": "active",
+   "ti": "tecnicos verticales con certificacion",
+   "title": "Técnicos Verticales con certificación",
+   "urls": [
+    "https://www.anetva.org/oferta-de-empleo/tecnicos-verticales-con-certificacion/"
    ]
   },
   "75276193ce": {
@@ -24567,7 +24629,7 @@
    "country": "Germany",
    "first_seen": "2026-08-05",
    "last_reported": "2026-10-22",
-   "last_seen": "2026-10-29",
+   "last_seen": "2026-11-05",
    "location": "Herne",
    "posted": "2026-10-04",
    "reports": [
@@ -24587,7 +24649,7 @@
    "ti": "aufsichtsfuhrender hohenarbeiter industriekletterer",
    "title": "Aufsichtsführender Höhenarbeiter / Industriekletterer (m/w/d)",
    "urls": [
-    "https://to.indeed.com/aa6ybglgpbqt"
+    "https://to.indeed.com/aavbppw7bv77"
    ]
   },
   "78bfd59f12": {
@@ -26608,7 +26670,7 @@
    "country": "France",
    "first_seen": "2026-08-06",
    "last_reported": "2026-10-19",
-   "last_seen": "2026-11-04",
+   "last_seen": "2026-11-05",
    "location": "Marseille (13)",
    "posted": "2026-10-19",
    "reports": [
@@ -26620,7 +26682,7 @@
    "ti": "cordiste couvreur",
    "title": "Cordiste Couvreur (H/F)",
    "urls": [
-    "https://to.indeed.com/aaft2v6nbnz6"
+    "https://to.indeed.com/aahx8l4khjpl"
    ]
   },
   "81cf3a96a5": {
@@ -27037,7 +27099,7 @@
    "country": "Germany",
    "first_seen": "2026-09-06",
    "last_reported": "2026-09-29",
-   "last_seen": "2026-11-04",
+   "last_seen": "2026-11-05",
    "location": "Bremen",
    "posted": "2026-08-26",
    "reports": [
@@ -27048,7 +27110,7 @@
    "ti": "wind turbine rope access technician rotor blades",
    "title": "Wind Turbine Rope Access Technician – Rotor Blades m/f/d",
    "urls": [
-    "https://to.indeed.com/aatkwlqc6nbn"
+    "https://to.indeed.com/aahjyw4pxkgt"
    ]
   },
   "83d0b04e54": {
@@ -28048,6 +28110,25 @@
     "https://www.hellowork.com/fr-fr/emplois/78254914.html"
    ]
   },
+  "89a7c1f728": {
+   "city": "",
+   "co": "anetva member employer",
+   "company": "(Anetva member employer)",
+   "country": "Spain",
+   "first_seen": "2026-11-05",
+   "last_reported": "2026-11-05",
+   "last_seen": "2026-11-05",
+   "location": "Spain",
+   "reports": [
+    "2026-11-05"
+   ],
+   "status": "active",
+   "ti": "2 trabajadores verticales",
+   "title": "2 Trabajadores Verticales",
+   "urls": [
+    "https://www.anetva.org/oferta-de-empleo/2-trabajadores-verticales/"
+   ]
+  },
   "89d53d5fc9": {
    "city": "offshore north sea",
    "co": "trs staffing",
@@ -28211,7 +28292,7 @@
    "country": "France",
    "first_seen": "2026-08-19",
    "last_reported": "2026-10-09",
-   "last_seen": "2026-10-15",
+   "last_seen": "2026-11-05",
    "location": "Lille (59)",
    "posted": "2026-07-06",
    "reports": [
@@ -28234,7 +28315,7 @@
    "ti": "cordiste",
    "title": "Cordiste H/F",
    "urls": [
-    "https://to.indeed.com/aakwmpsthzgq"
+    "https://to.indeed.com/aan8d2c4hjmb"
    ]
   },
   "8aab3820e9": {
@@ -28887,7 +28968,7 @@
    "country": "Ireland",
    "first_seen": "2026-11-04",
    "last_reported": "2026-11-04",
-   "last_seen": "2026-11-04",
+   "last_seen": "2026-11-05",
    "location": "Ireland",
    "posted": "2026-11-04",
    "reports": [
@@ -28897,7 +28978,7 @@
    "ti": "irata level 3 rope access supervisor",
    "title": "IRATA Level 3 Rope Access Supervisor",
    "urls": [
-    "https://to.indeed.com/aayyd2b9hx9y"
+    "https://to.indeed.com/aad79spbw7ys"
    ]
   },
   "8df78bef0c": {
@@ -30796,11 +30877,11 @@
   "970add20cb": {
    "city": "",
    "co": "anetva member employer",
-   "company": "Anetva member employer",
+   "company": "(Anetva member employer)",
    "country": "Spain",
    "first_seen": "2026-10-28",
    "last_reported": "2026-10-28",
-   "last_seen": "2026-10-28",
+   "last_seen": "2026-11-05",
    "location": "Spain",
    "reports": [
     "2026-10-28"
@@ -31232,7 +31313,7 @@
    "country": "France",
    "first_seen": "2026-10-29",
    "last_reported": "2026-10-29",
-   "last_seen": "2026-10-29",
+   "last_seen": "2026-11-05",
    "location": "Leforest (62)",
    "posted": "2026-10-28",
    "reports": [
@@ -31242,7 +31323,7 @@
    "ti": "technicien cordiste hautline",
    "title": "Technicien cordiste H/F — HAUTLINE",
    "urls": [
-    "https://to.indeed.com/aa6ts48jtwrq"
+    "https://to.indeed.com/aa7c7qc9hs4s"
    ]
   },
   "99a3a49da3": {
@@ -31329,7 +31410,7 @@
    "country": "France",
    "first_seen": "2026-08-20",
    "last_reported": "2026-10-05",
-   "last_seen": "2026-10-29",
+   "last_seen": "2026-11-05",
    "location": "Saint-Martin-du-Manoir (76)",
    "posted": "2026-03-12",
    "reports": [
@@ -31345,7 +31426,7 @@
    "ti": "cordiste irata 2 3",
    "title": "Cordiste IRATA 2 - 3 H/F",
    "urls": [
-    "https://to.indeed.com/aathqlzkxxt2"
+    "https://to.indeed.com/aashpps6mff4"
    ]
   },
   "9a705d2f1f": {
@@ -32324,21 +32405,22 @@
    "company": "Groupe NA",
    "country": "France",
    "first_seen": "2026-09-23",
-   "last_reported": "2026-10-04",
-   "last_seen": "2026-10-11",
+   "last_reported": "2026-11-05",
+   "last_seen": "2026-11-05",
    "location": "Aix-en-Provence (13)",
-   "posted": "2026-09-14",
+   "posted": "2026-11-05",
    "reports": [
     "2026-09-23",
     "2026-09-30",
     "2026-10-02",
-    "2026-10-04"
+    "2026-10-04",
+    "2026-11-05"
    ],
    "status": "active",
    "ti": "chef de chantier cordiste",
    "title": "Chef de chantier Cordiste H/F",
    "urls": [
-    "https://to.indeed.com/aajv2cqnyqkm"
+    "https://to.indeed.com/aat874k78b2h"
    ]
   },
   "a0809f29e0": {
@@ -32731,7 +32813,7 @@
    "country": "Germany",
    "first_seen": "2026-10-27",
    "last_reported": "2026-10-27",
-   "last_seen": "2026-11-04",
+   "last_seen": "2026-11-05",
    "location": "Bremen",
    "posted": "2026-10-26",
    "reports": [
@@ -32741,7 +32823,7 @@
    "ti": "industriekletterer hohenarbeiter",
    "title": "Industriekletterer / Höhenarbeiter (w/m/d)",
    "urls": [
-    "https://to.indeed.com/aa4wm94fjw2j"
+    "https://to.indeed.com/aartyjw6vpkt"
    ]
   },
   "a1f79f8f8d": {
@@ -33401,7 +33483,7 @@
    "country": "Italy",
    "first_seen": "2026-08-09",
    "last_reported": "2026-10-04",
-   "last_seen": "2026-11-01",
+   "last_seen": "2026-11-05",
    "location": "Roma, Lazio",
    "posted": "2025-09-18",
    "reports": [
@@ -33418,7 +33500,7 @@
    "ti": "operatore su fune",
    "title": "OPERATORE SU FUNE",
    "urls": [
-    "https://to.indeed.com/aab8282lcnlj",
+    "https://to.indeed.com/aa8hjzkdhptf",
     "https://it.bebee.com/job/ca46ddb38ea072fe5e4065935c58e8ea",
     "https://it.trabajo.org/offerta-3815-2c7033d7b88069a808f3c9eab1c223e9"
    ]
@@ -33983,7 +34065,7 @@
    "country": "France",
    "first_seen": "2026-08-06",
    "last_reported": "2026-10-20",
-   "last_seen": "2026-11-04",
+   "last_seen": "2026-11-05",
    "location": "Paris (75)",
    "posted": "2026-10-06",
    "reports": [
@@ -33999,7 +34081,7 @@
    "ti": "cordiste",
    "title": "Cordiste (h/f)",
    "urls": [
-    "https://to.indeed.com/aan6f4wb28gh",
+    "https://to.indeed.com/aa6sn9bmlysv",
     "https://www.motivinterim.fr/les-offres/cordiste-1541.html"
    ]
   },
@@ -34029,8 +34111,9 @@
    "country": "France",
    "first_seen": "2026-08-20",
    "last_reported": "2026-09-06",
-   "last_seen": "2026-09-06",
+   "last_seen": "2026-11-05",
    "location": "Le Havre (76)",
+   "posted": "2026-02-28",
    "reports": [
     "2026-08-20",
     "2026-08-21",
@@ -34041,7 +34124,7 @@
    "ti": "cordiste nucleaire",
    "title": "Cordiste nucléaire F/H",
    "urls": [
-    "https://to.indeed.com/aan2vlc96jxs"
+    "https://to.indeed.com/aahhb89mgnmw"
    ]
   },
   "a95fe8c7e8": {
@@ -34455,6 +34538,25 @@
     "https://to.indeed.com/aa6lch8wh8sy"
    ]
   },
+  "abd022ff1e": {
+   "city": "stavanger",
+   "co": "odfjell drilling",
+   "company": "Odfjell Drilling",
+   "country": "Norway",
+   "first_seen": "2026-11-05",
+   "last_reported": "2026-11-05",
+   "last_seen": "2026-11-05",
+   "location": "Stavanger",
+   "reports": [
+    "2026-11-05"
+   ],
+   "status": "active",
+   "ti": "rope axcess technician team lead rig inspection services",
+   "title": "Rope Axcess Technician Team Lead, Rig Inspection Services",
+   "urls": [
+    "https://karrierestart.no/ledig-stilling/899217"
+   ]
+  },
   "abd93a4363": {
    "city": "gelsenkirchen",
    "co": "gma werkstoffprufung",
@@ -34680,7 +34782,7 @@
    "country": "France",
    "first_seen": "2026-09-23",
    "last_reported": "2026-10-26",
-   "last_seen": "2026-11-04",
+   "last_seen": "2026-11-05",
    "location": "Lançon-Provence (13)",
    "posted": "2026-10-14",
    "reports": [
@@ -34693,7 +34795,7 @@
    "ti": "couvreur cordiste",
    "title": "Couvreur cordiste (H/F)",
    "urls": [
-    "https://to.indeed.com/aazhl2drmbr8"
+    "https://to.indeed.com/aajc6fkv9hmw"
    ]
   },
   "acdc7747a9": {
@@ -35390,12 +35492,12 @@
    "company": "Euretudes",
    "country": "France",
    "excluded": {
-    "date": "2026-11-02",
-    "reason": "likely stale (posted 406d ago, could not confirm still open)"
+    "date": "2026-11-05",
+    "reason": "likely stale (posted 409d ago, could not confirm still open)"
    },
    "first_seen": "2026-10-14",
    "last_reported": null,
-   "last_seen": "2026-11-02",
+   "last_seen": "2026-11-05",
    "location": "Paris (75)",
    "posted": "2025-09-22",
    "reports": [],
@@ -35403,7 +35505,7 @@
    "ti": "cordiste",
    "title": "cordiste H/F",
    "urls": [
-    "https://to.indeed.com/aacc7m4jd7yj"
+    "https://to.indeed.com/aa266qctcmgs"
    ]
   },
   "af74a157fe": {
@@ -39161,12 +39263,12 @@
    "company": "Langset Rope Access AS",
    "country": "Norway",
    "excluded": {
-    "date": "2026-10-22",
+    "date": "2026-11-05",
     "reason": "off-topic (title has no rope/height-access signal)"
    },
    "first_seen": "2026-10-04",
    "last_reported": "2026-10-04",
-   "last_seen": "2026-11-04",
+   "last_seen": "2026-11-05",
    "location": "Norway",
    "reports": [
     "2026-10-04"
@@ -40868,6 +40970,25 @@
     "https://www.networxrecruitment.com/Jobs/Feed?key=d1L9XVdLYT6mLKwXo3%2FVfrT346lFfupqZ998RQFEjO0%3D"
    ]
   },
+  "ca5f7b8b76": {
+   "city": "stavanger",
+   "co": "odfjell energy",
+   "company": "Odfjell Energy",
+   "country": "Norway",
+   "first_seen": "2026-11-05",
+   "last_reported": "2026-11-05",
+   "last_seen": "2026-11-05",
+   "location": "Stavanger",
+   "reports": [
+    "2026-11-05"
+   ],
+   "status": "active",
+   "ti": "rope access technician odfjell energy ris",
+   "title": "Rope Access Technician, Odfjell Energy - RIS",
+   "urls": [
+    "https://karrierestart.no/ledig-stilling/1662561"
+   ]
+  },
   "ca67b7dfb0": {
    "city": "",
    "co": "interim qualite",
@@ -41400,7 +41521,7 @@
    "country": "Germany",
    "first_seen": "2026-10-16",
    "last_reported": "2026-10-16",
-   "last_seen": "2026-11-04",
+   "last_seen": "2026-11-05",
    "location": "Rostock",
    "reports": [
     "2026-10-16"
@@ -41418,12 +41539,12 @@
    "company": "SPIE",
    "country": "Belgium",
    "excluded": {
-    "date": "2026-11-04",
-    "reason": "likely stale (posted 57d ago, could not confirm still open)"
+    "date": "2026-11-05",
+    "reason": "likely stale (posted 58d ago, could not confirm still open)"
    },
    "first_seen": "2026-10-11",
    "last_reported": null,
-   "last_seen": "2026-11-04",
+   "last_seen": "2026-11-05",
    "location": "Grobbendonk",
    "posted": "2026-09-08",
    "reports": [],
@@ -41431,7 +41552,7 @@
    "ti": "lijnwerker klimmer m v",
    "title": "LIJNWERKER/ KLIMMER M/V",
    "urls": [
-    "https://to.indeed.com/aa8bsmwjf2gd"
+    "https://to.indeed.com/aagvpgpx2k26"
    ]
   },
   "cc395568e8": {
@@ -43308,7 +43429,7 @@
    "country": "Germany",
    "first_seen": "2026-10-11",
    "last_reported": "2026-10-11",
-   "last_seen": "2026-11-04",
+   "last_seen": "2026-11-05",
    "location": "Mönchengladbach",
    "posted": "2026-10-14",
    "reports": [
@@ -44596,7 +44717,7 @@
    "country": "France",
    "first_seen": "2026-08-05",
    "last_reported": "2026-09-23",
-   "last_seen": "2026-11-04",
+   "last_seen": "2026-11-05",
    "location": "Ivry-sur-Seine (94)",
    "posted": "2026-02-28",
    "reports": [
@@ -44608,7 +44729,7 @@
    "ti": "cordiste urbain",
    "title": "Cordiste urbain F/H",
    "urls": [
-    "https://to.indeed.com/aaxcv7mrn6mv"
+    "https://to.indeed.com/aabc6pkfjjyn"
    ]
   },
   "dca16f53b0": {
@@ -45031,8 +45152,8 @@
    },
    "first_seen": "2026-08-08",
    "last_reported": "2026-10-11",
-   "last_seen": "2026-11-04",
-   "location": "Norway (offshore)",
+   "last_seen": "2026-11-05",
+   "location": "Norway",
    "reports": [
     "2026-08-08",
     "2026-10-11"
@@ -47287,19 +47408,20 @@
    "company": "Acrobatica",
    "country": "Italy",
    "first_seen": "2026-08-21",
-   "last_reported": "2026-10-15",
-   "last_seen": "2026-11-01",
+   "last_reported": "2026-11-05",
+   "last_seen": "2026-11-05",
    "location": "Velletri, Lazio",
    "posted": "2026-10-27",
    "reports": [
     "2026-08-21",
-    "2026-10-15"
+    "2026-10-15",
+    "2026-11-05"
    ],
    "status": "active",
    "ti": "muratore operaio edile con esperienza velletri",
    "title": "Muratore/Operaio Edile con esperienza - Velletri",
    "urls": [
-    "https://to.indeed.com/aakpsqzdq9bh"
+    "https://to.indeed.com/aa2llccgz7v7"
    ]
   },
   "eaf3b40e4b": {
@@ -48011,6 +48133,25 @@
     "https://karrierestart.no/ledig-stilling/199478"
    ]
   },
+  "ef3c9d8e63": {
+   "city": "",
+   "co": "via bundesagentur fur arbeit",
+   "company": "(via Bundesagentur für Arbeit)",
+   "country": "Germany",
+   "first_seen": "2026-11-05",
+   "last_reported": "2026-11-05",
+   "last_seen": "2026-11-05",
+   "location": "Germany",
+   "reports": [
+    "2026-11-05"
+   ],
+   "status": "active",
+   "ti": "industriekletterer hohenarbeiter",
+   "title": "Industriekletterer / Höhenarbeiter",
+   "urls": [
+    "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003809419-S"
+   ]
+  },
   "ef3f8762dc": {
    "city": "dompierre sur besbre",
    "co": "le pal",
@@ -48056,12 +48197,12 @@
    "company": "Acrobatica",
    "country": "Italy",
    "excluded": {
-    "date": "2026-11-01",
-    "reason": "likely stale (posted 244d ago, could not confirm still open)"
+    "date": "2026-11-05",
+    "reason": "likely stale (posted 248d ago, could not confirm still open)"
    },
    "first_seen": "2026-10-20",
    "last_reported": null,
-   "last_seen": "2026-11-01",
+   "last_seen": "2026-11-05",
    "location": "Roma, Lazio",
    "posted": "2026-03-02",
    "reports": [],
@@ -48069,7 +48210,7 @@
    "ti": "tecnico commerciale roma",
    "title": "Tecnico Commerciale Roma",
    "urls": [
-    "https://to.indeed.com/aagdb8l8nqrt"
+    "https://to.indeed.com/aab2qxx8f7lb"
    ]
   },
   "ef6a8ec1f3": {
@@ -48638,8 +48779,8 @@
    "country": "Germany",
    "first_seen": "2026-10-13",
    "last_reported": "2026-10-13",
-   "last_seen": "2026-11-01",
-   "location": "Schwarzheide",
+   "last_seen": "2026-11-05",
+   "location": "Germany",
    "reports": [
     "2026-10-13"
    ],
@@ -48987,14 +49128,14 @@
    "country": "Norway",
    "first_seen": "2026-10-26",
    "last_reported": "2026-10-26",
-   "last_seen": "2026-11-03",
+   "last_seen": "2026-11-05",
    "location": "Norway",
    "reports": [
     "2026-10-26"
    ],
    "status": "active",
    "ti": "discipline lead rope access",
-   "title": "Discipline Lead Rope Access",
+   "title": "Discipline lead rope access",
    "urls": [
     "https://karrierestart.no/ledig-stilling/307029"
    ]
@@ -50658,21 +50799,23 @@
    ]
   },
   "fd4bd51cd7": {
-   "city": "",
+   "city": "le havre",
    "co": "ouest acro",
    "company": "Ouest Acro",
-   "country": "",
+   "country": "France",
    "first_seen": "2026-09-07",
    "last_reported": "2026-09-07",
-   "last_seen": "2026-09-07",
-   "location": "France (Laval/Nantes/Paris/Le Havre/Chambéry/Chinon)",
+   "last_seen": "2026-11-05",
+   "location": "Le Havre (76)",
+   "posted": "2026-02-28",
    "reports": [
     "2026-09-07"
    ],
    "status": "active",
    "ti": "cordiste industrie",
-   "title": "Cordiste Industrie (F/H)",
+   "title": "Cordiste industrie F/H",
    "urls": [
+    "https://to.indeed.com/aahqjk7cyvqv",
     "https://www.talentdetection.com/bara-investissement-groupe-ouest-acro/offre-12997-4tfjDU"
    ]
   },
@@ -51196,7 +51339,7 @@
   }
  },
  "meta": {
-  "last_run": "2026-11-04",
+  "last_run": "2026-11-05",
   "migrated_from": "seen_jobs.json"
  },
  "version": 1
