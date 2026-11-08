@@ -5110,7 +5110,7 @@
   "18040637c1": {
    "city": "",
    "co": "langset rope access",
-   "company": "Langset Rope Access",
+   "company": "Langset Rope Access AS",
    "country": "Norway",
    "excluded": {
     "date": "2026-11-05",
@@ -5118,7 +5118,7 @@
    },
    "first_seen": "2026-10-04",
    "last_reported": "2026-10-04",
-   "last_seen": "2026-11-07",
+   "last_seen": "2026-11-08",
    "location": "Norway",
    "reports": [
     "2026-10-04"
@@ -10636,7 +10636,7 @@
    "country": "Norway",
    "first_seen": "2026-10-14",
    "last_reported": "2026-10-14",
-   "last_seen": "2026-11-07",
+   "last_seen": "2026-11-08",
    "location": "Norway",
    "reports": [
     "2026-10-14"
@@ -15381,6 +15381,25 @@
     "https://www.novikontas.lt/en/onshore/scaffolder-norway"
    ]
   },
+  "49e6cc674b": {
+   "city": "",
+   "co": "unspecified anetva bolsa empleo listing",
+   "company": "unspecified (ANETVA bolsa de empleo listing)",
+   "country": "Spain",
+   "first_seen": "2026-11-08",
+   "last_reported": "2026-11-08",
+   "last_seen": "2026-11-08",
+   "location": "Spain",
+   "reports": [
+    "2026-11-08"
+   ],
+   "status": "active",
+   "ti": "tecnicos verticales con certificacion",
+   "title": "Técnicos Verticales con certificación",
+   "urls": [
+    "https://www.anetva.org/oferta-de-empleo/tecnicos-verticales-con-certificacion/"
+   ]
+  },
   "4a0e729147": {
    "city": "",
    "co": "accenture",
@@ -16788,7 +16807,7 @@
    "country": "Norway",
    "first_seen": "2026-10-12",
    "last_reported": "2026-10-12",
-   "last_seen": "2026-11-06",
+   "last_seen": "2026-11-08",
    "location": "Norway",
    "reports": [
     "2026-10-12"
@@ -17818,7 +17837,7 @@
    "country": "Germany",
    "first_seen": "2026-11-03",
    "last_reported": "2026-11-03",
-   "last_seen": "2026-11-07",
+   "last_seen": "2026-11-08",
    "location": "Germany",
    "reports": [
     "2026-11-03"
@@ -17930,6 +17949,44 @@
    "title": "Rope Access Technician (Window Cleaning)",
    "urls": [
     "https://irata.org/jobs/article/rope-access-technician-window-cleaning-68fb55518af322.60786892/"
+   ]
+  },
+  "559cf7540a": {
+   "city": "",
+   "co": "unspecified anetva bolsa empleo listing",
+   "company": "unspecified (ANETVA bolsa de empleo listing)",
+   "country": "Spain",
+   "first_seen": "2026-11-08",
+   "last_reported": "2026-11-08",
+   "last_seen": "2026-11-08",
+   "location": "Spain",
+   "reports": [
+    "2026-11-08"
+   ],
+   "status": "active",
+   "ti": "2 trabajadores verticales",
+   "title": "2 Trabajadores Verticales",
+   "urls": [
+    "https://www.anetva.org/oferta-de-empleo/2-trabajadores-verticales/"
+   ]
+  },
+  "55c0b713c3": {
+   "city": "",
+   "co": "unspecified anetva bolsa empleo listing",
+   "company": "unspecified (ANETVA bolsa de empleo listing)",
+   "country": "Spain",
+   "first_seen": "2026-11-08",
+   "last_reported": "2026-11-08",
+   "last_seen": "2026-11-08",
+   "location": "Spain",
+   "reports": [
+    "2026-11-08"
+   ],
+   "status": "active",
+   "ti": "tecnico en trabajos verticales con cualificacion anetva irata nivel 3",
+   "title": "Técnico en Trabajos Verticales con cualificación ANETVA/IRATA nivel 3",
+   "urls": [
+    "https://www.anetva.org/oferta-de-empleo/tecnico-en-trabajos-verticales-con-cualificacion-anetva-irata-nivel-3/"
    ]
   },
   "55d6014dfc": {
@@ -18895,7 +18952,7 @@
    "country": "Portugal",
    "first_seen": "2026-11-07",
    "last_reported": "2026-11-07",
-   "last_seen": "2026-11-07",
+   "last_seen": "2026-11-08",
    "location": "Portugal",
    "reports": [
     "2026-11-07"
@@ -24151,7 +24208,7 @@
    "country": "Norway",
    "first_seen": "2026-10-22",
    "last_reported": "2026-10-22",
-   "last_seen": "2026-11-07",
+   "last_seen": "2026-11-08",
    "location": "Norway",
    "reports": [
     "2026-10-22"
@@ -25441,7 +25498,7 @@
    "country": "Norway",
    "first_seen": "2026-08-20",
    "last_reported": "2026-10-11",
-   "last_seen": "2026-11-07",
+   "last_seen": "2026-11-08",
    "location": "Norway",
    "reports": [
     "2026-08-20",
@@ -35106,6 +35163,25 @@
     "https://to.indeed.com/aassyl4kgww9"
    ]
   },
+  "aade924796": {
+   "city": "amora",
+   "co": "unspecified recruiter",
+   "company": "unspecified recruiter",
+   "country": "Portugal",
+   "first_seen": "2026-11-08",
+   "last_reported": "2026-11-08",
+   "last_seen": "2026-11-08",
+   "location": "Amora, Portugal",
+   "reports": [
+    "2026-11-08"
+   ],
+   "status": "active",
+   "ti": "alpinista industrial projetos nos eua",
+   "title": "Alpinista Industrial - Projetos nos EUA",
+   "urls": [
+    "https://www.olx.pt/anuncio/emprego/alpinista-industrial-projetos-nos-eua-IDJ8RnL.html"
+   ]
+  },
   "aadf10891f": {
    "city": "bretagne",
    "co": "jarnias",
@@ -39693,8 +39769,8 @@
    "country": "Germany",
    "first_seen": "2026-08-28",
    "last_reported": "2026-10-11",
-   "last_seen": "2026-11-07",
-   "location": "Troisdorf",
+   "last_seen": "2026-11-08",
+   "location": "Troisdorf, Germany",
    "reports": [
     "2026-08-28",
     "2026-10-11"
@@ -41193,8 +41269,8 @@
    "country": "United Kingdom",
    "first_seen": "2026-10-14",
    "last_reported": "2026-10-15",
-   "last_seen": "2026-11-07",
-   "location": "Liverpool Bay (offshore)",
+   "last_seen": "2026-11-08",
+   "location": "Liverpool Bay, United Kingdom (offshore)",
    "posted": "2026-07-07",
    "reports": [
     "2026-10-15"
@@ -42381,8 +42457,8 @@
    "country": "Germany",
    "first_seen": "2026-10-16",
    "last_reported": "2026-10-16",
-   "last_seen": "2026-11-07",
-   "location": "Rostock",
+   "last_seen": "2026-11-08",
+   "location": "Rostock, Germany",
    "posted": "2026-08-14",
    "reports": [
     "2026-10-16"
@@ -42558,14 +42634,14 @@
    "country": "Germany",
    "first_seen": "2026-11-02",
    "last_reported": "2026-11-02",
-   "last_seen": "2026-11-02",
-   "location": "Mönchengladbach",
+   "last_seen": "2026-11-08",
+   "location": "Mönchengladbach, Germany",
    "reports": [
     "2026-11-02"
    ],
    "status": "active",
    "ti": "industriekletterer in vollzeit gesucht",
-   "title": "Industriekletterer (m/w/d) in Vollzeit gesucht!",
+   "title": "Industriekletterer (m/w/d) in Vollzeit gesucht",
    "urls": [
     "https://www.stepstone.de/stellenangebote--Industriekletterer-m-w-d-in-Vollzeit-gesucht-Moenchengladbach-Vogtmann-Montage-Klettertechnik-e-K--14076960-inline.html"
    ]
@@ -48435,6 +48511,25 @@
     "https://www.camo-emploi.fr/offres/cordiste-nettoyage-vitre-h-f-115040-c6m"
    ]
   },
+  "eb16a55544": {
+   "city": "",
+   "co": "unspecified anetva bolsa empleo listing",
+   "company": "unspecified (ANETVA bolsa de empleo listing)",
+   "country": "Spain",
+   "first_seen": "2026-11-08",
+   "last_reported": "2026-11-08",
+   "last_seen": "2026-11-08",
+   "location": "Spain",
+   "reports": [
+    "2026-11-08"
+   ],
+   "status": "active",
+   "ti": "trabajadores especialistas en trabajos verticales",
+   "title": "Trabajadores especialistas en trabajos verticales",
+   "urls": [
+    "https://www.anetva.org/oferta-de-empleo/trabajadores-especialistas-en-trabajos-verticales/"
+   ]
+  },
   "eb3d452de7": {
    "city": "deutschland",
    "co": "targethunting",
@@ -52416,7 +52511,7 @@
   }
  },
  "meta": {
-  "last_run": "2026-11-07",
+  "last_run": "2026-11-08",
   "migrated_from": "seen_jobs.json"
  },
  "version": 1
